@@ -59,7 +59,7 @@ final class Altilly implements Exchange
         return array_map(fn ($day) => [
             'date' => (string) Carbon::parse($day['timestamp']),
             'rate' => $day['close'],
-            ], $response);
+        ], $response);
     }
 
     /**
