@@ -30,6 +30,9 @@ use KodeKeep\CommonCryptoExchange\Drivers\Kraken;
 use KodeKeep\CommonCryptoExchange\Drivers\OKCoin;
 use KodeKeep\CommonCryptoExchange\Drivers\Poloniex;
 
+/**
+ * Undocumented class.
+ */
 final class ExchangeFactory
 {
     /**

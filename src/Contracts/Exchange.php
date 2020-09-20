@@ -13,8 +13,8 @@ declare(strict_types=1);
 
 namespace KodeKeep\CommonCryptoExchange\Contracts;
 
-use KodeKeep\CommonCryptoExchange\Enums\Rate;
-use KodeKeep\CommonCryptoExchange\Enums\Ticker;
+use KodeKeep\CommonCryptoExchange\DTO\Rate;
+use KodeKeep\CommonCryptoExchange\DTO\Ticker;
 
 interface Exchange
 {

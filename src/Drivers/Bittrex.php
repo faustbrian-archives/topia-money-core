@@ -16,7 +16,7 @@ namespace KodeKeep\CommonCryptoExchange\Drivers;
 use Carbon\Carbon;
 use Illuminate\Support\Facades\Http;
 use KodeKeep\CommonCryptoExchange\Contracts\Exchange;
-use KodeKeep\CommonCryptoExchange\Enums\Ticker;
+use KodeKeep\CommonCryptoExchange\DTO\Ticker;
 use KodeKeep\CommonCryptoExchange\Helper\Client;
 use KodeKeep\CommonCryptoExchange\Helpers\ResolveScientificNotation;
 

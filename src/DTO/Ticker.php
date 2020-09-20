@@ -15,7 +15,10 @@ namespace KodeKeep\CommonCryptoExchange\DTO;
 
 use Spatie\DataTransferObject\DataTransferObject;
 
-class Ticker extends DataTransferObject
+/**
+ * Undocumented class.
+ */
+final class Ticker extends DataTransferObject
 {
     /**
      * Undocumented variable.

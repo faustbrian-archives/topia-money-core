@@ -17,6 +17,9 @@ use Illuminate\Http\Client\PendingRequest;
 use Illuminate\Http\Client\Response;
 use Illuminate\Support\Facades\Http;
 
+/**
+ * Undocumented class.
+ */
 final class Client
 {
     /**

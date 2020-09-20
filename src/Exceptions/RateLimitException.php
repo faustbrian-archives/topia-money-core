@@ -15,6 +15,9 @@ namespace KodeKeep\CommonCryptoExchange\Exceptions;
 
 use Symfony\Component\HttpKernel\Exception\TooManyRequestsHttpException;
 
+/**
+ * Undocumented class.
+ */
 final class RateLimitException extends TooManyRequestsHttpException
 {
     //

@@ -16,7 +16,10 @@ namespace KodeKeep\CommonCryptoExchange\DTO;
 use Carbon\Carbon;
 use Spatie\DataTransferObject\DataTransferObject;
 
-class Rate extends DataTransferObject
+/**
+ * Undocumented class.
+ */
+final class Rate extends DataTransferObject
 {
     /**
      * Undocumented variable.
