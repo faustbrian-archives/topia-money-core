@@ -17,9 +17,24 @@ use Spatie\DataTransferObject\DataTransferObject;
 
 class Ticker extends DataTransferObject
 {
+    /**
+     * Undocumented variable.
+     *
+     * @var string
+     */
     public string $symbol;
 
+    /**
+     * Undocumented variable.
+     *
+     * @var string
+     */
     public string $source;
 
+    /**
+     * Undocumented variable.
+     *
+     * @var string
+     */
     public string $target;
 }

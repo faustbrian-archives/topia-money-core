@@ -13,12 +13,22 @@ declare(strict_types=1);
 
 namespace KodeKeep\CommonCryptoExchange\DTO;
 
-use Illuminate\Support\Carbon;
+use Carbon\Carbon;
 use Spatie\DataTransferObject\DataTransferObject;
 
 class Rate extends DataTransferObject
 {
+    /**
+     * Undocumented variable.
+     *
+     * @var Carbon
+     */
     public Carbon $date;
 
+    /**
+     * Undocumented variable.
+     *
+     * @var string
+     */
     public string $rate;
 }
