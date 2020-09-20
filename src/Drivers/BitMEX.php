@@ -14,10 +14,14 @@ declare(strict_types=1);
 namespace KodeKeep\CommonCryptoExchange\Drivers;
 
 use KodeKeep\CommonCryptoExchange\Contracts\Exchange;
+use KodeKeep\CommonCryptoExchange\DTO\Rate;
 use KodeKeep\CommonCryptoExchange\DTO\Ticker;
 use KodeKeep\CommonCryptoExchange\Helper\Client;
 use KodeKeep\CommonCryptoExchange\Helpers\ResolveScientificNotation;
 
+/**
+ * Undocumented class.
+ */
 final class BitMEX implements Exchange
 {
     /**
@@ -58,10 +62,13 @@ final class BitMEX implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function price(Ticker $ticker): string
+    public function price(Ticker $ticker): Rate
     {
-        $response = $this->client->get("instrument?symbol={$source}")->json()[0];
+        $response = $this->client->get("instrument?symbol={$ticker->source}")->json()[0];
 
-        return ResolveScientificNotation::execute($response['lastPrice']);
+        return new Rate([
+            'date' => '',
+            'rate' => ResolveScientificNotation::execute($response['lastPrice']),
+        ]);
     }
 }

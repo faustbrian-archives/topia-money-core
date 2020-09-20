@@ -15,6 +15,7 @@ namespace KodeKeep\CommonCryptoExchange\Contracts;
 
 use KodeKeep\CommonCryptoExchange\DTO\Rate;
 use KodeKeep\CommonCryptoExchange\DTO\Ticker;
+use KodeKeep\CommonCryptoExchange\DTO\Rate;
 
 interface Exchange
 {
@@ -39,7 +40,7 @@ interface Exchange
      *
      * @param Ticker $ticker
      *
-     * @return string
+     * @return Rate
      */
-    public function price(Ticker $ticker): string;
+    public function price(Ticker $ticker): Rate;
 }

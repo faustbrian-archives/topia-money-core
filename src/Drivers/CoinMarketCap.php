@@ -14,9 +14,13 @@ declare(strict_types=1);
 namespace KodeKeep\CommonCryptoExchange\Drivers;
 
 use KodeKeep\CommonCryptoExchange\Contracts\Exchange;
+use KodeKeep\CommonCryptoExchange\DTO\Rate;
 use KodeKeep\CommonCryptoExchange\DTO\Ticker;
 use KodeKeep\CommonCryptoExchange\Helper\Client;
 
+/**
+ * Undocumented class.
+ */
 final class CoinMarketCap implements Exchange
 {
     /**
@@ -60,8 +64,11 @@ final class CoinMarketCap implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function price(Ticker $ticker): string
+    public function price(Ticker $ticker): Rate
     {
-        return '0';
+        return new Rate([
+            'date' => '',
+            'rate' => '',
+        ]);
     }
 }

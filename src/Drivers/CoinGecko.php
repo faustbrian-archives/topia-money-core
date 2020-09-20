@@ -15,10 +15,14 @@ namespace KodeKeep\CommonCryptoExchange\Drivers;
 
 use Carbon\Carbon;
 use KodeKeep\CommonCryptoExchange\Contracts\Exchange;
+use KodeKeep\CommonCryptoExchange\DTO\Rate;
 use KodeKeep\CommonCryptoExchange\DTO\Ticker;
 use KodeKeep\CommonCryptoExchange\Helper\Client;
 use KodeKeep\CommonCryptoExchange\Helpers\ResolveScientificNotation;
 
+/**
+ * Undocumented class.
+ */
 final class CoinGecko implements Exchange
 {
     /**
@@ -61,7 +65,7 @@ final class CoinGecko implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function price(Ticker $ticker): string
+    public function price(Ticker $ticker): Rate
     {
         $source = strtolower($ticker->source);
         $target = strtolower($ticker->target);
@@ -71,6 +75,9 @@ final class CoinGecko implements Exchange
             'vs_currencies' => $target,
         ])->json()[$source][$target];
 
-        return ResolveScientificNotation::execute($response);
+        return new Rate([
+            'date' => '',
+            'rate' => ResolveScientificNotation::execute($response),
+        ]);
     }
 }

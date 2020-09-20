@@ -16,10 +16,14 @@ namespace KodeKeep\CommonCryptoExchange\Drivers;
 use Carbon\Carbon;
 use Illuminate\Support\Facades\Http;
 use KodeKeep\CommonCryptoExchange\Contracts\Exchange;
+use KodeKeep\CommonCryptoExchange\DTO\Rate;
 use KodeKeep\CommonCryptoExchange\DTO\Ticker;
 use KodeKeep\CommonCryptoExchange\Helper\Client;
 use KodeKeep\CommonCryptoExchange\Helpers\ResolveScientificNotation;
 
+/**
+ * Undocumented class.
+ */
 final class Bittrex implements Exchange
 {
     /**
@@ -55,7 +59,7 @@ final class Bittrex implements Exchange
     public function historical(Ticker $ticker): array
     {
         $response = Http::get('https://global.bittrex.com/Api/v2.0/pub/market/GetTicks', [
-            'marketName'   => $source,
+            'marketName'   => $ticker->source,
             'tickInterval' => 'day',
         ])->json();
 
@@ -68,10 +72,13 @@ final class Bittrex implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function price(Ticker $ticker): string
+    public function price(Ticker $ticker): Rate
     {
-        $response = $this->client->get('getticker', ['market' => "{$source}"])->json()['result'];
+        $response = $this->client->get('getticker', ['market' => "{$ticker->source}"])->json()['result'];
 
-        return ResolveScientificNotation::execute($response['Last']);
+        return new Rate([
+            'date' => '',
+            'rate' => ResolveScientificNotation::execute($response['Last']),
+        ]);
     }
 }

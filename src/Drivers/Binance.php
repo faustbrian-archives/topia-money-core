@@ -15,11 +15,15 @@ namespace KodeKeep\CommonCryptoExchange\Drivers;
 
 use Carbon\Carbon;
 use KodeKeep\CommonCryptoExchange\Contracts\Exchange;
+use KodeKeep\CommonCryptoExchange\DTO\Rate;
 use KodeKeep\CommonCryptoExchange\DTO\Ticker;
 use KodeKeep\CommonCryptoExchange\Exceptions\RateLimitException;
 use KodeKeep\CommonCryptoExchange\Helper\Client;
 use KodeKeep\CommonCryptoExchange\Helpers\ResolveScientificNotation;
 
+/**
+ * Undocumented class.
+ */
 final class Binance implements Exchange
 {
     /**
@@ -78,11 +82,14 @@ final class Binance implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function price(Ticker $ticker): string
+    public function price(Ticker $ticker): Rate
     {
         $response = $this->sendRequest('ticker/price', compact('symbol'));
 
-        return ResolveScientificNotation::execute($response['price']);
+        return new Rate([
+            'date' => '',
+            'rate' => ResolveScientificNotation::execute($response['price']),
+        ]);
     }
 
     /**

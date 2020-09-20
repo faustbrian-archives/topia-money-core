@@ -15,9 +15,13 @@ namespace KodeKeep\CommonCryptoExchange\Drivers;
 
 use Carbon\Carbon;
 use KodeKeep\CommonCryptoExchange\Contracts\Exchange;
+use KodeKeep\CommonCryptoExchange\DTO\Rate;
 use KodeKeep\CommonCryptoExchange\DTO\Ticker;
 use KodeKeep\CommonCryptoExchange\Helper\Client;
 
+/**
+ * Undocumented class.
+ */
 final class Altilly implements Exchange
 {
     /**
@@ -66,8 +70,11 @@ final class Altilly implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function price(Ticker $ticker): string
+    public function price(Ticker $ticker): Rate
     {
-        return '0';
+        return new Rate([
+            'date' => '',
+            'rate' => '',
+        ]);
     }
 }

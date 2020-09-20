@@ -14,10 +14,14 @@ declare(strict_types=1);
 namespace KodeKeep\CommonCryptoExchange\Drivers;
 
 use KodeKeep\CommonCryptoExchange\Contracts\Exchange;
+use KodeKeep\CommonCryptoExchange\DTO\Rate;
 use KodeKeep\CommonCryptoExchange\DTO\Ticker;
 use KodeKeep\CommonCryptoExchange\Helper\Client;
 use KodeKeep\CommonCryptoExchange\Helpers\ResolveScientificNotation;
 
+/**
+ * Undocumented class.
+ */
 final class CoinCap implements Exchange
 {
     /**
@@ -59,10 +63,13 @@ final class CoinCap implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function price(Ticker $ticker): string
+    public function price(Ticker $ticker): Rate
     {
-        $response = $this->client->get('rates/'.$source)->json();
+        $response = $this->client->get('rates/'.$ticker->source)->json();
 
-        return ResolveScientificNotation::execute($response['data']['rateUsd']);
+        return new Rate([
+            'date' => '',
+            'rate' => ResolveScientificNotation::execute($response['data']['rateUsd']),
+        ]);
     }
 }
