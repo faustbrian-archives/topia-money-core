@@ -11,7 +11,7 @@ declare(strict_types=1);
  * file that was distributed with this source code.
  */
 
-namespace KodeKeep\CommonCryptoExchange\Enums;
+namespace KodeKeep\CommonCryptoExchange\DTO;
 
 use Spatie\DataTransferObject\DataTransferObject;
 
