@@ -15,7 +15,9 @@ namespace KodeKeep\CommonCryptoExchange\Drivers;
 
 use Carbon\Carbon;
 use KodeKeep\CommonCryptoExchange\Contracts\Exchange;
+use KodeKeep\CommonCryptoExchange\Enums\Ticker;
 use KodeKeep\CommonCryptoExchange\Exceptions\RateLimitException;
+use KodeKeep\CommonCryptoExchange\Helper\Client;
 use KodeKeep\CommonCryptoExchange\Helpers\ResolveScientificNotation;
 
 final class Binance implements Exchange
@@ -36,21 +38,21 @@ final class Binance implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function symbols(): array
+    public function tickers(): array
     {
         $response = $this->sendRequest('exchangeInfo');
 
-        return collect($response['symbols'])->transform(fn ($symbol) => [
-            'symbol' => $symbol['symbol'],
-            'source' => $symbol['baseAsset'],
-            'target' => $symbol['quoteAsset'],
+        return collect($response['tickers'])->transform(fn ($ticker) => [
+            'symbol' => $ticker['symbol'],
+            'source' => $ticker['baseAsset'],
+            'target' => $ticker['quoteAsset'],
         ])->toArray();
     }
 
     /**
      * {@inheritdoc}
      */
-    public function historical(string $source, ?string $target): array
+    public function historical(Ticker $ticker): array
     {
         // $start = Carbon::now()->subDays($startDays)->startOfDay();
         // $end   = $start->copy()->addDays($endDays)->startOfDay();
@@ -60,7 +62,7 @@ final class Binance implements Exchange
         // }
 
         $response = $this->sendRequest('klines', [
-            'symbol'    => $source,
+            'symbol'    => $ticker->source,
             'interval'  => '1d',
             // 'startTime' => $start->getPreciseTimestamp(3),
             // 'endTime'   => $end->getPreciseTimestamp(3),
@@ -76,7 +78,7 @@ final class Binance implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function price(string $source, ?string $target): string
+    public function price(Ticker $ticker): string
     {
         $response = $this->sendRequest('ticker/price', compact('symbol'));
 

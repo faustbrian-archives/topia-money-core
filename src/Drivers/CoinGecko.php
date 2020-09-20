@@ -15,6 +15,7 @@ namespace KodeKeep\CommonCryptoExchange\Drivers;
 
 use Carbon\Carbon;
 use KodeKeep\CommonCryptoExchange\Contracts\Exchange;
+use KodeKeep\CommonCryptoExchange\Enums\Ticker;
 use KodeKeep\CommonCryptoExchange\Helper\Client;
 use KodeKeep\CommonCryptoExchange\Helpers\ResolveScientificNotation;
 
@@ -36,7 +37,7 @@ final class CoinGecko implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function symbols(): array
+    public function tickers(): array
     {
         return $this->client->get('coins/list')->json();
     }
@@ -44,10 +45,10 @@ final class CoinGecko implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function historical(string $source, ?string $target): array
+    public function historical(Ticker $ticker): array
     {
-        $response = $this->client->get('coins/'.strtolower($source).'/market_chart', [
-            'vs_currency' => strtolower($target),
+        $response = $this->client->get('coins/'.strtolower($ticker->source).'/market_chart', [
+            'vs_currency' => strtolower($ticker->target),
             'days'        => Carbon::now()->startOfCentury()->diffInDays(),
         ])->json();
 
@@ -60,15 +61,15 @@ final class CoinGecko implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function price(string $source, ?string $target): string
+    public function price(Ticker $ticker): string
     {
-        $sourceCurrency = strtolower($this->sourceCurrency);
-        $targetCurrency = strtolower($this->targetCurrency);
+        $source = strtolower($ticker->source);
+        $target = strtolower($ticker->target);
 
         $response = $this->client->get('simple/price', [
-            'ids'           => $sourceCurrency,
-            'vs_currencies' => $targetCurrency,
-        ])->json()[$sourceCurrency][$targetCurrency];
+            'ids'           => $source,
+            'vs_currencies' => $target,
+        ])->json()[$source][$target];
 
         return ResolveScientificNotation::execute($response);
     }

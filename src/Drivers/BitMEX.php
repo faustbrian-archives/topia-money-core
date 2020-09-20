@@ -14,6 +14,7 @@ declare(strict_types=1);
 namespace KodeKeep\CommonCryptoExchange\Drivers;
 
 use KodeKeep\CommonCryptoExchange\Contracts\Exchange;
+use KodeKeep\CommonCryptoExchange\Enums\Ticker;
 use KodeKeep\CommonCryptoExchange\Helper\Client;
 use KodeKeep\CommonCryptoExchange\Helpers\ResolveScientificNotation;
 
@@ -35,21 +36,21 @@ final class BitMEX implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function symbols(): array
+    public function tickers(): array
     {
         $response = $this->client->get('instrument')->json();
 
-        return collect($response)->transform(fn ($symbol) => [
-            'symbol' => $symbol['symbol'],
-            'source' => $symbol['underlying'],
-            'target' => $symbol['quoteCurrency'],
+        return collect($response)->transform(fn ($ticker) => [
+            'symbol' => $ticker['symbol'],
+            'source' => $ticker['underlying'],
+            'target' => $ticker['quoteCurrency'],
         ])->toArray();
     }
 
     /**
      * {@inheritdoc}
      */
-    public function historical(string $source, ?string $target): array
+    public function historical(Ticker $ticker): array
     {
         return [];
     }
@@ -57,7 +58,7 @@ final class BitMEX implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function price(string $source, ?string $target): string
+    public function price(Ticker $ticker): string
     {
         $response = $this->client->get("instrument?symbol={$source}")->json()[0];
 

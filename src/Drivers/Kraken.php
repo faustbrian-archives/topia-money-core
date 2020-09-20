@@ -15,6 +15,7 @@ namespace KodeKeep\CommonCryptoExchange\Drivers;
 
 use Carbon\Carbon;
 use KodeKeep\CommonCryptoExchange\Contracts\Exchange;
+use KodeKeep\CommonCryptoExchange\Enums\Ticker;
 use KodeKeep\CommonCryptoExchange\Helper\Client;
 use KodeKeep\CommonCryptoExchange\Helpers\ResolveScientificNotation;
 
@@ -36,24 +37,24 @@ final class Kraken implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function symbols(): array
+    public function tickers(): array
     {
         $response = $this->client->get('AssetPairs')->json();
 
-        return collect($response['result'])->transform(fn ($symbol) => [
-            'symbol' => $symbol['altname'],
-            'source' => $symbol['base'],
-            'target' => $symbol['quote'],
+        return collect($response['result'])->transform(fn ($ticker) => [
+            'symbol' => $ticker['altname'],
+            'source' => $ticker['base'],
+            'target' => $ticker['quote'],
         ])->values()->toArray();
     }
 
     /**
      * {@inheritdoc}
      */
-    public function historical(string $source, ?string $target): array
+    public function historical(Ticker $ticker): array
     {
         $response = head($this->client->get('OHLC', [
-            'pair'     => $source,
+            'pair'     => $ticker->source,
             'interval' => 1440,
             'since'    => 0,
         ])->json()['result']);
@@ -67,9 +68,9 @@ final class Kraken implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function price(string $source, ?string $target): string
+    public function price(Ticker $ticker): string
     {
-        $response = head($this->client->get('Ticker', ['pair' => $source])->json()['result']);
+        $response = head($this->client->get('Ticker', ['pair' => $ticker->source])->json()['result']);
 
         return ResolveScientificNotation::execute($response['c'][0]);
     }

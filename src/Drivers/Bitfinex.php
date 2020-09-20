@@ -14,6 +14,7 @@ declare(strict_types=1);
 namespace KodeKeep\CommonCryptoExchange\Drivers;
 
 use KodeKeep\CommonCryptoExchange\Contracts\Exchange;
+use KodeKeep\CommonCryptoExchange\Enums\Ticker;
 use KodeKeep\CommonCryptoExchange\Helper\Client;
 use KodeKeep\CommonCryptoExchange\Helpers\ResolveScientificNotation;
 
@@ -35,21 +36,21 @@ final class Bitfinex implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function symbols(): array
+    public function tickers(): array
     {
         $response = $this->client->get('v2/conf/pub:list:pair:exchange')->json();
 
-        return array_map(fn ($symbol) => [
-            'symbol' => $symbol,
-            'source' => $symbol, // TODO
-            'target' => $symbol, // TODO
+        return array_map(fn ($ticker) => [
+            'symbol' => $ticker,
+            'source' => $ticker, // TODO
+            'target' => $ticker, // TODO
         ], $response[0]);
     }
 
     /**
      * {@inheritdoc}
      */
-    public function historical(string $source, ?string $target): array
+    public function historical(Ticker $ticker): array
     {
         return [];
     }
@@ -57,7 +58,7 @@ final class Bitfinex implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function price(string $source, ?string $target): string
+    public function price(Ticker $ticker): string
     {
         $response = $this->client->get("v1/pubticker/{$source}")->json();
 

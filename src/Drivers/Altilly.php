@@ -15,6 +15,7 @@ namespace KodeKeep\CommonCryptoExchange\Drivers;
 
 use Carbon\Carbon;
 use KodeKeep\CommonCryptoExchange\Contracts\Exchange;
+use KodeKeep\CommonCryptoExchange\Enums\Ticker;
 use KodeKeep\CommonCryptoExchange\Helper\Client;
 
 final class Altilly implements Exchange
@@ -35,23 +36,23 @@ final class Altilly implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function symbols(): array
+    public function tickers(): array
     {
         $response = $this->client->get('symbol');
 
-        return collect($response)->transform(fn ($symbol) => [
-            'symbol' => $symbol['id'],
-            'source' => $symbol['baseCurrency'],
-            'target' => $symbol['quoteCurrency'],
+        return collect($response)->transform(fn ($ticker) => [
+            'symbol' => $ticker['id'],
+            'source' => $ticker['baseCurrency'],
+            'target' => $ticker['quoteCurrency'],
         ])->toArray();
     }
 
     /**
      * {@inheritdoc}
      */
-    public function historical(string $source, ?string $target): array
+    public function historical(Ticker $ticker): array
     {
-        $response = $this->client->get("candles/{$source}", [
+        $response = $this->client->get("candles/{$ticker->source}", [
             'period' => '24HR',
             'limit'  => 0,
         ])->json();
@@ -65,7 +66,7 @@ final class Altilly implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function price(string $source, ?string $target): string
+    public function price(Ticker $ticker): string
     {
         return '0';
     }

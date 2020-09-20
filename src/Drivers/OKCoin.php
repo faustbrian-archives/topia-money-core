@@ -14,6 +14,7 @@ declare(strict_types=1);
 namespace KodeKeep\CommonCryptoExchange\Drivers;
 
 use KodeKeep\CommonCryptoExchange\Contracts\Exchange;
+use KodeKeep\CommonCryptoExchange\Enums\Ticker;
 use KodeKeep\CommonCryptoExchange\Helper\Client;
 use KodeKeep\CommonCryptoExchange\Helpers\ResolveScientificNotation;
 
@@ -35,21 +36,21 @@ final class OKCoin implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function symbols(): array
+    public function tickers(): array
     {
         $response = $this->client->get('spot/v3/instruments')->json();
 
-        return array_map(fn ($symbol) => [
-            'symbol' => $symbol['instrument_id'],
-            'source' => $symbol['base_currency'],
-            'target' => $symbol['quote_currency'],
+        return array_map(fn ($ticker) => [
+            'symbol' => $ticker['instrument_id'],
+            'source' => $ticker['base_currency'],
+            'target' => $ticker['quote_currency'],
         ], $response);
     }
 
     /**
      * {@inheritdoc}
      */
-    public function historical(string $source, ?string $target): array
+    public function historical(Ticker $ticker): array
     {
         return [];
     }
@@ -57,9 +58,9 @@ final class OKCoin implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function price(string $source, ?string $target): string
+    public function price(Ticker $ticker): string
     {
-        $response = $this->client->get("spot/v3/instruments/{$source}/ticker")->json();
+        $response = $this->client->get("spot/v3/instruments/{$ticker->source}/ticker")->json();
 
         return ResolveScientificNotation::execute($response['last']);
     }

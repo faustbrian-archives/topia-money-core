@@ -13,32 +13,33 @@ declare(strict_types=1);
 
 namespace KodeKeep\CommonCryptoExchange\Contracts;
 
+use KodeKeep\CommonCryptoExchange\Enums\Rate;
+use KodeKeep\CommonCryptoExchange\Enums\Ticker;
+
 interface Exchange
 {
     /**
      * Undocumented function.
      *
-     * @return array
+     * @return Ticker[]
      */
-    public function symbols(): array;
+    public function tickers(): array;
 
     /**
      * Undocumented function.
      *
-     * @param string      $source
-     * @param string|null $target
+     * @param Ticker $ticker
      *
-     * @return array
+     * @return Rate[]
      */
-    public function historical(string $source, ?string $target): array;
+    public function historical(Ticker $ticker): array;
 
     /**
      * Undocumented function.
      *
-     * @param string      $source
-     * @param string|null $target
+     * @param Ticker $ticker
      *
      * @return string
      */
-    public function price(string $source, ?string $target): string;
+    public function price(Ticker $ticker): string;
 }

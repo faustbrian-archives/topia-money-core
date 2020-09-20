@@ -14,6 +14,7 @@ declare(strict_types=1);
 namespace KodeKeep\CommonCryptoExchange\Drivers;
 
 use KodeKeep\CommonCryptoExchange\Contracts\Exchange;
+use KodeKeep\CommonCryptoExchange\Enums\Ticker;
 use KodeKeep\CommonCryptoExchange\Helper\Client;
 use KodeKeep\CommonCryptoExchange\Helpers\ResolveScientificNotation;
 
@@ -35,7 +36,7 @@ final class Poloniex implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function symbols(): array
+    public function tickers(): array
     {
         return [];
     }
@@ -43,7 +44,7 @@ final class Poloniex implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function historical(string $source, ?string $target): array
+    public function historical(Ticker $ticker): array
     {
         return [];
     }
@@ -51,10 +52,10 @@ final class Poloniex implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function price(string $source, ?string $target): string
+    public function price(Ticker $ticker): string
     {
         $response = $this->client->get('public', ['command' => 'returnTicker'])->json();
-        $response = $response["{$this->targetCurrency}_{$this->sourceCurrency}"];
+        $response = $response["{$ticker->target}_{$ticker->source}"];
 
         return ResolveScientificNotation::execute($response['high24hr']);
     }

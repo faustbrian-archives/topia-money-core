@@ -14,6 +14,7 @@ declare(strict_types=1);
 namespace KodeKeep\CommonCryptoExchange\Drivers;
 
 use KodeKeep\CommonCryptoExchange\Contracts\Exchange;
+use KodeKeep\CommonCryptoExchange\Enums\Ticker;
 use KodeKeep\CommonCryptoExchange\Helper\Client;
 use KodeKeep\CommonCryptoExchange\Helpers\ResolveScientificNotation;
 
@@ -35,22 +36,22 @@ final class CoinCap implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function symbols(): array
+    public function tickers(): array
     {
         // TODO: pagination
         $response = $this->client->get('markets')->json();
 
-        return array_map(fn ($symbol) => [
-            'symbol' => $symbol['exchangeId'], // TODO
-            'source' => $symbol['baseId'],
-            'target' => $symbol['quoteId'],
+        return array_map(fn ($ticker) => [
+            'symbol' => $ticker['exchangeId'], // TODO
+            'source' => $ticker['baseId'],
+            'target' => $ticker['quoteId'],
         ], $response['data']);
     }
 
     /**
      * {@inheritdoc}
      */
-    public function historical(string $source, ?string $target): array
+    public function historical(Ticker $ticker): array
     {
         return [];
     }
@@ -58,7 +59,7 @@ final class CoinCap implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function price(string $source, ?string $target): string
+    public function price(Ticker $ticker): string
     {
         $response = $this->client->get('rates/'.$source)->json();
 

@@ -14,6 +14,7 @@ declare(strict_types=1);
 namespace KodeKeep\CommonCryptoExchange\Drivers;
 
 use KodeKeep\CommonCryptoExchange\Contracts\Exchange;
+use KodeKeep\CommonCryptoExchange\Enums\Ticker;
 use KodeKeep\CommonCryptoExchange\Helper\Client;
 
 final class CoinMarketCap implements Exchange
@@ -34,28 +35,24 @@ final class CoinMarketCap implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function symbols(): array
+    public function tickers(): array
     {
         $response = $this->client->get('cryptocurrency/listings/latest', [
             'CMC_PRO_API_KEY' => config('services.cmc.token'),
             'limit'           => 5000,
         ])->json();
 
-        return collect($response['data'])->map(fn ($coin) => [
-            'name'               => $coin['name'],
-            'symbol'             => $coin['symbol'],
-            'slug'               => $coin['slug'],
-            'rank'               => $coin['cmc_rank'],
-            'supply_max'         => $coin['max_supply'] ?? 0,
-            'supply_circulating' => $coin['circulating_supply'] ?? 0,
-            'supply_total'       => $coin['total_supply'] ?? 0,
+        return collect($response['data'])->map(fn ($ticker) => [
+            'symbol' => $ticker['symbol'],
+            'source' => null,
+            'target' => null,
         ])->toArray();
     }
 
     /**
      * {@inheritdoc}
      */
-    public function historical(string $source, ?string $target): array
+    public function historical(Ticker $ticker): array
     {
         return [];
     }
@@ -63,7 +60,7 @@ final class CoinMarketCap implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function price(string $source, ?string $target): string
+    public function price(Ticker $ticker): string
     {
         return '0';
     }

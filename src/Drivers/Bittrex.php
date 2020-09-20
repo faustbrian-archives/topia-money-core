@@ -16,6 +16,7 @@ namespace KodeKeep\CommonCryptoExchange\Drivers;
 use Carbon\Carbon;
 use Illuminate\Support\Facades\Http;
 use KodeKeep\CommonCryptoExchange\Contracts\Exchange;
+use KodeKeep\CommonCryptoExchange\Enums\Ticker;
 use KodeKeep\CommonCryptoExchange\Helper\Client;
 use KodeKeep\CommonCryptoExchange\Helpers\ResolveScientificNotation;
 
@@ -37,21 +38,21 @@ final class Bittrex implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function symbols(): array
+    public function tickers(): array
     {
         $response = $this->client->get('getmarkets')->json();
 
-        return collect($response['result'])->transform(fn ($symbol) => [
-            'symbol' => $symbol['MarketName'],
-            'source' => $symbol['BaseCurrency'],
-            'target' => $symbol['MarketCurrency'],
+        return collect($response['result'])->transform(fn ($ticker) => [
+            'symbol' => $ticker['MarketName'],
+            'source' => $ticker['BaseCurrency'],
+            'target' => $ticker['MarketCurrency'],
         ])->toArray();
     }
 
     /**
      * {@inheritdoc}
      */
-    public function historical(string $source, ?string $target): array
+    public function historical(Ticker $ticker): array
     {
         $response = Http::get('https://global.bittrex.com/Api/v2.0/pub/market/GetTicks', [
             'marketName'   => $source,
@@ -67,7 +68,7 @@ final class Bittrex implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function price(string $source, ?string $target): string
+    public function price(Ticker $ticker): string
     {
         $response = $this->client->get('getticker', ['market' => "{$source}"])->json()['result'];
 

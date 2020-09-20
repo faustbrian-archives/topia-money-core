@@ -14,6 +14,7 @@ declare(strict_types=1);
 namespace KodeKeep\CommonCryptoExchange\Drivers;
 
 use KodeKeep\CommonCryptoExchange\Contracts\Exchange;
+use KodeKeep\CommonCryptoExchange\Enums\Ticker;
 use KodeKeep\CommonCryptoExchange\Helper\Client;
 use KodeKeep\CommonCryptoExchange\Helpers\ResolveScientificNotation;
 
@@ -35,12 +36,12 @@ final class Gemini implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function symbols(): array
+    public function tickers(): array
     {
-        $response = $this->client->get('symbols')->json();
+        $response = $this->client->get('tickers')->json();
 
-        return collect($response)->transform(fn ($symbol) => [
-            'symbol' => $symbol,
+        return collect($response)->transform(fn ($ticker) => [
+            'symbol' => $ticker,
             'source' => null,
             'target' => null,
         ])->toArray();
@@ -49,7 +50,7 @@ final class Gemini implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function historical(string $source, ?string $target): array
+    public function historical(Ticker $ticker): array
     {
         return [];
     }
@@ -57,9 +58,9 @@ final class Gemini implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function price(string $source, ?string $target): string
+    public function price(Ticker $ticker): string
     {
-        $response = $this->client->get("pubticker/{$this->sourceCurrency}{$this->targetCurrency}")->json();
+        $response = $this->client->get("pubticker/{$ticker->source}{$ticker->target}")->json();
 
         return ResolveScientificNotation::execute($response['last']);
     }

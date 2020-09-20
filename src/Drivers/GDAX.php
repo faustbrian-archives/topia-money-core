@@ -14,6 +14,7 @@ declare(strict_types=1);
 namespace KodeKeep\CommonCryptoExchange\Drivers;
 
 use KodeKeep\CommonCryptoExchange\Contracts\Exchange;
+use KodeKeep\CommonCryptoExchange\Enums\Ticker;
 use KodeKeep\CommonCryptoExchange\Helper\Client;
 use KodeKeep\CommonCryptoExchange\Helpers\ResolveScientificNotation;
 
@@ -35,7 +36,7 @@ final class GDAX implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function symbols(): array
+    public function tickers(): array
     {
         return [];
     }
@@ -43,7 +44,7 @@ final class GDAX implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function historical(string $source, ?string $target): array
+    public function historical(Ticker $ticker): array
     {
         return [];
     }
@@ -51,9 +52,9 @@ final class GDAX implements Exchange
     /**
      * {@inheritdoc}
      */
-    public function price(string $source, ?string $target): string
+    public function price(Ticker $ticker): string
     {
-        $response = $this->client->get("products/{$this->sourceCurrency}-{$this->targetCurrency}/ticker")->json();
+        $response = $this->client->get("products/{$ticker->source}-{$ticker->target}/ticker")->json();
 
         return ResolveScientificNotation::execute($response['price']);
     }
