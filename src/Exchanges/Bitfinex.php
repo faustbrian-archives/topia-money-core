@@ -55,7 +55,10 @@ final class Bitfinex implements Exchange
      */
     public function historical(Symbol $symbol): array
     {
-        return [];
+        return array_map(fn ($day) => new Rate([
+            'date' => Carbon::createFromTimestampMs($day[0]),
+            'rate' => ResolveScientificNotation::execute((float) $day[2]),
+        ]), $this->client->get("v2/candles/trade:1D:{$symbol->symbol}/hist", ['limit' => 10000]));
     }
 
     /**

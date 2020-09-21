@@ -14,7 +14,8 @@ it('can fetch all symbols', function () {
 it('can fetch the historical rates for the given symbol', function () {
     $subject = new Bitfinex();
 
-    expect($subject->historical(new Symbol(['symbol' => 'ZRXETH'])))->toBeArray();
+    expect($response = $subject->historical(new Symbol(['symbol' => 'tBTCUSD'])))->toBeArray();
+    expect($response[0])->toBeInstanceOf(Rate::class);
 });
 
 it('can fetch the current rate for the given symbol', function () {
