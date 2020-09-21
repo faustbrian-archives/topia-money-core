@@ -15,7 +15,6 @@ namespace KodeKeep\TopiaMoney\Helpers;
 
 use GrahamCampbell\GuzzleFactory\GuzzleFactory;
 use Illuminate\Http\Client\Response;
-use Illuminate\Support\Str;
 
 /**
  * Undocumented class.
@@ -75,15 +74,9 @@ final class Client
      */
     public function get(string $path, array $query = []): array
     {
-        $response = $this->client->get($path, [
+        return json_decode($this->client->get($path, [
             'query'   => $query,
             'headers' => $this->headers,
-        ])->getBody()->getContents();
-
-        if (Str::startsWith($response, '{{')) {
-            $response = substr($response, 1, -1);
-        }
-
-        return json_decode($response, true);
+        ])->getBody()->getContents(), true);
     }
 }

@@ -70,7 +70,7 @@ final class HitBTC implements Exchange
      */
     public function rate(Symbol $symbol): Rate
     {
-        $response = $this->client->get('ticker', ['symbols' => $symbol->symbol]);
+        $response = head($this->client->get('ticker', ['symbols' => $symbol->symbol]));
 
         return new Rate([
             'date' => Carbon::parse($response['timestamp']),
