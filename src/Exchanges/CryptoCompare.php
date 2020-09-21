@@ -59,7 +59,9 @@ final class CryptoCompare implements Exchange
             'symbol' => $symbol['Symbol'],
             'source' => $symbol['Symbol'],
             'target' => 'USD',
-        ]), $this->client->get('data/all/coinlist', ['limit' => 5000])['Data']);
+        ]), $this->client->get('data/all/coinlist', [
+            'limit' => 5000
+        ])->json()['Data']);
     }
 
     /**
@@ -74,7 +76,7 @@ final class CryptoCompare implements Exchange
             'fsym'    => $symbol->source,
             'tsym'    => $symbol->target,
             'allData' => true,
-        ])['Data']);
+        ])->json()['Data']);
     }
 
     /**
@@ -85,7 +87,7 @@ final class CryptoCompare implements Exchange
         $response = $this->client->get('data/price', [
             'fsym'  => $symbol->source,
             'tsyms' => $symbol->target,
-        ])[$symbol->target];
+        ])->json()[$symbol->target];
 
         return new Rate([
             'date' => Carbon::now(),

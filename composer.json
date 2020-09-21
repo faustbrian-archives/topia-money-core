@@ -17,6 +17,7 @@
         "php": "^7.4",
         "graham-campbell/guzzle-factory": "^4.0",
         "illuminate/contracts": "^8.0",
+        "illuminate/http": "^8.5",
         "illuminate/support": "^8.0",
         "nesbot/carbon": "^2.40",
         "paquettg/php-html-parser": "^3.1",

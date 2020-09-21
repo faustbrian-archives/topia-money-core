@@ -47,7 +47,7 @@ final class Bitfinex implements Exchange
             'symbol' => $symbol,
             'source' => null,
             'target' => null,
-        ]), $this->client->get('v2/conf/pub:list:pair:exchange')[0]);
+        ]), $this->client->get('v2/conf/pub:list:pair:exchange')->json()[0]);
     }
 
     /**
@@ -58,7 +58,9 @@ final class Bitfinex implements Exchange
         return array_map(fn ($day) => new Rate([
             'date' => Carbon::createFromTimestampMs($day[0]),
             'rate' => ResolveScientificNotation::execute((float) $day[2]),
-        ]), $this->client->get("v2/candles/trade:1D:{$symbol->symbol}/hist", ['limit' => 10000]));
+        ]), $this->client->get("v2/candles/trade:1D:{$symbol->symbol}/hist", [
+            'limit' => 10000,
+        ])->json());
     }
 
     /**
@@ -66,7 +68,7 @@ final class Bitfinex implements Exchange
      */
     public function rate(Symbol $symbol): Rate
     {
-        $response = $this->client->get("v1/pubticker/{$symbol->symbol}");
+        $response = $this->client->get("v1/pubticker/{$symbol->symbol}")->json();
 
         return new Rate([
             'date' => Carbon::now(),

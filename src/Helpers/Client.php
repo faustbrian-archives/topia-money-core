@@ -13,8 +13,9 @@ declare(strict_types=1);
 
 namespace KodeKeep\TopiaMoney\Helpers;
 
-use GrahamCampbell\GuzzleFactory\GuzzleFactory;
+use Illuminate\Http\Client\PendingRequest;
 use Illuminate\Http\Client\Response;
+use Illuminate\Support\Facades\Http;
 
 /**
  * Undocumented class.
@@ -22,24 +23,16 @@ use Illuminate\Http\Client\Response;
 final class Client
 {
     /**
-     * @var \GuzzleHttp\Client
+     * @var PendingRequest
      */
-    protected \GuzzleHttp\Client $client;
-
-    /**
-     * @var array
-     */
-    protected array $headers = [
-        'Accept'       => 'application/json',
-        'Content-Type' => 'application/json',
-    ];
+    protected PendingRequest $client;
 
     /**
      * Undocumented function.
      */
     private function __construct(string $baseUrl)
     {
-        $this->client = GuzzleFactory::make(['base_uri' => $baseUrl]);
+        $this->client = Http::baseUrl($baseUrl);
     }
 
     /**
@@ -59,7 +52,7 @@ final class Client
      */
     public function withHeaders(array $headers): self
     {
-        $this->headers = array_merge($this->headers, $headers);
+        $this->client->withHeaders($headers);
 
         return $this;
     }
@@ -72,11 +65,12 @@ final class Client
      *
      * @return Response
      */
-    public function get(string $path, array $query = []): array
+    public function get(string $path, array $query = []): Response
     {
-        return json_decode($this->client->get($path, [
-            'query'   => $query,
-            'headers' => $this->headers,
-        ])->getBody()->getContents(), true);
+        $response = $this->client->get($path, $query);
+
+        $response->throw();
+
+        return $response;
     }
 }

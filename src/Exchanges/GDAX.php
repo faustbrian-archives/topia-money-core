@@ -59,7 +59,7 @@ final class GDAX implements Exchange
      */
     public function rate(Symbol $symbol): Rate
     {
-        $response = $this->client->get("products/{$symbol->source}-{$symbol->target}/ticker");
+        $response = $this->client->get("products/{$symbol->source}-{$symbol->target}/ticker")->json();
 
         return new Rate([
             'date' => Carbon::now(),

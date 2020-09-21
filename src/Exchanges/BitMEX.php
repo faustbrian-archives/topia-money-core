@@ -47,7 +47,7 @@ final class BitMEX implements Exchange
             'symbol' => $symbol['symbol'],
             'source' => $symbol['underlying'],
             'target' => $symbol['quoteCurrency'],
-        ]), $this->client->get('instrument'));
+        ]), $this->client->get('instrument')->json());
     }
 
     /**
@@ -63,7 +63,7 @@ final class BitMEX implements Exchange
      */
     public function rate(Symbol $symbol): Rate
     {
-        $response = $this->client->get('instrument', ['symbol' => $symbol->source])[0];
+        $response = $this->client->get('instrument', ['symbol' => $symbol->source])->json()[0];
 
         return new Rate([
             'date' => Carbon::now(),

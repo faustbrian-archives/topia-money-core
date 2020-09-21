@@ -47,7 +47,7 @@ final class Kraken implements Exchange
             'symbol' => $symbol['altname'],
             'source' => $symbol['base'],
             'target' => $symbol['quote'],
-        ]), $this->client->get('AssetPairs')['result']));
+        ]), $this->client->get('AssetPairs')->json()['result']));
     }
 
     /**
@@ -62,7 +62,7 @@ final class Kraken implements Exchange
             'pair'     => $symbol->symbol,
             'interval' => 1440,
             'since'    => 0,
-        ])['result']));
+        ])->json()['result']));
     }
 
     /**
@@ -70,7 +70,7 @@ final class Kraken implements Exchange
      */
     public function rate(Symbol $symbol): Rate
     {
-        $response = head($this->client->get('Ticker', ['pair' => $symbol->symbol])['result']);
+        $response = head($this->client->get('Ticker', ['pair' => $symbol->symbol])->json()['result']);
 
         return new Rate([
             'date' => Carbon::now(),

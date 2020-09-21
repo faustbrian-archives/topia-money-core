@@ -47,7 +47,7 @@ final class Poloniex implements Exchange
             'symbol' => $symbol,
             'source' => null,
             'target' => null,
-        ]), array_keys($this->client->get('public', ['command' => 'returnCurrencies'])));
+        ]), array_keys($this->client->get('public', ['command' => 'returnCurrencies'])->json()));
     }
 
     /**
@@ -61,7 +61,7 @@ final class Poloniex implements Exchange
             'period'       => 86400,
             'start'        => Carbon::now()->subDecade()->startOfYear()->unix(),
             'end'          => Carbon::now()->endOfDay()->unix(),
-        ]);
+        ])->json();
 
         return array_map(fn ($day) => new Rate([
             'date' => Carbon::createFromTimestamp($day['date']),
@@ -74,7 +74,7 @@ final class Poloniex implements Exchange
      */
     public function rate(Symbol $symbol): Rate
     {
-        $response = $this->client->get('public', ['command' => 'returnTicker']);
+        $response = $this->client->get('public', ['command' => 'returnTicker'])->json();
 
         return new Rate([
             'date' => Carbon::now(),

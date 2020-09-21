@@ -58,7 +58,7 @@ final class Bitstamp implements Exchange
                 'start'  => Carbon::now()->subDays($days)->unix(),
                 'step'   => 86400,
                 'limit'  => 1000,
-            ]);
+            ])->json();
 
             $results = array_merge($results, $response['data']['ohlc']);
 

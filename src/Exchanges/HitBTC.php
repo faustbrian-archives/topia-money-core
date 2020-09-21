@@ -47,7 +47,7 @@ final class HitBTC implements Exchange
             'symbol' => $symbol['id'],
             'source' => $symbol['baseCurrency'],
             'target' => $symbol['quoteCurrency'],
-        ]), $this->client->get('symbol'));
+        ]), $this->client->get('symbol')->json());
     }
 
     /**
@@ -62,7 +62,7 @@ final class HitBTC implements Exchange
             'period'  => 'D1',
             'symbols' => $symbol->symbol,
             'limit'   => 1000,
-        ])));
+        ])->json()));
     }
 
     /**
@@ -70,7 +70,7 @@ final class HitBTC implements Exchange
      */
     public function rate(Symbol $symbol): Rate
     {
-        $response = head($this->client->get('ticker', ['symbols' => $symbol->symbol]));
+        $response = head($this->client->get('ticker', ['symbols' => $symbol->symbol])->json());
 
         return new Rate([
             'date' => Carbon::parse($response['timestamp']),

@@ -58,7 +58,9 @@ final class CoinMarketCap implements Exchange
             'symbol' => $symbol['symbol'],
             'source' => null,
             'target' => null,
-        ]), $this->client->get('cryptocurrency/listings/latest', ['limit' => 5000])['data']);
+        ]), $this->client->get('cryptocurrency/listings/latest', [
+            'limit' => 5000
+        ])->json()['data']);
     }
 
     /**

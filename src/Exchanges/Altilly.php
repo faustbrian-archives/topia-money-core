@@ -46,7 +46,7 @@ final class Altilly implements Exchange
             'symbol' => $symbol['id'],
             'source' => $symbol['baseCurrency'],
             'target' => $symbol['quoteCurrency'],
-        ]), $this->client->get('symbol'));
+        ]), $this->client->get('symbol')->json());
     }
 
     /**
@@ -60,7 +60,7 @@ final class Altilly implements Exchange
         ]), $this->client->get("candles/{$symbol->symbol}", [
             'period' => '24HR',
             'limit'  => 0,
-        ]));
+        ])->json());
     }
 
     /**

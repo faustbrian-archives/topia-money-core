@@ -47,7 +47,7 @@ final class OKCoin implements Exchange
             'symbol' => $symbol['instrument_id'],
             'source' => $symbol['base_currency'],
             'target' => $symbol['quote_currency'],
-        ]), $this->client->get('spot/v3/instruments'));
+        ]), $this->client->get('spot/v3/instruments')->json());
     }
 
     /**
@@ -63,7 +63,7 @@ final class OKCoin implements Exchange
      */
     public function rate(Symbol $symbol): Rate
     {
-        $response = $this->client->get("spot/v3/instruments/{$symbol->symbol}/ticker");
+        $response = $this->client->get("spot/v3/instruments/{$symbol->symbol}/ticker")->json();
 
         return new Rate([
             'date' => Carbon::now(),
