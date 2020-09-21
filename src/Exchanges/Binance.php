@@ -47,7 +47,7 @@ final class Binance implements Exchange
             'symbol' => $symbol['symbol'],
             'source' => $symbol['baseAsset'],
             'target' => $symbol['quoteAsset'],
-        ]), $this->client->get('exchangeInfo')['symbols']);
+        ]), $this->client->get('exchangeInfo')->json()['symbols']);
     }
 
     /**
@@ -70,7 +70,7 @@ final class Binance implements Exchange
             // 'startTime' => $start->getPreciseTimestamp(3),
             // 'endTime'   => $end->getPreciseTimestamp(3),
             'limit'     => 1000,
-        ]);
+        ])->json();
 
         return array_map(fn ($day) => new Rate([
             'date' => Carbon::createFromTimestampMs($day[0]),
@@ -83,7 +83,9 @@ final class Binance implements Exchange
      */
     public function rate(Symbol $symbol): Rate
     {
-        $response = $this->client->get('ticker/price', ['symbol' => $symbol->symbol]);
+        $response = $this->client->get('ticker/price', [
+            'symbol' => $symbol->symbol,
+        ])->json();
 
         return new Rate([
             'date' => Carbon::now(),

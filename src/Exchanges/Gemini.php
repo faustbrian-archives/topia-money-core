@@ -47,7 +47,7 @@ final class Gemini implements Exchange
             'symbol' => $symbol,
             'source' => null,
             'target' => null,
-        ]), $this->client->get('symbols'));
+        ]), $this->client->get('symbols')->json());
     }
 
     /**
@@ -63,7 +63,7 @@ final class Gemini implements Exchange
      */
     public function rate(Symbol $symbol): Rate
     {
-        $response = $this->client->get("pubticker/{$symbol->source}{$symbol->target}");
+        $response = $this->client->get("pubticker/{$symbol->source}{$symbol->target}")->json();
 
         return new Rate([
             'date' => Carbon::now(),

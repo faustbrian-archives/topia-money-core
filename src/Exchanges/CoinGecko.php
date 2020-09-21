@@ -47,7 +47,7 @@ final class CoinGecko implements Exchange
             'symbol' => $symbol['id'],
             'source' => $symbol['symbol'],
             'target' => null,
-        ]), $this->client->get('coins/list'));
+        ]), $this->client->get('coins/list')->json());
     }
 
     /**
@@ -61,7 +61,7 @@ final class CoinGecko implements Exchange
         ]), $this->client->get('coins/'.strtolower($symbol->source).'/market_chart', [
             'vs_currency' => strtolower($symbol->target),
             'days'        => Carbon::now()->startOfCentury()->diffInDays(),
-        ])['prices']);
+        ])->json()['prices']);
     }
 
     /**
@@ -75,7 +75,7 @@ final class CoinGecko implements Exchange
         $response = $this->client->get('simple/price', [
             'ids'           => $source,
             'vs_currencies' => $target,
-        ])[$source][$target];
+        ])->json()[$source][$target];
 
         return new Rate([
             'date' => Carbon::now(),

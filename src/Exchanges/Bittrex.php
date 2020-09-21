@@ -43,7 +43,7 @@ final class Bittrex implements Exchange
      */
     public function symbols(): array
     {
-        $response = $this->client->get('getmarkets');
+        $response = $this->client->get('getmarkets')->json();
 
         return array_map(fn ($symbol) => new Symbol([
             'symbol' => $symbol['MarketName'],
@@ -63,7 +63,7 @@ final class Bittrex implements Exchange
         ]), Client::new('https://global.bittrex.com/')->get('Api/v2.0/pub/market/GetTicks', [
             'marketName'   => $symbol->symbol,
             'tickInterval' => 'day',
-        ])['result'] ?? []);
+        ])->json()['result'] ?? []);
     }
 
     /**
@@ -71,7 +71,9 @@ final class Bittrex implements Exchange
      */
     public function rate(Symbol $symbol): Rate
     {
-        $response = $this->client->get('getticker', ['market' => "{$symbol->symbol}"])['result'];
+        $response = $this->client->get('getticker', [
+            'market' => "{$symbol->symbol}"
+        ])->json()['result'];
 
         return new Rate([
             'date' => Carbon::now(),

@@ -50,7 +50,7 @@ final class CoinCap implements Exchange
             $response = $this->client->get('markets', [
                 'limit'  => 2000,
                 'offset' => $offset,
-            ]);
+            ])->json();
 
             $results = array_merge($results, $response['data']);
 
@@ -77,7 +77,7 @@ final class CoinCap implements Exchange
      */
     public function rate(Symbol $symbol): Rate
     {
-        $response = $this->client->get('rates/'.$symbol->source);
+        $response = $this->client->get('rates/'.$symbol->source)->json();
 
         return new Rate([
             'date' => Carbon::now(),
