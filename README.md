@@ -9,7 +9,11 @@
 [![Quality Score](https://badgen.net/codeclimate/maintainability/kodekeep/topia-money)](https://codeclimate.com/github/kodekeep/topia-money)
 [![Total Downloads](https://badgen.net/packagist/dt/kodekeep/topia-money)](https://packagist.org/packages/kodekeep/topia-money)
 
-This package was created by, and is maintained by [Brian Faust](https://github.com/faustbrian), and provides short description of the package.
+This package was created by, and is maintained by [Brian Faust](https://github.com/faustbrian), and provides a sane way of getting historical data from Cryptocurrency Data Services.
+
+## About
+
+There are hundreds of services that provide historical data for crypto currencies but if you want to index that data you need to take care of a lot of normalisation. Topia.Money tries to abstract away this work by providing standardises Services and DTOs that will provide you with the information that matters and cut out the tedious work of data aggregation and post-processing.
 
 ## Installation
 
