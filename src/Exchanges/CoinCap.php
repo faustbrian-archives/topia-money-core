@@ -39,17 +39,29 @@ final class CoinCap implements Exchange
     }
 
     /**
-     * @TODO: aggregate all records
-     *
      * {@inheritdoc}
      */
     public function symbols(): array
     {
+        $offset  = 0;
+        $results = [];
+
+        do {
+            $response = $this->client->get('markets', [
+                'limit'  => 2000,
+                'offset' => $offset,
+            ]);
+
+            $results = array_merge($results, $response['data']);
+
+            $offset += 2000;
+        } while (! empty($response['data']));
+
         return array_map(fn ($symbol) => new Symbol([
             'symbol' => $symbol['baseSymbol'].'-'.$symbol['quoteSymbol'],
             'source' => $symbol['baseId'],
             'target' => $symbol['quoteId'],
-        ]), $this->client->get('markets')['data']);
+        ]), $results);
     }
 
     /**
