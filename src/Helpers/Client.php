@@ -71,6 +71,6 @@ final class Client
 
         $response->throw();
 
-        retrn $response;
+        return $response;
     }
 }
