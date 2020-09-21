@@ -67,6 +67,10 @@ final class Client
      */
     public function get(string $path, array $query = []): Response
     {
-        return $this->client->get($path, $query);
+        $response = $this->client->get($path, $query);
+
+        $response->throw();
+
+        retrn $response;
     }
 }
