@@ -30,7 +30,10 @@ final class Client
     /**
      * @var array
      */
-    protected array $headers = [];
+    protected array $headers = [
+        'Accept'       => 'application/json',
+        'Content-Type' => 'application/json',
+    ];
 
     /**
      * Undocumented function.
@@ -57,7 +60,7 @@ final class Client
      */
     public function withHeaders(array $headers): self
     {
-        $this->headers = $headers;
+        $this->headers = array_merge($this->headers, $headers);
 
         return $this;
     }
