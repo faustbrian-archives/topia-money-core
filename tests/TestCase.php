@@ -13,9 +13,15 @@ declare(strict_types=1);
 
 namespace KodeKeep\TopiaMoney\Tests;
 
+use Illuminate\Support\Facades\Http;
 use Orchestra\Testbench\TestCase as Orchestra;
 
 abstract class TestCase extends Orchestra
 {
-    //
+    protected function fakeRequest(string $file)
+    {
+        Http::fake([
+            '*' => Http::response(file_get_contents(__DIR__.'/Unit/Exchanges/fixtures/'.$file.'.json'), 200),
+        ]);
+    }
 }

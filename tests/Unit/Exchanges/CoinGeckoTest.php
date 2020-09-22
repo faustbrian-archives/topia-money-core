@@ -5,6 +5,8 @@ use KodeKeep\TopiaMoney\DTO\Symbol;
 use KodeKeep\TopiaMoney\Exchanges\CoinGecko;
 
 it('can fetch all symbols', function () {
+    $this->fakeRequest('coingecko/symbols');
+
     $subject = new CoinGecko();
 
     expect($response = $subject->symbols())->toBeArray();
@@ -12,6 +14,8 @@ it('can fetch all symbols', function () {
 });
 
 it('can fetch the historical rates for the given symbol', function () {
+    $this->fakeRequest('coingecko/historical');
+
     $subject = new CoinGecko();
 
     expect($response = $subject->historical(new Symbol([
@@ -23,6 +27,8 @@ it('can fetch the historical rates for the given symbol', function () {
 });
 
 it('can fetch the current rate for the given symbol', function () {
+    $this->fakeRequest('coingecko/rate');
+
     $subject = new CoinGecko();
 
     expect($subject->rate(new Symbol([

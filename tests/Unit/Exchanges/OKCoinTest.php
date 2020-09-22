@@ -5,6 +5,8 @@ use KodeKeep\TopiaMoney\DTO\Symbol;
 use KodeKeep\TopiaMoney\Exchanges\OKCoin;
 
 it('can fetch all symbols', function () {
+    $this->fakeRequest('okcoin/symbols');
+
     $subject = new OKCoin();
 
     expect($response = $subject->symbols())->toBeArray();
@@ -12,12 +14,16 @@ it('can fetch all symbols', function () {
 });
 
 it('can fetch the historical rates for the given symbol', function () {
+    $this->fakeRequest('okcoin/historical');
+
     $subject = new OKCoin();
 
     expect($subject->historical(new Symbol(['symbol' => 'BCH-EUR'])))->toBeArray();
 });
 
 it('can fetch the current rate for the given symbol', function () {
+    $this->fakeRequest('okcoin/rate');
+
     $subject = new OKCoin();
 
     expect($subject->rate(new Symbol(['symbol' => 'BCH-EUR'])))->toBeInstanceOf(Rate::class);

@@ -5,12 +5,16 @@ use KodeKeep\TopiaMoney\DTO\Symbol;
 use KodeKeep\TopiaMoney\Exchanges\Bitstamp;
 
 it('can fetch all symbols', function () {
+    $this->fakeRequest('bitstamp/symbols');
+
     $subject = new Bitstamp();
 
-    expect($response = $subject->symbols())->toBeArray();
+    expect($subject->symbols())->toBeArray();
 });
 
 it('can fetch the historical rates for the given symbol', function () {
+    $this->fakeRequest('bitstamp/historical');
+
     $subject = new Bitstamp();
 
     expect($response = $subject->historical(new Symbol(['symbol' => 'btcusd'])))->toBeArray();
@@ -18,6 +22,8 @@ it('can fetch the historical rates for the given symbol', function () {
 });
 
 it('can fetch the current rate for the given symbol', function () {
+    $this->fakeRequest('bitstamp/rate');
+
     $subject = new Bitstamp();
 
     expect($subject->rate(new Symbol(['symbol' => 'btcusd'])))->toBeInstanceOf(Rate::class);

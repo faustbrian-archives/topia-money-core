@@ -71,6 +71,8 @@ final class Client
 
         $response->throw();
 
+        file_put_contents('lastresponse.json', $response->body());
+
         return $response;
     }
 }

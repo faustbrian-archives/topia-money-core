@@ -5,6 +5,8 @@ use KodeKeep\TopiaMoney\DTO\Symbol;
 use KodeKeep\TopiaMoney\Exchanges\Kraken;
 
 it('can fetch all symbols', function () {
+    $this->fakeRequest('kraken/symbols');
+
     $subject = new Kraken();
 
     expect($response = $subject->symbols())->toBeArray();
@@ -12,6 +14,8 @@ it('can fetch all symbols', function () {
 });
 
 it('can fetch the historical rates for the given symbol', function () {
+    $this->fakeRequest('kraken/historical');
+
     $subject = new Kraken();
 
     expect($response = $subject->historical(new Symbol(['symbol' => 'ZUSDZCAD'])))->toBeArray();
@@ -19,6 +23,8 @@ it('can fetch the historical rates for the given symbol', function () {
 });
 
 it('can fetch the current rate for the given symbol', function () {
+    $this->fakeRequest('kraken/rate');
+
     $subject = new Kraken();
 
     expect($subject->rate(new Symbol(['symbol' => 'ZUSDZCAD'])))->toBeInstanceOf(Rate::class);

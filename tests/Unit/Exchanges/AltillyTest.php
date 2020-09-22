@@ -5,6 +5,8 @@ use KodeKeep\TopiaMoney\DTO\Symbol;
 use KodeKeep\TopiaMoney\Exchanges\Altilly;
 
 it('can fetch all symbols', function () {
+    $this->fakeRequest('altilly/symbols');
+
     $subject = new Altilly();
 
     expect($response = $subject->symbols())->toBeArray();
@@ -12,6 +14,8 @@ it('can fetch all symbols', function () {
 });
 
 it('can fetch the historical rates for the given symbol', function () {
+    $this->fakeRequest('altilly/historical');
+
     $subject = new Altilly();
 
     expect($response = $subject->historical(new Symbol(['symbol' => 'ETHBTC'])))->toBeArray();
@@ -19,6 +23,8 @@ it('can fetch the historical rates for the given symbol', function () {
 });
 
 it('can fetch the current rate for the given symbol', function () {
+    $this->fakeRequest('altilly/rate');
+
     $subject = new Altilly();
 
     expect($subject->rate(new Symbol(['symbol' => 'ETHBTC'])))->toBeInstanceOf(Rate::class);

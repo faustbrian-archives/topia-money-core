@@ -5,6 +5,8 @@ use KodeKeep\TopiaMoney\DTO\Symbol;
 use KodeKeep\TopiaMoney\Exchanges\CoinCap;
 
 it('can fetch all symbols', function () {
+    $this->fakeRequest('coincap/symbols');
+
     $subject = new CoinCap();
 
     expect($response = $subject->symbols())->toBeArray();
@@ -12,12 +14,16 @@ it('can fetch all symbols', function () {
 });
 
 it('can fetch the historical rates for the given symbol', function () {
+    $this->fakeRequest('coincap/historical');
+
     $subject = new CoinCap();
 
     expect($subject->historical(new Symbol(['symbol' => 'bitcoin'])))->toBeArray();
 });
 
 it('can fetch the current rate for the given symbol', function () {
+    $this->fakeRequest('coincap/rate');
+
     $subject = new CoinCap();
 
     expect($subject->rate(new Symbol(['symbol' => 'BTC-USD', 'source' => 'bitcoin'])))->toBeInstanceOf(Rate::class);
