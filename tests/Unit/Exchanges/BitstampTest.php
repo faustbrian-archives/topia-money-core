@@ -1,5 +1,6 @@
 <?php
 
+use Illuminate\Support\Facades\Http;
 use KodeKeep\TopiaMoney\DTO\Rate;
 use KodeKeep\TopiaMoney\DTO\Symbol;
 use KodeKeep\TopiaMoney\Exchanges\Bitstamp;
@@ -13,7 +14,9 @@ it('can fetch all symbols', function () {
 });
 
 it('can fetch the historical rates for the given symbol', function () {
-    $this->fakeRequest('bitstamp/historical');
+    Http::fakeSequence()
+        ->push(file_get_contents(__DIR__.'/fixtures/bitstamp/historical.json'), 200)
+        ->push(file_get_contents(__DIR__.'/fixtures/bitstamp/historical-empty.json'), 200);
 
     $subject = new Bitstamp();
 

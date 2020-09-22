@@ -1,11 +1,14 @@
 <?php
 
+use Illuminate\Support\Facades\Http;
 use KodeKeep\TopiaMoney\DTO\Rate;
 use KodeKeep\TopiaMoney\DTO\Symbol;
 use KodeKeep\TopiaMoney\Exchanges\CoinCap;
 
 it('can fetch all symbols', function () {
-    $this->fakeRequest('coincap/symbols');
+    Http::fakeSequence()
+        ->push(file_get_contents(__DIR__.'/fixtures/coincap/symbols.json'), 200)
+        ->push(file_get_contents(__DIR__.'/fixtures/coincap/symbols-empty.json'), 200);
 
     $subject = new CoinCap();
 
