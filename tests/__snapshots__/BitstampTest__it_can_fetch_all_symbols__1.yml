@@ -1,0 +1,192 @@
+-
+    symbol: btcusd
+    source: BTC
+    sourceId: BTC
+    target: USD
+    targetId: USD
+-
+    symbol: btceur
+    source: BTC
+    sourceId: BTC
+    target: EUR
+    targetId: EUR
+-
+    symbol: btcgbp
+    source: BTC
+    sourceId: BTC
+    target: GBP
+    targetId: GBP
+-
+    symbol: btcpax
+    source: BTC
+    sourceId: BTC
+    target: PAX
+    targetId: PAX
+-
+    symbol: gbpusd
+    source: GBP
+    sourceId: GBP
+    target: USD
+    targetId: USD
+-
+    symbol: gbpeur
+    source: GBP
+    sourceId: GBP
+    target: EUR
+    targetId: EUR
+-
+    symbol: eurusd
+    source: EUR
+    sourceId: EUR
+    target: USD
+    targetId: USD
+-
+    symbol: xrpusd
+    source: XRP
+    sourceId: XRP
+    target: USD
+    targetId: USD
+-
+    symbol: xrpeur
+    source: XRP
+    sourceId: XRP
+    target: EUR
+    targetId: EUR
+-
+    symbol: xrpbtc
+    source: XRP
+    sourceId: XRP
+    target: BTC
+    targetId: BTC
+-
+    symbol: xrpgbp
+    source: XRP
+    sourceId: XRP
+    target: GBP
+    targetId: GBP
+-
+    symbol: xrppax
+    source: XRP
+    sourceId: XRP
+    target: PAX
+    targetId: PAX
+-
+    symbol: ltcusd
+    source: LTC
+    sourceId: LTC
+    target: USD
+    targetId: USD
+-
+    symbol: ltceur
+    source: LTC
+    sourceId: LTC
+    target: EUR
+    targetId: EUR
+-
+    symbol: ltcbtc
+    source: LTC
+    sourceId: LTC
+    target: BTC
+    targetId: BTC
+-
+    symbol: ltcgbp
+    source: LTC
+    sourceId: LTC
+    target: GBP
+    targetId: GBP
+-
+    symbol: ethusd
+    source: ETH
+    sourceId: ETH
+    target: USD
+    targetId: USD
+-
+    symbol: etheur
+    source: ETH
+    sourceId: ETH
+    target: EUR
+    targetId: EUR
+-
+    symbol: ethbtc
+    source: ETH
+    sourceId: ETH
+    target: BTC
+    targetId: BTC
+-
+    symbol: ethgbp
+    source: ETH
+    sourceId: ETH
+    target: GBP
+    targetId: GBP
+-
+    symbol: ethpax
+    source: ETH
+    sourceId: ETH
+    target: PAX
+    targetId: PAX
+-
+    symbol: bchusd
+    source: BCH
+    sourceId: BCH
+    target: USD
+    targetId: USD
+-
+    symbol: bcheur
+    source: BCH
+    sourceId: BCH
+    target: EUR
+    targetId: EUR
+-
+    symbol: bchbtc
+    source: BCH
+    sourceId: BCH
+    target: BTC
+    targetId: BTC
+-
+    symbol: bchgbp
+    source: BCH
+    sourceId: BCH
+    target: GBP
+    targetId: GBP
+-
+    symbol: paxusd
+    source: PAX
+    sourceId: PAX
+    target: USD
+    targetId: USD
+-
+    symbol: paxeur
+    source: PAX
+    sourceId: PAX
+    target: EUR
+    targetId: EUR
+-
+    symbol: paxgbp
+    source: PAX
+    sourceId: PAX
+    target: GBP
+    targetId: GBP
+-
+    symbol: xlmbtc
+    source: XLM
+    sourceId: XLM
+    target: BTC
+    targetId: BTC
+-
+    symbol: xlmusd
+    source: XLM
+    sourceId: XLM
+    target: USD
+    targetId: USD
+-
+    symbol: xlmeur
+    source: XLM
+    sourceId: XLM
+    target: EUR
+    targetId: EUR
+-
+    symbol: xlmgbp
+    source: XLM
+    sourceId: XLM
+    target: GBP
+    targetId: GBP

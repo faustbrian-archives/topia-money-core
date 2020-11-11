@@ -1,0 +1,702 @@
+-
+    symbol: ADA-BTC
+    source: ADA
+    sourceId: ADA
+    target: BTC
+    targetId: BTC
+-
+    symbol: ADA-EUR
+    source: ADA
+    sourceId: ADA
+    target: EUR
+    targetId: EUR
+-
+    symbol: AE-BTC
+    source: AE
+    sourceId: AE
+    target: BTC
+    targetId: BTC
+-
+    symbol: AE-EUR
+    source: AE
+    sourceId: AE
+    target: EUR
+    targetId: EUR
+-
+    symbol: AION-BTC
+    source: AION
+    sourceId: AION
+    target: BTC
+    targetId: BTC
+-
+    symbol: AION-EUR
+    source: AION
+    sourceId: AION
+    target: EUR
+    targetId: EUR
+-
+    symbol: ANT-BTC
+    source: ANT
+    sourceId: ANT
+    target: BTC
+    targetId: BTC
+-
+    symbol: ANT-EUR
+    source: ANT
+    sourceId: ANT
+    target: EUR
+    targetId: EUR
+-
+    symbol: ARK-BTC
+    source: ARK
+    sourceId: ARK
+    target: BTC
+    targetId: BTC
+-
+    symbol: ARK-EUR
+    source: ARK
+    sourceId: ARK
+    target: EUR
+    targetId: EUR
+-
+    symbol: BAT-BTC
+    source: BAT
+    sourceId: BAT
+    target: BTC
+    targetId: BTC
+-
+    symbol: BAT-EUR
+    source: BAT
+    sourceId: BAT
+    target: EUR
+    targetId: EUR
+-
+    symbol: BCH-BTC
+    source: BCH
+    sourceId: BCH
+    target: BTC
+    targetId: BTC
+-
+    symbol: BCH-EUR
+    source: BCH
+    sourceId: BCH
+    target: EUR
+    targetId: EUR
+-
+    symbol: BSV-BTC
+    source: BSV
+    sourceId: BSV
+    target: BTC
+    targetId: BTC
+-
+    symbol: BSV-EUR
+    source: BSV
+    sourceId: BSV
+    target: EUR
+    targetId: EUR
+-
+    symbol: BTC-EUR
+    source: BTC
+    sourceId: BTC
+    target: EUR
+    targetId: EUR
+-
+    symbol: CMT-BTC
+    source: CMT
+    sourceId: CMT
+    target: BTC
+    targetId: BTC
+-
+    symbol: CMT-EUR
+    source: CMT
+    sourceId: CMT
+    target: EUR
+    targetId: EUR
+-
+    symbol: DCR-BTC
+    source: DCR
+    sourceId: DCR
+    target: BTC
+    targetId: BTC
+-
+    symbol: DCR-EUR
+    source: DCR
+    sourceId: DCR
+    target: EUR
+    targetId: EUR
+-
+    symbol: DGB-BTC
+    source: DGB
+    sourceId: DGB
+    target: BTC
+    targetId: BTC
+-
+    symbol: DGB-EUR
+    source: DGB
+    sourceId: DGB
+    target: EUR
+    targetId: EUR
+-
+    symbol: ELF-BTC
+    source: ELF
+    sourceId: ELF
+    target: BTC
+    targetId: BTC
+-
+    symbol: ELF-EUR
+    source: ELF
+    sourceId: ELF
+    target: EUR
+    targetId: EUR
+-
+    symbol: ENJ-BTC
+    source: ENJ
+    sourceId: ENJ
+    target: BTC
+    targetId: BTC
+-
+    symbol: ENJ-EUR
+    source: ENJ
+    sourceId: ENJ
+    target: EUR
+    targetId: EUR
+-
+    symbol: EOS-BTC
+    source: EOS
+    sourceId: EOS
+    target: BTC
+    targetId: BTC
+-
+    symbol: EOS-EUR
+    source: EOS
+    sourceId: EOS
+    target: EUR
+    targetId: EUR
+-
+    symbol: ETC-BTC
+    source: ETC
+    sourceId: ETC
+    target: BTC
+    targetId: BTC
+-
+    symbol: ETC-EUR
+    source: ETC
+    sourceId: ETC
+    target: EUR
+    targetId: EUR
+-
+    symbol: ETH-BTC
+    source: ETH
+    sourceId: ETH
+    target: BTC
+    targetId: BTC
+-
+    symbol: ETH-EUR
+    source: ETH
+    sourceId: ETH
+    target: EUR
+    targetId: EUR
+-
+    symbol: GAS-BTC
+    source: GAS
+    sourceId: GAS
+    target: BTC
+    targetId: BTC
+-
+    symbol: GAS-EUR
+    source: GAS
+    sourceId: GAS
+    target: EUR
+    targetId: EUR
+-
+    symbol: GNT-BTC
+    source: GNT
+    sourceId: GNT
+    target: BTC
+    targetId: BTC
+-
+    symbol: GNT-EUR
+    source: GNT
+    sourceId: GNT
+    target: EUR
+    targetId: EUR
+-
+    symbol: HOT-BTC
+    source: HOT
+    sourceId: HOT
+    target: BTC
+    targetId: BTC
+-
+    symbol: HOT-EUR
+    source: HOT
+    sourceId: HOT
+    target: EUR
+    targetId: EUR
+-
+    symbol: ICX-BTC
+    source: ICX
+    sourceId: ICX
+    target: BTC
+    targetId: BTC
+-
+    symbol: ICX-EUR
+    source: ICX
+    sourceId: ICX
+    target: EUR
+    targetId: EUR
+-
+    symbol: IOST-BTC
+    source: IOST
+    sourceId: IOST
+    target: BTC
+    targetId: BTC
+-
+    symbol: IOST-EUR
+    source: IOST
+    sourceId: IOST
+    target: EUR
+    targetId: EUR
+-
+    symbol: KMD-BTC
+    source: KMD
+    sourceId: KMD
+    target: BTC
+    targetId: BTC
+-
+    symbol: KMD-EUR
+    source: KMD
+    sourceId: KMD
+    target: EUR
+    targetId: EUR
+-
+    symbol: LINK-BTC
+    source: LINK
+    sourceId: LINK
+    target: BTC
+    targetId: BTC
+-
+    symbol: LINK-EUR
+    source: LINK
+    sourceId: LINK
+    target: EUR
+    targetId: EUR
+-
+    symbol: LRC-BTC
+    source: LRC
+    sourceId: LRC
+    target: BTC
+    targetId: BTC
+-
+    symbol: LRC-EUR
+    source: LRC
+    sourceId: LRC
+    target: EUR
+    targetId: EUR
+-
+    symbol: LSK-BTC
+    source: LSK
+    sourceId: LSK
+    target: BTC
+    targetId: BTC
+-
+    symbol: LSK-EUR
+    source: LSK
+    sourceId: LSK
+    target: EUR
+    targetId: EUR
+-
+    symbol: LTC-BTC
+    source: LTC
+    sourceId: LTC
+    target: BTC
+    targetId: BTC
+-
+    symbol: LTC-EUR
+    source: LTC
+    sourceId: LTC
+    target: EUR
+    targetId: EUR
+-
+    symbol: MIOTA-BTC
+    source: MIOTA
+    sourceId: MIOTA
+    target: BTC
+    targetId: BTC
+-
+    symbol: MIOTA-EUR
+    source: MIOTA
+    sourceId: MIOTA
+    target: EUR
+    targetId: EUR
+-
+    symbol: NANO-BTC
+    source: NANO
+    sourceId: NANO
+    target: BTC
+    targetId: BTC
+-
+    symbol: NANO-EUR
+    source: NANO
+    sourceId: NANO
+    target: EUR
+    targetId: EUR
+-
+    symbol: NAS-BTC
+    source: NAS
+    sourceId: NAS
+    target: BTC
+    targetId: BTC
+-
+    symbol: NAS-EUR
+    source: NAS
+    sourceId: NAS
+    target: EUR
+    targetId: EUR
+-
+    symbol: NEO-BTC
+    source: NEO
+    sourceId: NEO
+    target: BTC
+    targetId: BTC
+-
+    symbol: NEO-EUR
+    source: NEO
+    sourceId: NEO
+    target: EUR
+    targetId: EUR
+-
+    symbol: NPXS-BTC
+    source: NPXS
+    sourceId: NPXS
+    target: BTC
+    targetId: BTC
+-
+    symbol: NPXS-EUR
+    source: NPXS
+    sourceId: NPXS
+    target: EUR
+    targetId: EUR
+-
+    symbol: NULS-BTC
+    source: NULS
+    sourceId: NULS
+    target: BTC
+    targetId: BTC
+-
+    symbol: NULS-EUR
+    source: NULS
+    sourceId: NULS
+    target: EUR
+    targetId: EUR
+-
+    symbol: OMG-BTC
+    source: OMG
+    sourceId: OMG
+    target: BTC
+    targetId: BTC
+-
+    symbol: OMG-EUR
+    source: OMG
+    sourceId: OMG
+    target: EUR
+    targetId: EUR
+-
+    symbol: ONG-BTC
+    source: ONG
+    sourceId: ONG
+    target: BTC
+    targetId: BTC
+-
+    symbol: ONG-EUR
+    source: ONG
+    sourceId: ONG
+    target: EUR
+    targetId: EUR
+-
+    symbol: ONT-BTC
+    source: ONT
+    sourceId: ONT
+    target: BTC
+    targetId: BTC
+-
+    symbol: ONT-EUR
+    source: ONT
+    sourceId: ONT
+    target: EUR
+    targetId: EUR
+-
+    symbol: POWR-BTC
+    source: POWR
+    sourceId: POWR
+    target: BTC
+    targetId: BTC
+-
+    symbol: POWR-EUR
+    source: POWR
+    sourceId: POWR
+    target: EUR
+    targetId: EUR
+-
+    symbol: QTUM-BTC
+    source: QTUM
+    sourceId: QTUM
+    target: BTC
+    targetId: BTC
+-
+    symbol: QTUM-EUR
+    source: QTUM
+    sourceId: QTUM
+    target: EUR
+    targetId: EUR
+-
+    symbol: RDD-BTC
+    source: RDD
+    sourceId: RDD
+    target: BTC
+    targetId: BTC
+-
+    symbol: RDD-EUR
+    source: RDD
+    sourceId: RDD
+    target: EUR
+    targetId: EUR
+-
+    symbol: REQ-BTC
+    source: REQ
+    sourceId: REQ
+    target: BTC
+    targetId: BTC
+-
+    symbol: REQ-EUR
+    source: REQ
+    sourceId: REQ
+    target: EUR
+    targetId: EUR
+-
+    symbol: RVN-BTC
+    source: RVN
+    sourceId: RVN
+    target: BTC
+    targetId: BTC
+-
+    symbol: RVN-EUR
+    source: RVN
+    sourceId: RVN
+    target: EUR
+    targetId: EUR
+-
+    symbol: SNT-BTC
+    source: SNT
+    sourceId: SNT
+    target: BTC
+    targetId: BTC
+-
+    symbol: SNT-EUR
+    source: SNT
+    sourceId: SNT
+    target: EUR
+    targetId: EUR
+-
+    symbol: STEEM-BTC
+    source: STEEM
+    sourceId: STEEM
+    target: BTC
+    targetId: BTC
+-
+    symbol: STEEM-EUR
+    source: STEEM
+    sourceId: STEEM
+    target: EUR
+    targetId: EUR
+-
+    symbol: STMX-BTC
+    source: STMX
+    sourceId: STMX
+    target: BTC
+    targetId: BTC
+-
+    symbol: STMX-EUR
+    source: STMX
+    sourceId: STMX
+    target: EUR
+    targetId: EUR
+-
+    symbol: STORM-BTC
+    source: STORM
+    sourceId: STORM
+    target: BTC
+    targetId: BTC
+-
+    symbol: STORM-EUR
+    source: STORM
+    sourceId: STORM
+    target: EUR
+    targetId: EUR
+-
+    symbol: STRAT-BTC
+    source: STRAT
+    sourceId: STRAT
+    target: BTC
+    targetId: BTC
+-
+    symbol: STRAT-EUR
+    source: STRAT
+    sourceId: STRAT
+    target: EUR
+    targetId: EUR
+-
+    symbol: TRX-BTC
+    source: TRX
+    sourceId: TRX
+    target: BTC
+    targetId: BTC
+-
+    symbol: TRX-EUR
+    source: TRX
+    sourceId: TRX
+    target: EUR
+    targetId: EUR
+-
+    symbol: VET-BTC
+    source: VET
+    sourceId: VET
+    target: BTC
+    targetId: BTC
+-
+    symbol: VET-EUR
+    source: VET
+    sourceId: VET
+    target: EUR
+    targetId: EUR
+-
+    symbol: VTC-BTC
+    source: VTC
+    sourceId: VTC
+    target: BTC
+    targetId: BTC
+-
+    symbol: VTC-EUR
+    source: VTC
+    sourceId: VTC
+    target: EUR
+    targetId: EUR
+-
+    symbol: VTHO-BTC
+    source: VTHO
+    sourceId: VTHO
+    target: BTC
+    targetId: BTC
+-
+    symbol: VTHO-EUR
+    source: VTHO
+    sourceId: VTHO
+    target: EUR
+    targetId: EUR
+-
+    symbol: WAVES-BTC
+    source: WAVES
+    sourceId: WAVES
+    target: BTC
+    targetId: BTC
+-
+    symbol: WAVES-EUR
+    source: WAVES
+    sourceId: WAVES
+    target: EUR
+    targetId: EUR
+-
+    symbol: WTC-BTC
+    source: WTC
+    sourceId: WTC
+    target: BTC
+    targetId: BTC
+-
+    symbol: WTC-EUR
+    source: WTC
+    sourceId: WTC
+    target: EUR
+    targetId: EUR
+-
+    symbol: XEM-BTC
+    source: XEM
+    sourceId: XEM
+    target: BTC
+    targetId: BTC
+-
+    symbol: XEM-EUR
+    source: XEM
+    sourceId: XEM
+    target: EUR
+    targetId: EUR
+-
+    symbol: XLM-BTC
+    source: XLM
+    sourceId: XLM
+    target: BTC
+    targetId: BTC
+-
+    symbol: XLM-EUR
+    source: XLM
+    sourceId: XLM
+    target: EUR
+    targetId: EUR
+-
+    symbol: XRP-BTC
+    source: XRP
+    sourceId: XRP
+    target: BTC
+    targetId: BTC
+-
+    symbol: XRP-EUR
+    source: XRP
+    sourceId: XRP
+    target: EUR
+    targetId: EUR
+-
+    symbol: XTZ-BTC
+    source: XTZ
+    sourceId: XTZ
+    target: BTC
+    targetId: BTC
+-
+    symbol: XTZ-EUR
+    source: XTZ
+    sourceId: XTZ
+    target: EUR
+    targetId: EUR
+-
+    symbol: XVG-BTC
+    source: XVG
+    sourceId: XVG
+    target: BTC
+    targetId: BTC
+-
+    symbol: XVG-EUR
+    source: XVG
+    sourceId: XVG
+    target: EUR
+    targetId: EUR
+-
+    symbol: ZIL-BTC
+    source: ZIL
+    sourceId: ZIL
+    target: BTC
+    targetId: BTC
+-
+    symbol: ZIL-EUR
+    source: ZIL
+    sourceId: ZIL
+    target: EUR
+    targetId: EUR
+-
+    symbol: ZRX-BTC
+    source: ZRX
+    sourceId: ZRX
+    target: BTC
+    targetId: BTC
+-
+    symbol: ZRX-EUR
+    source: ZRX
+    sourceId: ZRX
+    target: EUR
+    targetId: EUR

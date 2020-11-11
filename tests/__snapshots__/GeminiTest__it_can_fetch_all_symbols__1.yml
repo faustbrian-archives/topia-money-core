@@ -1,0 +1,258 @@
+-
+    symbol: btcusd
+    source: BTC
+    sourceId: btc
+    target: USD
+    targetId: usd
+-
+    symbol: btcdai
+    source: BTC
+    sourceId: btc
+    target: DAI
+    targetId: dai
+-
+    symbol: ethbtc
+    source: ETH
+    sourceId: eth
+    target: BTC
+    targetId: btc
+-
+    symbol: ethusd
+    source: ETH
+    sourceId: eth
+    target: USD
+    targetId: usd
+-
+    symbol: ethdai
+    source: ETH
+    sourceId: eth
+    target: DAI
+    targetId: dai
+-
+    symbol: bchusd
+    source: BCH
+    sourceId: bch
+    target: USD
+    targetId: usd
+-
+    symbol: bchbtc
+    source: BCH
+    sourceId: bch
+    target: BTC
+    targetId: btc
+-
+    symbol: bcheth
+    source: BCH
+    sourceId: bch
+    target: ETH
+    targetId: eth
+-
+    symbol: ltcusd
+    source: LTC
+    sourceId: ltc
+    target: USD
+    targetId: usd
+-
+    symbol: ltcbtc
+    source: LTC
+    sourceId: ltc
+    target: BTC
+    targetId: btc
+-
+    symbol: ltceth
+    source: LTC
+    sourceId: ltc
+    target: ETH
+    targetId: eth
+-
+    symbol: ltcbch
+    source: LTC
+    sourceId: ltc
+    target: BCH
+    targetId: bch
+-
+    symbol: zecusd
+    source: ZEC
+    sourceId: zec
+    target: USD
+    targetId: usd
+-
+    symbol: zecbtc
+    source: ZEC
+    sourceId: zec
+    target: BTC
+    targetId: btc
+-
+    symbol: zeceth
+    source: ZEC
+    sourceId: zec
+    target: ETH
+    targetId: eth
+-
+    symbol: zecbch
+    source: ZEC
+    sourceId: zec
+    target: BCH
+    targetId: bch
+-
+    symbol: zecltc
+    source: ZEC
+    sourceId: zec
+    target: LTC
+    targetId: ltc
+-
+    symbol: batusd
+    source: BAT
+    sourceId: bat
+    target: USD
+    targetId: usd
+-
+    symbol: batbtc
+    source: BAT
+    sourceId: bat
+    target: BTC
+    targetId: btc
+-
+    symbol: bateth
+    source: BAT
+    sourceId: bat
+    target: ETH
+    targetId: eth
+-
+    symbol: linkusd
+    source: LINK
+    sourceId: link
+    target: USD
+    targetId: usd
+-
+    symbol: linkbtc
+    source: LINK
+    sourceId: link
+    target: BTC
+    targetId: btc
+-
+    symbol: linketh
+    source: LINK
+    sourceId: link
+    target: ETH
+    targetId: eth
+-
+    symbol: daiusd
+    source: DAI
+    sourceId: dai
+    target: USD
+    targetId: usd
+-
+    symbol: oxtusd
+    source: OXT
+    sourceId: oxt
+    target: USD
+    targetId: usd
+-
+    symbol: oxtbtc
+    source: OXT
+    sourceId: oxt
+    target: BTC
+    targetId: btc
+-
+    symbol: oxteth
+    source: OXT
+    sourceId: oxt
+    target: ETH
+    targetId: eth
+-
+    symbol: ampusd
+    source: AMP
+    sourceId: amp
+    target: USD
+    targetId: usd
+-
+    symbol: paxgusd
+    source: PAXG
+    sourceId: paxg
+    target: USD
+    targetId: usd
+-
+    symbol: compusd
+    source: COMP
+    sourceId: comp
+    target: USD
+    targetId: usd
+-
+    symbol: mkrusd
+    source: MKR
+    sourceId: mkr
+    target: USD
+    targetId: usd
+-
+    symbol: zrxusd
+    source: ZRX
+    sourceId: zrx
+    target: USD
+    targetId: usd
+-
+    symbol: kncusd
+    source: KNC
+    sourceId: knc
+    target: USD
+    targetId: usd
+-
+    symbol: storjusd
+    source: STORJ
+    sourceId: storj
+    target: USD
+    targetId: usd
+-
+    symbol: manausd
+    source: MANA
+    sourceId: mana
+    target: USD
+    targetId: usd
+-
+    symbol: aaveusd
+    source: AAVE
+    sourceId: aave
+    target: USD
+    targetId: usd
+-
+    symbol: snxusd
+    source: SNX
+    sourceId: snx
+    target: USD
+    targetId: usd
+-
+    symbol: yfiusd
+    source: YFI
+    sourceId: yfi
+    target: USD
+    targetId: usd
+-
+    symbol: umausd
+    source: UMA
+    sourceId: uma
+    target: USD
+    targetId: usd
+-
+    symbol: balusd
+    source: BAL
+    sourceId: bal
+    target: USD
+    targetId: usd
+-
+    symbol: crvusd
+    source: CRV
+    sourceId: crv
+    target: USD
+    targetId: usd
+-
+    symbol: renusd
+    source: REN
+    sourceId: ren
+    target: USD
+    targetId: usd
+-
+    symbol: uniusd
+    source: UNI
+    sourceId: uni
+    target: USD
+    targetId: usd

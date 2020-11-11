@@ -1,0 +1,388 @@
+-
+    symbol: BAL-BTC
+    source: BAL
+    target: BTC
+-
+    symbol: EOS-BTC
+    source: EOS
+    target: BTC
+-
+    symbol: BAL-USD
+    source: BAL
+    target: USD
+-
+    symbol: OMG-BTC
+    source: OMG
+    target: BTC
+-
+    symbol: ZRX-EUR
+    source: ZRX
+    target: EUR
+-
+    symbol: LINK-EUR
+    source: LINK
+    target: EUR
+-
+    symbol: DAI-USDC
+    source: DAI
+    target: USDC
+-
+    symbol: ZRX-BTC
+    source: ZRX
+    target: BTC
+-
+    symbol: ZRX-USD
+    source: ZRX
+    target: USD
+-
+    symbol: KNC-BTC
+    source: KNC
+    target: BTC
+-
+    symbol: BAND-USD
+    source: BAND
+    target: USD
+-
+    symbol: COMP-BTC
+    source: COMP
+    target: BTC
+-
+    symbol: CGLD-EUR
+    source: CGLD
+    target: EUR
+-
+    symbol: XRP-EUR
+    source: XRP
+    target: EUR
+-
+    symbol: XRP-USD
+    source: XRP
+    target: USD
+-
+    symbol: BAND-BTC
+    source: BAND
+    target: BTC
+-
+    symbol: CGLD-BTC
+    source: CGLD
+    target: BTC
+-
+    symbol: XRP-BTC
+    source: XRP
+    target: BTC
+-
+    symbol: BCH-BTC
+    source: BCH
+    target: BTC
+-
+    symbol: ALGO-USD
+    source: ALGO
+    target: USD
+-
+    symbol: DASH-BTC
+    source: DASH
+    target: BTC
+-
+    symbol: LINK-USD
+    source: LINK
+    target: USD
+-
+    symbol: LTC-GBP
+    source: LTC
+    target: GBP
+-
+    symbol: BAT-ETH
+    source: BAT
+    target: ETH
+-
+    symbol: XLM-USD
+    source: XLM
+    target: USD
+-
+    symbol: NMR-BTC
+    source: NMR
+    target: BTC
+-
+    symbol: UMA-GBP
+    source: UMA
+    target: GBP
+-
+    symbol: XLM-BTC
+    source: XLM
+    target: BTC
+-
+    symbol: UMA-USD
+    source: UMA
+    target: USD
+-
+    symbol: COMP-USD
+    source: COMP
+    target: USD
+-
+    symbol: ETC-BTC
+    source: ETC
+    target: BTC
+-
+    symbol: LOOM-USDC
+    source: LOOM
+    target: USDC
+-
+    symbol: XTZ-USD
+    source: XTZ
+    target: USD
+-
+    symbol: ETH-USDC
+    source: ETH
+    target: USDC
+-
+    symbol: LINK-GBP
+    source: LINK
+    target: GBP
+-
+    symbol: CGLD-USD
+    source: CGLD
+    target: USD
+-
+    symbol: BAND-GBP
+    source: BAND
+    target: GBP
+-
+    symbol: LINK-ETH
+    source: LINK
+    target: ETH
+-
+    symbol: OMG-USD
+    source: OMG
+    target: USD
+-
+    symbol: UMA-EUR
+    source: UMA
+    target: EUR
+-
+    symbol: MANA-USDC
+    source: MANA
+    target: USDC
+-
+    symbol: BCH-EUR
+    source: BCH
+    target: EUR
+-
+    symbol: UNI-USD
+    source: UNI
+    target: USD
+-
+    symbol: CGLD-GBP
+    source: CGLD
+    target: GBP
+-
+    symbol: ATOM-USD
+    source: ATOM
+    target: USD
+-
+    symbol: ETH-EUR
+    source: ETH
+    target: EUR
+-
+    symbol: REN-USD
+    source: REN
+    target: USD
+-
+    symbol: BCH-GBP
+    source: BCH
+    target: GBP
+-
+    symbol: BTC-USD
+    source: BTC
+    target: USD
+-
+    symbol: DASH-USD
+    source: DASH
+    target: USD
+-
+    symbol: REP-USD
+    source: REP
+    target: USD
+-
+    symbol: OMG-EUR
+    source: OMG
+    target: EUR
+-
+    symbol: LTC-USD
+    source: LTC
+    target: USD
+-
+    symbol: DAI-USD
+    source: DAI
+    target: USD
+-
+    symbol: REN-BTC
+    source: REN
+    target: BTC
+-
+    symbol: ETC-GBP
+    source: ETC
+    target: GBP
+-
+    symbol: ZEC-BTC
+    source: ZEC
+    target: BTC
+-
+    symbol: XLM-EUR
+    source: XLM
+    target: EUR
+-
+    symbol: BTC-GBP
+    source: BTC
+    target: GBP
+-
+    symbol: MKR-BTC
+    source: MKR
+    target: BTC
+-
+    symbol: XTZ-BTC
+    source: XTZ
+    target: BTC
+-
+    symbol: EOS-USD
+    source: EOS
+    target: USD
+-
+    symbol: ETC-EUR
+    source: ETC
+    target: EUR
+-
+    symbol: NMR-GBP
+    source: NMR
+    target: GBP
+-
+    symbol: ETH-DAI
+    source: ETH
+    target: DAI
+-
+    symbol: MKR-USD
+    source: MKR
+    target: USD
+-
+    symbol: ETH-BTC
+    source: ETH
+    target: BTC
+-
+    symbol: LTC-BTC
+    source: LTC
+    target: BTC
+-
+    symbol: CVC-USDC
+    source: CVC
+    target: USDC
+-
+    symbol: XRP-GBP
+    source: XRP
+    target: GBP
+-
+    symbol: KNC-USD
+    source: KNC
+    target: USD
+-
+    symbol: ALGO-EUR
+    source: ALGO
+    target: EUR
+-
+    symbol: LTC-EUR
+    source: LTC
+    target: EUR
+-
+    symbol: YFI-USD
+    source: YFI
+    target: USD
+-
+    symbol: UMA-BTC
+    source: UMA
+    target: BTC
+-
+    symbol: ZEC-USDC
+    source: ZEC
+    target: USDC
+-
+    symbol: REP-BTC
+    source: REP
+    target: BTC
+-
+    symbol: LRC-USD
+    source: LRC
+    target: USD
+-
+    symbol: NMR-USD
+    source: NMR
+    target: USD
+-
+    symbol: ETH-USD
+    source: ETH
+    target: USD
+-
+    symbol: XTZ-EUR
+    source: XTZ
+    target: EUR
+-
+    symbol: EOS-EUR
+    source: EOS
+    target: EUR
+-
+    symbol: ETC-USD
+    source: ETC
+    target: USD
+-
+    symbol: OMG-GBP
+    source: OMG
+    target: GBP
+-
+    symbol: BTC-EUR
+    source: BTC
+    target: EUR
+-
+    symbol: BTC-USDC
+    source: BTC
+    target: USDC
+-
+    symbol: BAND-EUR
+    source: BAND
+    target: EUR
+-
+    symbol: ATOM-BTC
+    source: ATOM
+    target: BTC
+-
+    symbol: BAT-USDC
+    source: BAT
+    target: USDC
+-
+    symbol: ALGO-GBP
+    source: ALGO
+    target: GBP
+-
+    symbol: ETH-GBP
+    source: ETH
+    target: GBP
+-
+    symbol: XTZ-GBP
+    source: XTZ
+    target: GBP
+-
+    symbol: BCH-USD
+    source: BCH
+    target: USD
+-
+    symbol: OXT-USD
+    source: OXT
+    target: USD
+-
+    symbol: NMR-EUR
+    source: NMR
+    target: EUR
+-
+    symbol: DNT-USDC
+    source: DNT
+    target: USDC
+-
+    symbol: GNT-USDC
+    source: GNT
+    target: USDC

@@ -1,0 +1,5952 @@
+-
+    symbol: CAD-HKD
+    source: CAD
+    sourceId: CAD
+    target: HKD
+    targetId: HKD
+-
+    symbol: CAD-ISK
+    source: CAD
+    sourceId: CAD
+    target: ISK
+    targetId: ISK
+-
+    symbol: CAD-PHP
+    source: CAD
+    sourceId: CAD
+    target: PHP
+    targetId: PHP
+-
+    symbol: CAD-DKK
+    source: CAD
+    sourceId: CAD
+    target: DKK
+    targetId: DKK
+-
+    symbol: CAD-HUF
+    source: CAD
+    sourceId: CAD
+    target: HUF
+    targetId: HUF
+-
+    symbol: CAD-CZK
+    source: CAD
+    sourceId: CAD
+    target: CZK
+    targetId: CZK
+-
+    symbol: CAD-AUD
+    source: CAD
+    sourceId: CAD
+    target: AUD
+    targetId: AUD
+-
+    symbol: CAD-RON
+    source: CAD
+    sourceId: CAD
+    target: RON
+    targetId: RON
+-
+    symbol: CAD-SEK
+    source: CAD
+    sourceId: CAD
+    target: SEK
+    targetId: SEK
+-
+    symbol: CAD-IDR
+    source: CAD
+    sourceId: CAD
+    target: IDR
+    targetId: IDR
+-
+    symbol: CAD-INR
+    source: CAD
+    sourceId: CAD
+    target: INR
+    targetId: INR
+-
+    symbol: CAD-BRL
+    source: CAD
+    sourceId: CAD
+    target: BRL
+    targetId: BRL
+-
+    symbol: CAD-RUB
+    source: CAD
+    sourceId: CAD
+    target: RUB
+    targetId: RUB
+-
+    symbol: CAD-HRK
+    source: CAD
+    sourceId: CAD
+    target: HRK
+    targetId: HRK
+-
+    symbol: CAD-JPY
+    source: CAD
+    sourceId: CAD
+    target: JPY
+    targetId: JPY
+-
+    symbol: CAD-THB
+    source: CAD
+    sourceId: CAD
+    target: THB
+    targetId: THB
+-
+    symbol: CAD-CHF
+    source: CAD
+    sourceId: CAD
+    target: CHF
+    targetId: CHF
+-
+    symbol: CAD-SGD
+    source: CAD
+    sourceId: CAD
+    target: SGD
+    targetId: SGD
+-
+    symbol: CAD-PLN
+    source: CAD
+    sourceId: CAD
+    target: PLN
+    targetId: PLN
+-
+    symbol: CAD-BGN
+    source: CAD
+    sourceId: CAD
+    target: BGN
+    targetId: BGN
+-
+    symbol: CAD-TRY
+    source: CAD
+    sourceId: CAD
+    target: TRY
+    targetId: TRY
+-
+    symbol: CAD-CNY
+    source: CAD
+    sourceId: CAD
+    target: CNY
+    targetId: CNY
+-
+    symbol: CAD-NOK
+    source: CAD
+    sourceId: CAD
+    target: NOK
+    targetId: NOK
+-
+    symbol: CAD-NZD
+    source: CAD
+    sourceId: CAD
+    target: NZD
+    targetId: NZD
+-
+    symbol: CAD-ZAR
+    source: CAD
+    sourceId: CAD
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: CAD-USD
+    source: CAD
+    sourceId: CAD
+    target: USD
+    targetId: USD
+-
+    symbol: CAD-MXN
+    source: CAD
+    sourceId: CAD
+    target: MXN
+    targetId: MXN
+-
+    symbol: CAD-ILS
+    source: CAD
+    sourceId: CAD
+    target: ILS
+    targetId: ILS
+-
+    symbol: CAD-GBP
+    source: CAD
+    sourceId: CAD
+    target: GBP
+    targetId: GBP
+-
+    symbol: CAD-KRW
+    source: CAD
+    sourceId: CAD
+    target: KRW
+    targetId: KRW
+-
+    symbol: CAD-MYR
+    source: CAD
+    sourceId: CAD
+    target: MYR
+    targetId: MYR
+-
+    symbol: HKD-CAD
+    source: HKD
+    sourceId: HKD
+    target: CAD
+    targetId: CAD
+-
+    symbol: HKD-ISK
+    source: HKD
+    sourceId: HKD
+    target: ISK
+    targetId: ISK
+-
+    symbol: HKD-PHP
+    source: HKD
+    sourceId: HKD
+    target: PHP
+    targetId: PHP
+-
+    symbol: HKD-DKK
+    source: HKD
+    sourceId: HKD
+    target: DKK
+    targetId: DKK
+-
+    symbol: HKD-HUF
+    source: HKD
+    sourceId: HKD
+    target: HUF
+    targetId: HUF
+-
+    symbol: HKD-CZK
+    source: HKD
+    sourceId: HKD
+    target: CZK
+    targetId: CZK
+-
+    symbol: HKD-AUD
+    source: HKD
+    sourceId: HKD
+    target: AUD
+    targetId: AUD
+-
+    symbol: HKD-RON
+    source: HKD
+    sourceId: HKD
+    target: RON
+    targetId: RON
+-
+    symbol: HKD-SEK
+    source: HKD
+    sourceId: HKD
+    target: SEK
+    targetId: SEK
+-
+    symbol: HKD-IDR
+    source: HKD
+    sourceId: HKD
+    target: IDR
+    targetId: IDR
+-
+    symbol: HKD-INR
+    source: HKD
+    sourceId: HKD
+    target: INR
+    targetId: INR
+-
+    symbol: HKD-BRL
+    source: HKD
+    sourceId: HKD
+    target: BRL
+    targetId: BRL
+-
+    symbol: HKD-RUB
+    source: HKD
+    sourceId: HKD
+    target: RUB
+    targetId: RUB
+-
+    symbol: HKD-HRK
+    source: HKD
+    sourceId: HKD
+    target: HRK
+    targetId: HRK
+-
+    symbol: HKD-JPY
+    source: HKD
+    sourceId: HKD
+    target: JPY
+    targetId: JPY
+-
+    symbol: HKD-THB
+    source: HKD
+    sourceId: HKD
+    target: THB
+    targetId: THB
+-
+    symbol: HKD-CHF
+    source: HKD
+    sourceId: HKD
+    target: CHF
+    targetId: CHF
+-
+    symbol: HKD-SGD
+    source: HKD
+    sourceId: HKD
+    target: SGD
+    targetId: SGD
+-
+    symbol: HKD-PLN
+    source: HKD
+    sourceId: HKD
+    target: PLN
+    targetId: PLN
+-
+    symbol: HKD-BGN
+    source: HKD
+    sourceId: HKD
+    target: BGN
+    targetId: BGN
+-
+    symbol: HKD-TRY
+    source: HKD
+    sourceId: HKD
+    target: TRY
+    targetId: TRY
+-
+    symbol: HKD-CNY
+    source: HKD
+    sourceId: HKD
+    target: CNY
+    targetId: CNY
+-
+    symbol: HKD-NOK
+    source: HKD
+    sourceId: HKD
+    target: NOK
+    targetId: NOK
+-
+    symbol: HKD-NZD
+    source: HKD
+    sourceId: HKD
+    target: NZD
+    targetId: NZD
+-
+    symbol: HKD-ZAR
+    source: HKD
+    sourceId: HKD
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: HKD-USD
+    source: HKD
+    sourceId: HKD
+    target: USD
+    targetId: USD
+-
+    symbol: HKD-MXN
+    source: HKD
+    sourceId: HKD
+    target: MXN
+    targetId: MXN
+-
+    symbol: HKD-ILS
+    source: HKD
+    sourceId: HKD
+    target: ILS
+    targetId: ILS
+-
+    symbol: HKD-GBP
+    source: HKD
+    sourceId: HKD
+    target: GBP
+    targetId: GBP
+-
+    symbol: HKD-KRW
+    source: HKD
+    sourceId: HKD
+    target: KRW
+    targetId: KRW
+-
+    symbol: HKD-MYR
+    source: HKD
+    sourceId: HKD
+    target: MYR
+    targetId: MYR
+-
+    symbol: ISK-CAD
+    source: ISK
+    sourceId: ISK
+    target: CAD
+    targetId: CAD
+-
+    symbol: ISK-HKD
+    source: ISK
+    sourceId: ISK
+    target: HKD
+    targetId: HKD
+-
+    symbol: ISK-PHP
+    source: ISK
+    sourceId: ISK
+    target: PHP
+    targetId: PHP
+-
+    symbol: ISK-DKK
+    source: ISK
+    sourceId: ISK
+    target: DKK
+    targetId: DKK
+-
+    symbol: ISK-HUF
+    source: ISK
+    sourceId: ISK
+    target: HUF
+    targetId: HUF
+-
+    symbol: ISK-CZK
+    source: ISK
+    sourceId: ISK
+    target: CZK
+    targetId: CZK
+-
+    symbol: ISK-AUD
+    source: ISK
+    sourceId: ISK
+    target: AUD
+    targetId: AUD
+-
+    symbol: ISK-RON
+    source: ISK
+    sourceId: ISK
+    target: RON
+    targetId: RON
+-
+    symbol: ISK-SEK
+    source: ISK
+    sourceId: ISK
+    target: SEK
+    targetId: SEK
+-
+    symbol: ISK-IDR
+    source: ISK
+    sourceId: ISK
+    target: IDR
+    targetId: IDR
+-
+    symbol: ISK-INR
+    source: ISK
+    sourceId: ISK
+    target: INR
+    targetId: INR
+-
+    symbol: ISK-BRL
+    source: ISK
+    sourceId: ISK
+    target: BRL
+    targetId: BRL
+-
+    symbol: ISK-RUB
+    source: ISK
+    sourceId: ISK
+    target: RUB
+    targetId: RUB
+-
+    symbol: ISK-HRK
+    source: ISK
+    sourceId: ISK
+    target: HRK
+    targetId: HRK
+-
+    symbol: ISK-JPY
+    source: ISK
+    sourceId: ISK
+    target: JPY
+    targetId: JPY
+-
+    symbol: ISK-THB
+    source: ISK
+    sourceId: ISK
+    target: THB
+    targetId: THB
+-
+    symbol: ISK-CHF
+    source: ISK
+    sourceId: ISK
+    target: CHF
+    targetId: CHF
+-
+    symbol: ISK-SGD
+    source: ISK
+    sourceId: ISK
+    target: SGD
+    targetId: SGD
+-
+    symbol: ISK-PLN
+    source: ISK
+    sourceId: ISK
+    target: PLN
+    targetId: PLN
+-
+    symbol: ISK-BGN
+    source: ISK
+    sourceId: ISK
+    target: BGN
+    targetId: BGN
+-
+    symbol: ISK-TRY
+    source: ISK
+    sourceId: ISK
+    target: TRY
+    targetId: TRY
+-
+    symbol: ISK-CNY
+    source: ISK
+    sourceId: ISK
+    target: CNY
+    targetId: CNY
+-
+    symbol: ISK-NOK
+    source: ISK
+    sourceId: ISK
+    target: NOK
+    targetId: NOK
+-
+    symbol: ISK-NZD
+    source: ISK
+    sourceId: ISK
+    target: NZD
+    targetId: NZD
+-
+    symbol: ISK-ZAR
+    source: ISK
+    sourceId: ISK
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: ISK-USD
+    source: ISK
+    sourceId: ISK
+    target: USD
+    targetId: USD
+-
+    symbol: ISK-MXN
+    source: ISK
+    sourceId: ISK
+    target: MXN
+    targetId: MXN
+-
+    symbol: ISK-ILS
+    source: ISK
+    sourceId: ISK
+    target: ILS
+    targetId: ILS
+-
+    symbol: ISK-GBP
+    source: ISK
+    sourceId: ISK
+    target: GBP
+    targetId: GBP
+-
+    symbol: ISK-KRW
+    source: ISK
+    sourceId: ISK
+    target: KRW
+    targetId: KRW
+-
+    symbol: ISK-MYR
+    source: ISK
+    sourceId: ISK
+    target: MYR
+    targetId: MYR
+-
+    symbol: PHP-CAD
+    source: PHP
+    sourceId: PHP
+    target: CAD
+    targetId: CAD
+-
+    symbol: PHP-HKD
+    source: PHP
+    sourceId: PHP
+    target: HKD
+    targetId: HKD
+-
+    symbol: PHP-ISK
+    source: PHP
+    sourceId: PHP
+    target: ISK
+    targetId: ISK
+-
+    symbol: PHP-DKK
+    source: PHP
+    sourceId: PHP
+    target: DKK
+    targetId: DKK
+-
+    symbol: PHP-HUF
+    source: PHP
+    sourceId: PHP
+    target: HUF
+    targetId: HUF
+-
+    symbol: PHP-CZK
+    source: PHP
+    sourceId: PHP
+    target: CZK
+    targetId: CZK
+-
+    symbol: PHP-AUD
+    source: PHP
+    sourceId: PHP
+    target: AUD
+    targetId: AUD
+-
+    symbol: PHP-RON
+    source: PHP
+    sourceId: PHP
+    target: RON
+    targetId: RON
+-
+    symbol: PHP-SEK
+    source: PHP
+    sourceId: PHP
+    target: SEK
+    targetId: SEK
+-
+    symbol: PHP-IDR
+    source: PHP
+    sourceId: PHP
+    target: IDR
+    targetId: IDR
+-
+    symbol: PHP-INR
+    source: PHP
+    sourceId: PHP
+    target: INR
+    targetId: INR
+-
+    symbol: PHP-BRL
+    source: PHP
+    sourceId: PHP
+    target: BRL
+    targetId: BRL
+-
+    symbol: PHP-RUB
+    source: PHP
+    sourceId: PHP
+    target: RUB
+    targetId: RUB
+-
+    symbol: PHP-HRK
+    source: PHP
+    sourceId: PHP
+    target: HRK
+    targetId: HRK
+-
+    symbol: PHP-JPY
+    source: PHP
+    sourceId: PHP
+    target: JPY
+    targetId: JPY
+-
+    symbol: PHP-THB
+    source: PHP
+    sourceId: PHP
+    target: THB
+    targetId: THB
+-
+    symbol: PHP-CHF
+    source: PHP
+    sourceId: PHP
+    target: CHF
+    targetId: CHF
+-
+    symbol: PHP-SGD
+    source: PHP
+    sourceId: PHP
+    target: SGD
+    targetId: SGD
+-
+    symbol: PHP-PLN
+    source: PHP
+    sourceId: PHP
+    target: PLN
+    targetId: PLN
+-
+    symbol: PHP-BGN
+    source: PHP
+    sourceId: PHP
+    target: BGN
+    targetId: BGN
+-
+    symbol: PHP-TRY
+    source: PHP
+    sourceId: PHP
+    target: TRY
+    targetId: TRY
+-
+    symbol: PHP-CNY
+    source: PHP
+    sourceId: PHP
+    target: CNY
+    targetId: CNY
+-
+    symbol: PHP-NOK
+    source: PHP
+    sourceId: PHP
+    target: NOK
+    targetId: NOK
+-
+    symbol: PHP-NZD
+    source: PHP
+    sourceId: PHP
+    target: NZD
+    targetId: NZD
+-
+    symbol: PHP-ZAR
+    source: PHP
+    sourceId: PHP
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: PHP-USD
+    source: PHP
+    sourceId: PHP
+    target: USD
+    targetId: USD
+-
+    symbol: PHP-MXN
+    source: PHP
+    sourceId: PHP
+    target: MXN
+    targetId: MXN
+-
+    symbol: PHP-ILS
+    source: PHP
+    sourceId: PHP
+    target: ILS
+    targetId: ILS
+-
+    symbol: PHP-GBP
+    source: PHP
+    sourceId: PHP
+    target: GBP
+    targetId: GBP
+-
+    symbol: PHP-KRW
+    source: PHP
+    sourceId: PHP
+    target: KRW
+    targetId: KRW
+-
+    symbol: PHP-MYR
+    source: PHP
+    sourceId: PHP
+    target: MYR
+    targetId: MYR
+-
+    symbol: DKK-CAD
+    source: DKK
+    sourceId: DKK
+    target: CAD
+    targetId: CAD
+-
+    symbol: DKK-HKD
+    source: DKK
+    sourceId: DKK
+    target: HKD
+    targetId: HKD
+-
+    symbol: DKK-ISK
+    source: DKK
+    sourceId: DKK
+    target: ISK
+    targetId: ISK
+-
+    symbol: DKK-PHP
+    source: DKK
+    sourceId: DKK
+    target: PHP
+    targetId: PHP
+-
+    symbol: DKK-HUF
+    source: DKK
+    sourceId: DKK
+    target: HUF
+    targetId: HUF
+-
+    symbol: DKK-CZK
+    source: DKK
+    sourceId: DKK
+    target: CZK
+    targetId: CZK
+-
+    symbol: DKK-AUD
+    source: DKK
+    sourceId: DKK
+    target: AUD
+    targetId: AUD
+-
+    symbol: DKK-RON
+    source: DKK
+    sourceId: DKK
+    target: RON
+    targetId: RON
+-
+    symbol: DKK-SEK
+    source: DKK
+    sourceId: DKK
+    target: SEK
+    targetId: SEK
+-
+    symbol: DKK-IDR
+    source: DKK
+    sourceId: DKK
+    target: IDR
+    targetId: IDR
+-
+    symbol: DKK-INR
+    source: DKK
+    sourceId: DKK
+    target: INR
+    targetId: INR
+-
+    symbol: DKK-BRL
+    source: DKK
+    sourceId: DKK
+    target: BRL
+    targetId: BRL
+-
+    symbol: DKK-RUB
+    source: DKK
+    sourceId: DKK
+    target: RUB
+    targetId: RUB
+-
+    symbol: DKK-HRK
+    source: DKK
+    sourceId: DKK
+    target: HRK
+    targetId: HRK
+-
+    symbol: DKK-JPY
+    source: DKK
+    sourceId: DKK
+    target: JPY
+    targetId: JPY
+-
+    symbol: DKK-THB
+    source: DKK
+    sourceId: DKK
+    target: THB
+    targetId: THB
+-
+    symbol: DKK-CHF
+    source: DKK
+    sourceId: DKK
+    target: CHF
+    targetId: CHF
+-
+    symbol: DKK-SGD
+    source: DKK
+    sourceId: DKK
+    target: SGD
+    targetId: SGD
+-
+    symbol: DKK-PLN
+    source: DKK
+    sourceId: DKK
+    target: PLN
+    targetId: PLN
+-
+    symbol: DKK-BGN
+    source: DKK
+    sourceId: DKK
+    target: BGN
+    targetId: BGN
+-
+    symbol: DKK-TRY
+    source: DKK
+    sourceId: DKK
+    target: TRY
+    targetId: TRY
+-
+    symbol: DKK-CNY
+    source: DKK
+    sourceId: DKK
+    target: CNY
+    targetId: CNY
+-
+    symbol: DKK-NOK
+    source: DKK
+    sourceId: DKK
+    target: NOK
+    targetId: NOK
+-
+    symbol: DKK-NZD
+    source: DKK
+    sourceId: DKK
+    target: NZD
+    targetId: NZD
+-
+    symbol: DKK-ZAR
+    source: DKK
+    sourceId: DKK
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: DKK-USD
+    source: DKK
+    sourceId: DKK
+    target: USD
+    targetId: USD
+-
+    symbol: DKK-MXN
+    source: DKK
+    sourceId: DKK
+    target: MXN
+    targetId: MXN
+-
+    symbol: DKK-ILS
+    source: DKK
+    sourceId: DKK
+    target: ILS
+    targetId: ILS
+-
+    symbol: DKK-GBP
+    source: DKK
+    sourceId: DKK
+    target: GBP
+    targetId: GBP
+-
+    symbol: DKK-KRW
+    source: DKK
+    sourceId: DKK
+    target: KRW
+    targetId: KRW
+-
+    symbol: DKK-MYR
+    source: DKK
+    sourceId: DKK
+    target: MYR
+    targetId: MYR
+-
+    symbol: HUF-CAD
+    source: HUF
+    sourceId: HUF
+    target: CAD
+    targetId: CAD
+-
+    symbol: HUF-HKD
+    source: HUF
+    sourceId: HUF
+    target: HKD
+    targetId: HKD
+-
+    symbol: HUF-ISK
+    source: HUF
+    sourceId: HUF
+    target: ISK
+    targetId: ISK
+-
+    symbol: HUF-PHP
+    source: HUF
+    sourceId: HUF
+    target: PHP
+    targetId: PHP
+-
+    symbol: HUF-DKK
+    source: HUF
+    sourceId: HUF
+    target: DKK
+    targetId: DKK
+-
+    symbol: HUF-CZK
+    source: HUF
+    sourceId: HUF
+    target: CZK
+    targetId: CZK
+-
+    symbol: HUF-AUD
+    source: HUF
+    sourceId: HUF
+    target: AUD
+    targetId: AUD
+-
+    symbol: HUF-RON
+    source: HUF
+    sourceId: HUF
+    target: RON
+    targetId: RON
+-
+    symbol: HUF-SEK
+    source: HUF
+    sourceId: HUF
+    target: SEK
+    targetId: SEK
+-
+    symbol: HUF-IDR
+    source: HUF
+    sourceId: HUF
+    target: IDR
+    targetId: IDR
+-
+    symbol: HUF-INR
+    source: HUF
+    sourceId: HUF
+    target: INR
+    targetId: INR
+-
+    symbol: HUF-BRL
+    source: HUF
+    sourceId: HUF
+    target: BRL
+    targetId: BRL
+-
+    symbol: HUF-RUB
+    source: HUF
+    sourceId: HUF
+    target: RUB
+    targetId: RUB
+-
+    symbol: HUF-HRK
+    source: HUF
+    sourceId: HUF
+    target: HRK
+    targetId: HRK
+-
+    symbol: HUF-JPY
+    source: HUF
+    sourceId: HUF
+    target: JPY
+    targetId: JPY
+-
+    symbol: HUF-THB
+    source: HUF
+    sourceId: HUF
+    target: THB
+    targetId: THB
+-
+    symbol: HUF-CHF
+    source: HUF
+    sourceId: HUF
+    target: CHF
+    targetId: CHF
+-
+    symbol: HUF-SGD
+    source: HUF
+    sourceId: HUF
+    target: SGD
+    targetId: SGD
+-
+    symbol: HUF-PLN
+    source: HUF
+    sourceId: HUF
+    target: PLN
+    targetId: PLN
+-
+    symbol: HUF-BGN
+    source: HUF
+    sourceId: HUF
+    target: BGN
+    targetId: BGN
+-
+    symbol: HUF-TRY
+    source: HUF
+    sourceId: HUF
+    target: TRY
+    targetId: TRY
+-
+    symbol: HUF-CNY
+    source: HUF
+    sourceId: HUF
+    target: CNY
+    targetId: CNY
+-
+    symbol: HUF-NOK
+    source: HUF
+    sourceId: HUF
+    target: NOK
+    targetId: NOK
+-
+    symbol: HUF-NZD
+    source: HUF
+    sourceId: HUF
+    target: NZD
+    targetId: NZD
+-
+    symbol: HUF-ZAR
+    source: HUF
+    sourceId: HUF
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: HUF-USD
+    source: HUF
+    sourceId: HUF
+    target: USD
+    targetId: USD
+-
+    symbol: HUF-MXN
+    source: HUF
+    sourceId: HUF
+    target: MXN
+    targetId: MXN
+-
+    symbol: HUF-ILS
+    source: HUF
+    sourceId: HUF
+    target: ILS
+    targetId: ILS
+-
+    symbol: HUF-GBP
+    source: HUF
+    sourceId: HUF
+    target: GBP
+    targetId: GBP
+-
+    symbol: HUF-KRW
+    source: HUF
+    sourceId: HUF
+    target: KRW
+    targetId: KRW
+-
+    symbol: HUF-MYR
+    source: HUF
+    sourceId: HUF
+    target: MYR
+    targetId: MYR
+-
+    symbol: CZK-CAD
+    source: CZK
+    sourceId: CZK
+    target: CAD
+    targetId: CAD
+-
+    symbol: CZK-HKD
+    source: CZK
+    sourceId: CZK
+    target: HKD
+    targetId: HKD
+-
+    symbol: CZK-ISK
+    source: CZK
+    sourceId: CZK
+    target: ISK
+    targetId: ISK
+-
+    symbol: CZK-PHP
+    source: CZK
+    sourceId: CZK
+    target: PHP
+    targetId: PHP
+-
+    symbol: CZK-DKK
+    source: CZK
+    sourceId: CZK
+    target: DKK
+    targetId: DKK
+-
+    symbol: CZK-HUF
+    source: CZK
+    sourceId: CZK
+    target: HUF
+    targetId: HUF
+-
+    symbol: CZK-AUD
+    source: CZK
+    sourceId: CZK
+    target: AUD
+    targetId: AUD
+-
+    symbol: CZK-RON
+    source: CZK
+    sourceId: CZK
+    target: RON
+    targetId: RON
+-
+    symbol: CZK-SEK
+    source: CZK
+    sourceId: CZK
+    target: SEK
+    targetId: SEK
+-
+    symbol: CZK-IDR
+    source: CZK
+    sourceId: CZK
+    target: IDR
+    targetId: IDR
+-
+    symbol: CZK-INR
+    source: CZK
+    sourceId: CZK
+    target: INR
+    targetId: INR
+-
+    symbol: CZK-BRL
+    source: CZK
+    sourceId: CZK
+    target: BRL
+    targetId: BRL
+-
+    symbol: CZK-RUB
+    source: CZK
+    sourceId: CZK
+    target: RUB
+    targetId: RUB
+-
+    symbol: CZK-HRK
+    source: CZK
+    sourceId: CZK
+    target: HRK
+    targetId: HRK
+-
+    symbol: CZK-JPY
+    source: CZK
+    sourceId: CZK
+    target: JPY
+    targetId: JPY
+-
+    symbol: CZK-THB
+    source: CZK
+    sourceId: CZK
+    target: THB
+    targetId: THB
+-
+    symbol: CZK-CHF
+    source: CZK
+    sourceId: CZK
+    target: CHF
+    targetId: CHF
+-
+    symbol: CZK-SGD
+    source: CZK
+    sourceId: CZK
+    target: SGD
+    targetId: SGD
+-
+    symbol: CZK-PLN
+    source: CZK
+    sourceId: CZK
+    target: PLN
+    targetId: PLN
+-
+    symbol: CZK-BGN
+    source: CZK
+    sourceId: CZK
+    target: BGN
+    targetId: BGN
+-
+    symbol: CZK-TRY
+    source: CZK
+    sourceId: CZK
+    target: TRY
+    targetId: TRY
+-
+    symbol: CZK-CNY
+    source: CZK
+    sourceId: CZK
+    target: CNY
+    targetId: CNY
+-
+    symbol: CZK-NOK
+    source: CZK
+    sourceId: CZK
+    target: NOK
+    targetId: NOK
+-
+    symbol: CZK-NZD
+    source: CZK
+    sourceId: CZK
+    target: NZD
+    targetId: NZD
+-
+    symbol: CZK-ZAR
+    source: CZK
+    sourceId: CZK
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: CZK-USD
+    source: CZK
+    sourceId: CZK
+    target: USD
+    targetId: USD
+-
+    symbol: CZK-MXN
+    source: CZK
+    sourceId: CZK
+    target: MXN
+    targetId: MXN
+-
+    symbol: CZK-ILS
+    source: CZK
+    sourceId: CZK
+    target: ILS
+    targetId: ILS
+-
+    symbol: CZK-GBP
+    source: CZK
+    sourceId: CZK
+    target: GBP
+    targetId: GBP
+-
+    symbol: CZK-KRW
+    source: CZK
+    sourceId: CZK
+    target: KRW
+    targetId: KRW
+-
+    symbol: CZK-MYR
+    source: CZK
+    sourceId: CZK
+    target: MYR
+    targetId: MYR
+-
+    symbol: AUD-CAD
+    source: AUD
+    sourceId: AUD
+    target: CAD
+    targetId: CAD
+-
+    symbol: AUD-HKD
+    source: AUD
+    sourceId: AUD
+    target: HKD
+    targetId: HKD
+-
+    symbol: AUD-ISK
+    source: AUD
+    sourceId: AUD
+    target: ISK
+    targetId: ISK
+-
+    symbol: AUD-PHP
+    source: AUD
+    sourceId: AUD
+    target: PHP
+    targetId: PHP
+-
+    symbol: AUD-DKK
+    source: AUD
+    sourceId: AUD
+    target: DKK
+    targetId: DKK
+-
+    symbol: AUD-HUF
+    source: AUD
+    sourceId: AUD
+    target: HUF
+    targetId: HUF
+-
+    symbol: AUD-CZK
+    source: AUD
+    sourceId: AUD
+    target: CZK
+    targetId: CZK
+-
+    symbol: AUD-RON
+    source: AUD
+    sourceId: AUD
+    target: RON
+    targetId: RON
+-
+    symbol: AUD-SEK
+    source: AUD
+    sourceId: AUD
+    target: SEK
+    targetId: SEK
+-
+    symbol: AUD-IDR
+    source: AUD
+    sourceId: AUD
+    target: IDR
+    targetId: IDR
+-
+    symbol: AUD-INR
+    source: AUD
+    sourceId: AUD
+    target: INR
+    targetId: INR
+-
+    symbol: AUD-BRL
+    source: AUD
+    sourceId: AUD
+    target: BRL
+    targetId: BRL
+-
+    symbol: AUD-RUB
+    source: AUD
+    sourceId: AUD
+    target: RUB
+    targetId: RUB
+-
+    symbol: AUD-HRK
+    source: AUD
+    sourceId: AUD
+    target: HRK
+    targetId: HRK
+-
+    symbol: AUD-JPY
+    source: AUD
+    sourceId: AUD
+    target: JPY
+    targetId: JPY
+-
+    symbol: AUD-THB
+    source: AUD
+    sourceId: AUD
+    target: THB
+    targetId: THB
+-
+    symbol: AUD-CHF
+    source: AUD
+    sourceId: AUD
+    target: CHF
+    targetId: CHF
+-
+    symbol: AUD-SGD
+    source: AUD
+    sourceId: AUD
+    target: SGD
+    targetId: SGD
+-
+    symbol: AUD-PLN
+    source: AUD
+    sourceId: AUD
+    target: PLN
+    targetId: PLN
+-
+    symbol: AUD-BGN
+    source: AUD
+    sourceId: AUD
+    target: BGN
+    targetId: BGN
+-
+    symbol: AUD-TRY
+    source: AUD
+    sourceId: AUD
+    target: TRY
+    targetId: TRY
+-
+    symbol: AUD-CNY
+    source: AUD
+    sourceId: AUD
+    target: CNY
+    targetId: CNY
+-
+    symbol: AUD-NOK
+    source: AUD
+    sourceId: AUD
+    target: NOK
+    targetId: NOK
+-
+    symbol: AUD-NZD
+    source: AUD
+    sourceId: AUD
+    target: NZD
+    targetId: NZD
+-
+    symbol: AUD-ZAR
+    source: AUD
+    sourceId: AUD
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: AUD-USD
+    source: AUD
+    sourceId: AUD
+    target: USD
+    targetId: USD
+-
+    symbol: AUD-MXN
+    source: AUD
+    sourceId: AUD
+    target: MXN
+    targetId: MXN
+-
+    symbol: AUD-ILS
+    source: AUD
+    sourceId: AUD
+    target: ILS
+    targetId: ILS
+-
+    symbol: AUD-GBP
+    source: AUD
+    sourceId: AUD
+    target: GBP
+    targetId: GBP
+-
+    symbol: AUD-KRW
+    source: AUD
+    sourceId: AUD
+    target: KRW
+    targetId: KRW
+-
+    symbol: AUD-MYR
+    source: AUD
+    sourceId: AUD
+    target: MYR
+    targetId: MYR
+-
+    symbol: RON-CAD
+    source: RON
+    sourceId: RON
+    target: CAD
+    targetId: CAD
+-
+    symbol: RON-HKD
+    source: RON
+    sourceId: RON
+    target: HKD
+    targetId: HKD
+-
+    symbol: RON-ISK
+    source: RON
+    sourceId: RON
+    target: ISK
+    targetId: ISK
+-
+    symbol: RON-PHP
+    source: RON
+    sourceId: RON
+    target: PHP
+    targetId: PHP
+-
+    symbol: RON-DKK
+    source: RON
+    sourceId: RON
+    target: DKK
+    targetId: DKK
+-
+    symbol: RON-HUF
+    source: RON
+    sourceId: RON
+    target: HUF
+    targetId: HUF
+-
+    symbol: RON-CZK
+    source: RON
+    sourceId: RON
+    target: CZK
+    targetId: CZK
+-
+    symbol: RON-AUD
+    source: RON
+    sourceId: RON
+    target: AUD
+    targetId: AUD
+-
+    symbol: RON-SEK
+    source: RON
+    sourceId: RON
+    target: SEK
+    targetId: SEK
+-
+    symbol: RON-IDR
+    source: RON
+    sourceId: RON
+    target: IDR
+    targetId: IDR
+-
+    symbol: RON-INR
+    source: RON
+    sourceId: RON
+    target: INR
+    targetId: INR
+-
+    symbol: RON-BRL
+    source: RON
+    sourceId: RON
+    target: BRL
+    targetId: BRL
+-
+    symbol: RON-RUB
+    source: RON
+    sourceId: RON
+    target: RUB
+    targetId: RUB
+-
+    symbol: RON-HRK
+    source: RON
+    sourceId: RON
+    target: HRK
+    targetId: HRK
+-
+    symbol: RON-JPY
+    source: RON
+    sourceId: RON
+    target: JPY
+    targetId: JPY
+-
+    symbol: RON-THB
+    source: RON
+    sourceId: RON
+    target: THB
+    targetId: THB
+-
+    symbol: RON-CHF
+    source: RON
+    sourceId: RON
+    target: CHF
+    targetId: CHF
+-
+    symbol: RON-SGD
+    source: RON
+    sourceId: RON
+    target: SGD
+    targetId: SGD
+-
+    symbol: RON-PLN
+    source: RON
+    sourceId: RON
+    target: PLN
+    targetId: PLN
+-
+    symbol: RON-BGN
+    source: RON
+    sourceId: RON
+    target: BGN
+    targetId: BGN
+-
+    symbol: RON-TRY
+    source: RON
+    sourceId: RON
+    target: TRY
+    targetId: TRY
+-
+    symbol: RON-CNY
+    source: RON
+    sourceId: RON
+    target: CNY
+    targetId: CNY
+-
+    symbol: RON-NOK
+    source: RON
+    sourceId: RON
+    target: NOK
+    targetId: NOK
+-
+    symbol: RON-NZD
+    source: RON
+    sourceId: RON
+    target: NZD
+    targetId: NZD
+-
+    symbol: RON-ZAR
+    source: RON
+    sourceId: RON
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: RON-USD
+    source: RON
+    sourceId: RON
+    target: USD
+    targetId: USD
+-
+    symbol: RON-MXN
+    source: RON
+    sourceId: RON
+    target: MXN
+    targetId: MXN
+-
+    symbol: RON-ILS
+    source: RON
+    sourceId: RON
+    target: ILS
+    targetId: ILS
+-
+    symbol: RON-GBP
+    source: RON
+    sourceId: RON
+    target: GBP
+    targetId: GBP
+-
+    symbol: RON-KRW
+    source: RON
+    sourceId: RON
+    target: KRW
+    targetId: KRW
+-
+    symbol: RON-MYR
+    source: RON
+    sourceId: RON
+    target: MYR
+    targetId: MYR
+-
+    symbol: SEK-CAD
+    source: SEK
+    sourceId: SEK
+    target: CAD
+    targetId: CAD
+-
+    symbol: SEK-HKD
+    source: SEK
+    sourceId: SEK
+    target: HKD
+    targetId: HKD
+-
+    symbol: SEK-ISK
+    source: SEK
+    sourceId: SEK
+    target: ISK
+    targetId: ISK
+-
+    symbol: SEK-PHP
+    source: SEK
+    sourceId: SEK
+    target: PHP
+    targetId: PHP
+-
+    symbol: SEK-DKK
+    source: SEK
+    sourceId: SEK
+    target: DKK
+    targetId: DKK
+-
+    symbol: SEK-HUF
+    source: SEK
+    sourceId: SEK
+    target: HUF
+    targetId: HUF
+-
+    symbol: SEK-CZK
+    source: SEK
+    sourceId: SEK
+    target: CZK
+    targetId: CZK
+-
+    symbol: SEK-AUD
+    source: SEK
+    sourceId: SEK
+    target: AUD
+    targetId: AUD
+-
+    symbol: SEK-RON
+    source: SEK
+    sourceId: SEK
+    target: RON
+    targetId: RON
+-
+    symbol: SEK-IDR
+    source: SEK
+    sourceId: SEK
+    target: IDR
+    targetId: IDR
+-
+    symbol: SEK-INR
+    source: SEK
+    sourceId: SEK
+    target: INR
+    targetId: INR
+-
+    symbol: SEK-BRL
+    source: SEK
+    sourceId: SEK
+    target: BRL
+    targetId: BRL
+-
+    symbol: SEK-RUB
+    source: SEK
+    sourceId: SEK
+    target: RUB
+    targetId: RUB
+-
+    symbol: SEK-HRK
+    source: SEK
+    sourceId: SEK
+    target: HRK
+    targetId: HRK
+-
+    symbol: SEK-JPY
+    source: SEK
+    sourceId: SEK
+    target: JPY
+    targetId: JPY
+-
+    symbol: SEK-THB
+    source: SEK
+    sourceId: SEK
+    target: THB
+    targetId: THB
+-
+    symbol: SEK-CHF
+    source: SEK
+    sourceId: SEK
+    target: CHF
+    targetId: CHF
+-
+    symbol: SEK-SGD
+    source: SEK
+    sourceId: SEK
+    target: SGD
+    targetId: SGD
+-
+    symbol: SEK-PLN
+    source: SEK
+    sourceId: SEK
+    target: PLN
+    targetId: PLN
+-
+    symbol: SEK-BGN
+    source: SEK
+    sourceId: SEK
+    target: BGN
+    targetId: BGN
+-
+    symbol: SEK-TRY
+    source: SEK
+    sourceId: SEK
+    target: TRY
+    targetId: TRY
+-
+    symbol: SEK-CNY
+    source: SEK
+    sourceId: SEK
+    target: CNY
+    targetId: CNY
+-
+    symbol: SEK-NOK
+    source: SEK
+    sourceId: SEK
+    target: NOK
+    targetId: NOK
+-
+    symbol: SEK-NZD
+    source: SEK
+    sourceId: SEK
+    target: NZD
+    targetId: NZD
+-
+    symbol: SEK-ZAR
+    source: SEK
+    sourceId: SEK
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: SEK-USD
+    source: SEK
+    sourceId: SEK
+    target: USD
+    targetId: USD
+-
+    symbol: SEK-MXN
+    source: SEK
+    sourceId: SEK
+    target: MXN
+    targetId: MXN
+-
+    symbol: SEK-ILS
+    source: SEK
+    sourceId: SEK
+    target: ILS
+    targetId: ILS
+-
+    symbol: SEK-GBP
+    source: SEK
+    sourceId: SEK
+    target: GBP
+    targetId: GBP
+-
+    symbol: SEK-KRW
+    source: SEK
+    sourceId: SEK
+    target: KRW
+    targetId: KRW
+-
+    symbol: SEK-MYR
+    source: SEK
+    sourceId: SEK
+    target: MYR
+    targetId: MYR
+-
+    symbol: IDR-CAD
+    source: IDR
+    sourceId: IDR
+    target: CAD
+    targetId: CAD
+-
+    symbol: IDR-HKD
+    source: IDR
+    sourceId: IDR
+    target: HKD
+    targetId: HKD
+-
+    symbol: IDR-ISK
+    source: IDR
+    sourceId: IDR
+    target: ISK
+    targetId: ISK
+-
+    symbol: IDR-PHP
+    source: IDR
+    sourceId: IDR
+    target: PHP
+    targetId: PHP
+-
+    symbol: IDR-DKK
+    source: IDR
+    sourceId: IDR
+    target: DKK
+    targetId: DKK
+-
+    symbol: IDR-HUF
+    source: IDR
+    sourceId: IDR
+    target: HUF
+    targetId: HUF
+-
+    symbol: IDR-CZK
+    source: IDR
+    sourceId: IDR
+    target: CZK
+    targetId: CZK
+-
+    symbol: IDR-AUD
+    source: IDR
+    sourceId: IDR
+    target: AUD
+    targetId: AUD
+-
+    symbol: IDR-RON
+    source: IDR
+    sourceId: IDR
+    target: RON
+    targetId: RON
+-
+    symbol: IDR-SEK
+    source: IDR
+    sourceId: IDR
+    target: SEK
+    targetId: SEK
+-
+    symbol: IDR-INR
+    source: IDR
+    sourceId: IDR
+    target: INR
+    targetId: INR
+-
+    symbol: IDR-BRL
+    source: IDR
+    sourceId: IDR
+    target: BRL
+    targetId: BRL
+-
+    symbol: IDR-RUB
+    source: IDR
+    sourceId: IDR
+    target: RUB
+    targetId: RUB
+-
+    symbol: IDR-HRK
+    source: IDR
+    sourceId: IDR
+    target: HRK
+    targetId: HRK
+-
+    symbol: IDR-JPY
+    source: IDR
+    sourceId: IDR
+    target: JPY
+    targetId: JPY
+-
+    symbol: IDR-THB
+    source: IDR
+    sourceId: IDR
+    target: THB
+    targetId: THB
+-
+    symbol: IDR-CHF
+    source: IDR
+    sourceId: IDR
+    target: CHF
+    targetId: CHF
+-
+    symbol: IDR-SGD
+    source: IDR
+    sourceId: IDR
+    target: SGD
+    targetId: SGD
+-
+    symbol: IDR-PLN
+    source: IDR
+    sourceId: IDR
+    target: PLN
+    targetId: PLN
+-
+    symbol: IDR-BGN
+    source: IDR
+    sourceId: IDR
+    target: BGN
+    targetId: BGN
+-
+    symbol: IDR-TRY
+    source: IDR
+    sourceId: IDR
+    target: TRY
+    targetId: TRY
+-
+    symbol: IDR-CNY
+    source: IDR
+    sourceId: IDR
+    target: CNY
+    targetId: CNY
+-
+    symbol: IDR-NOK
+    source: IDR
+    sourceId: IDR
+    target: NOK
+    targetId: NOK
+-
+    symbol: IDR-NZD
+    source: IDR
+    sourceId: IDR
+    target: NZD
+    targetId: NZD
+-
+    symbol: IDR-ZAR
+    source: IDR
+    sourceId: IDR
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: IDR-USD
+    source: IDR
+    sourceId: IDR
+    target: USD
+    targetId: USD
+-
+    symbol: IDR-MXN
+    source: IDR
+    sourceId: IDR
+    target: MXN
+    targetId: MXN
+-
+    symbol: IDR-ILS
+    source: IDR
+    sourceId: IDR
+    target: ILS
+    targetId: ILS
+-
+    symbol: IDR-GBP
+    source: IDR
+    sourceId: IDR
+    target: GBP
+    targetId: GBP
+-
+    symbol: IDR-KRW
+    source: IDR
+    sourceId: IDR
+    target: KRW
+    targetId: KRW
+-
+    symbol: IDR-MYR
+    source: IDR
+    sourceId: IDR
+    target: MYR
+    targetId: MYR
+-
+    symbol: INR-CAD
+    source: INR
+    sourceId: INR
+    target: CAD
+    targetId: CAD
+-
+    symbol: INR-HKD
+    source: INR
+    sourceId: INR
+    target: HKD
+    targetId: HKD
+-
+    symbol: INR-ISK
+    source: INR
+    sourceId: INR
+    target: ISK
+    targetId: ISK
+-
+    symbol: INR-PHP
+    source: INR
+    sourceId: INR
+    target: PHP
+    targetId: PHP
+-
+    symbol: INR-DKK
+    source: INR
+    sourceId: INR
+    target: DKK
+    targetId: DKK
+-
+    symbol: INR-HUF
+    source: INR
+    sourceId: INR
+    target: HUF
+    targetId: HUF
+-
+    symbol: INR-CZK
+    source: INR
+    sourceId: INR
+    target: CZK
+    targetId: CZK
+-
+    symbol: INR-AUD
+    source: INR
+    sourceId: INR
+    target: AUD
+    targetId: AUD
+-
+    symbol: INR-RON
+    source: INR
+    sourceId: INR
+    target: RON
+    targetId: RON
+-
+    symbol: INR-SEK
+    source: INR
+    sourceId: INR
+    target: SEK
+    targetId: SEK
+-
+    symbol: INR-IDR
+    source: INR
+    sourceId: INR
+    target: IDR
+    targetId: IDR
+-
+    symbol: INR-BRL
+    source: INR
+    sourceId: INR
+    target: BRL
+    targetId: BRL
+-
+    symbol: INR-RUB
+    source: INR
+    sourceId: INR
+    target: RUB
+    targetId: RUB
+-
+    symbol: INR-HRK
+    source: INR
+    sourceId: INR
+    target: HRK
+    targetId: HRK
+-
+    symbol: INR-JPY
+    source: INR
+    sourceId: INR
+    target: JPY
+    targetId: JPY
+-
+    symbol: INR-THB
+    source: INR
+    sourceId: INR
+    target: THB
+    targetId: THB
+-
+    symbol: INR-CHF
+    source: INR
+    sourceId: INR
+    target: CHF
+    targetId: CHF
+-
+    symbol: INR-SGD
+    source: INR
+    sourceId: INR
+    target: SGD
+    targetId: SGD
+-
+    symbol: INR-PLN
+    source: INR
+    sourceId: INR
+    target: PLN
+    targetId: PLN
+-
+    symbol: INR-BGN
+    source: INR
+    sourceId: INR
+    target: BGN
+    targetId: BGN
+-
+    symbol: INR-TRY
+    source: INR
+    sourceId: INR
+    target: TRY
+    targetId: TRY
+-
+    symbol: INR-CNY
+    source: INR
+    sourceId: INR
+    target: CNY
+    targetId: CNY
+-
+    symbol: INR-NOK
+    source: INR
+    sourceId: INR
+    target: NOK
+    targetId: NOK
+-
+    symbol: INR-NZD
+    source: INR
+    sourceId: INR
+    target: NZD
+    targetId: NZD
+-
+    symbol: INR-ZAR
+    source: INR
+    sourceId: INR
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: INR-USD
+    source: INR
+    sourceId: INR
+    target: USD
+    targetId: USD
+-
+    symbol: INR-MXN
+    source: INR
+    sourceId: INR
+    target: MXN
+    targetId: MXN
+-
+    symbol: INR-ILS
+    source: INR
+    sourceId: INR
+    target: ILS
+    targetId: ILS
+-
+    symbol: INR-GBP
+    source: INR
+    sourceId: INR
+    target: GBP
+    targetId: GBP
+-
+    symbol: INR-KRW
+    source: INR
+    sourceId: INR
+    target: KRW
+    targetId: KRW
+-
+    symbol: INR-MYR
+    source: INR
+    sourceId: INR
+    target: MYR
+    targetId: MYR
+-
+    symbol: BRL-CAD
+    source: BRL
+    sourceId: BRL
+    target: CAD
+    targetId: CAD
+-
+    symbol: BRL-HKD
+    source: BRL
+    sourceId: BRL
+    target: HKD
+    targetId: HKD
+-
+    symbol: BRL-ISK
+    source: BRL
+    sourceId: BRL
+    target: ISK
+    targetId: ISK
+-
+    symbol: BRL-PHP
+    source: BRL
+    sourceId: BRL
+    target: PHP
+    targetId: PHP
+-
+    symbol: BRL-DKK
+    source: BRL
+    sourceId: BRL
+    target: DKK
+    targetId: DKK
+-
+    symbol: BRL-HUF
+    source: BRL
+    sourceId: BRL
+    target: HUF
+    targetId: HUF
+-
+    symbol: BRL-CZK
+    source: BRL
+    sourceId: BRL
+    target: CZK
+    targetId: CZK
+-
+    symbol: BRL-AUD
+    source: BRL
+    sourceId: BRL
+    target: AUD
+    targetId: AUD
+-
+    symbol: BRL-RON
+    source: BRL
+    sourceId: BRL
+    target: RON
+    targetId: RON
+-
+    symbol: BRL-SEK
+    source: BRL
+    sourceId: BRL
+    target: SEK
+    targetId: SEK
+-
+    symbol: BRL-IDR
+    source: BRL
+    sourceId: BRL
+    target: IDR
+    targetId: IDR
+-
+    symbol: BRL-INR
+    source: BRL
+    sourceId: BRL
+    target: INR
+    targetId: INR
+-
+    symbol: BRL-RUB
+    source: BRL
+    sourceId: BRL
+    target: RUB
+    targetId: RUB
+-
+    symbol: BRL-HRK
+    source: BRL
+    sourceId: BRL
+    target: HRK
+    targetId: HRK
+-
+    symbol: BRL-JPY
+    source: BRL
+    sourceId: BRL
+    target: JPY
+    targetId: JPY
+-
+    symbol: BRL-THB
+    source: BRL
+    sourceId: BRL
+    target: THB
+    targetId: THB
+-
+    symbol: BRL-CHF
+    source: BRL
+    sourceId: BRL
+    target: CHF
+    targetId: CHF
+-
+    symbol: BRL-SGD
+    source: BRL
+    sourceId: BRL
+    target: SGD
+    targetId: SGD
+-
+    symbol: BRL-PLN
+    source: BRL
+    sourceId: BRL
+    target: PLN
+    targetId: PLN
+-
+    symbol: BRL-BGN
+    source: BRL
+    sourceId: BRL
+    target: BGN
+    targetId: BGN
+-
+    symbol: BRL-TRY
+    source: BRL
+    sourceId: BRL
+    target: TRY
+    targetId: TRY
+-
+    symbol: BRL-CNY
+    source: BRL
+    sourceId: BRL
+    target: CNY
+    targetId: CNY
+-
+    symbol: BRL-NOK
+    source: BRL
+    sourceId: BRL
+    target: NOK
+    targetId: NOK
+-
+    symbol: BRL-NZD
+    source: BRL
+    sourceId: BRL
+    target: NZD
+    targetId: NZD
+-
+    symbol: BRL-ZAR
+    source: BRL
+    sourceId: BRL
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: BRL-USD
+    source: BRL
+    sourceId: BRL
+    target: USD
+    targetId: USD
+-
+    symbol: BRL-MXN
+    source: BRL
+    sourceId: BRL
+    target: MXN
+    targetId: MXN
+-
+    symbol: BRL-ILS
+    source: BRL
+    sourceId: BRL
+    target: ILS
+    targetId: ILS
+-
+    symbol: BRL-GBP
+    source: BRL
+    sourceId: BRL
+    target: GBP
+    targetId: GBP
+-
+    symbol: BRL-KRW
+    source: BRL
+    sourceId: BRL
+    target: KRW
+    targetId: KRW
+-
+    symbol: BRL-MYR
+    source: BRL
+    sourceId: BRL
+    target: MYR
+    targetId: MYR
+-
+    symbol: RUB-CAD
+    source: RUB
+    sourceId: RUB
+    target: CAD
+    targetId: CAD
+-
+    symbol: RUB-HKD
+    source: RUB
+    sourceId: RUB
+    target: HKD
+    targetId: HKD
+-
+    symbol: RUB-ISK
+    source: RUB
+    sourceId: RUB
+    target: ISK
+    targetId: ISK
+-
+    symbol: RUB-PHP
+    source: RUB
+    sourceId: RUB
+    target: PHP
+    targetId: PHP
+-
+    symbol: RUB-DKK
+    source: RUB
+    sourceId: RUB
+    target: DKK
+    targetId: DKK
+-
+    symbol: RUB-HUF
+    source: RUB
+    sourceId: RUB
+    target: HUF
+    targetId: HUF
+-
+    symbol: RUB-CZK
+    source: RUB
+    sourceId: RUB
+    target: CZK
+    targetId: CZK
+-
+    symbol: RUB-AUD
+    source: RUB
+    sourceId: RUB
+    target: AUD
+    targetId: AUD
+-
+    symbol: RUB-RON
+    source: RUB
+    sourceId: RUB
+    target: RON
+    targetId: RON
+-
+    symbol: RUB-SEK
+    source: RUB
+    sourceId: RUB
+    target: SEK
+    targetId: SEK
+-
+    symbol: RUB-IDR
+    source: RUB
+    sourceId: RUB
+    target: IDR
+    targetId: IDR
+-
+    symbol: RUB-INR
+    source: RUB
+    sourceId: RUB
+    target: INR
+    targetId: INR
+-
+    symbol: RUB-BRL
+    source: RUB
+    sourceId: RUB
+    target: BRL
+    targetId: BRL
+-
+    symbol: RUB-HRK
+    source: RUB
+    sourceId: RUB
+    target: HRK
+    targetId: HRK
+-
+    symbol: RUB-JPY
+    source: RUB
+    sourceId: RUB
+    target: JPY
+    targetId: JPY
+-
+    symbol: RUB-THB
+    source: RUB
+    sourceId: RUB
+    target: THB
+    targetId: THB
+-
+    symbol: RUB-CHF
+    source: RUB
+    sourceId: RUB
+    target: CHF
+    targetId: CHF
+-
+    symbol: RUB-SGD
+    source: RUB
+    sourceId: RUB
+    target: SGD
+    targetId: SGD
+-
+    symbol: RUB-PLN
+    source: RUB
+    sourceId: RUB
+    target: PLN
+    targetId: PLN
+-
+    symbol: RUB-BGN
+    source: RUB
+    sourceId: RUB
+    target: BGN
+    targetId: BGN
+-
+    symbol: RUB-TRY
+    source: RUB
+    sourceId: RUB
+    target: TRY
+    targetId: TRY
+-
+    symbol: RUB-CNY
+    source: RUB
+    sourceId: RUB
+    target: CNY
+    targetId: CNY
+-
+    symbol: RUB-NOK
+    source: RUB
+    sourceId: RUB
+    target: NOK
+    targetId: NOK
+-
+    symbol: RUB-NZD
+    source: RUB
+    sourceId: RUB
+    target: NZD
+    targetId: NZD
+-
+    symbol: RUB-ZAR
+    source: RUB
+    sourceId: RUB
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: RUB-USD
+    source: RUB
+    sourceId: RUB
+    target: USD
+    targetId: USD
+-
+    symbol: RUB-MXN
+    source: RUB
+    sourceId: RUB
+    target: MXN
+    targetId: MXN
+-
+    symbol: RUB-ILS
+    source: RUB
+    sourceId: RUB
+    target: ILS
+    targetId: ILS
+-
+    symbol: RUB-GBP
+    source: RUB
+    sourceId: RUB
+    target: GBP
+    targetId: GBP
+-
+    symbol: RUB-KRW
+    source: RUB
+    sourceId: RUB
+    target: KRW
+    targetId: KRW
+-
+    symbol: RUB-MYR
+    source: RUB
+    sourceId: RUB
+    target: MYR
+    targetId: MYR
+-
+    symbol: HRK-CAD
+    source: HRK
+    sourceId: HRK
+    target: CAD
+    targetId: CAD
+-
+    symbol: HRK-HKD
+    source: HRK
+    sourceId: HRK
+    target: HKD
+    targetId: HKD
+-
+    symbol: HRK-ISK
+    source: HRK
+    sourceId: HRK
+    target: ISK
+    targetId: ISK
+-
+    symbol: HRK-PHP
+    source: HRK
+    sourceId: HRK
+    target: PHP
+    targetId: PHP
+-
+    symbol: HRK-DKK
+    source: HRK
+    sourceId: HRK
+    target: DKK
+    targetId: DKK
+-
+    symbol: HRK-HUF
+    source: HRK
+    sourceId: HRK
+    target: HUF
+    targetId: HUF
+-
+    symbol: HRK-CZK
+    source: HRK
+    sourceId: HRK
+    target: CZK
+    targetId: CZK
+-
+    symbol: HRK-AUD
+    source: HRK
+    sourceId: HRK
+    target: AUD
+    targetId: AUD
+-
+    symbol: HRK-RON
+    source: HRK
+    sourceId: HRK
+    target: RON
+    targetId: RON
+-
+    symbol: HRK-SEK
+    source: HRK
+    sourceId: HRK
+    target: SEK
+    targetId: SEK
+-
+    symbol: HRK-IDR
+    source: HRK
+    sourceId: HRK
+    target: IDR
+    targetId: IDR
+-
+    symbol: HRK-INR
+    source: HRK
+    sourceId: HRK
+    target: INR
+    targetId: INR
+-
+    symbol: HRK-BRL
+    source: HRK
+    sourceId: HRK
+    target: BRL
+    targetId: BRL
+-
+    symbol: HRK-RUB
+    source: HRK
+    sourceId: HRK
+    target: RUB
+    targetId: RUB
+-
+    symbol: HRK-JPY
+    source: HRK
+    sourceId: HRK
+    target: JPY
+    targetId: JPY
+-
+    symbol: HRK-THB
+    source: HRK
+    sourceId: HRK
+    target: THB
+    targetId: THB
+-
+    symbol: HRK-CHF
+    source: HRK
+    sourceId: HRK
+    target: CHF
+    targetId: CHF
+-
+    symbol: HRK-SGD
+    source: HRK
+    sourceId: HRK
+    target: SGD
+    targetId: SGD
+-
+    symbol: HRK-PLN
+    source: HRK
+    sourceId: HRK
+    target: PLN
+    targetId: PLN
+-
+    symbol: HRK-BGN
+    source: HRK
+    sourceId: HRK
+    target: BGN
+    targetId: BGN
+-
+    symbol: HRK-TRY
+    source: HRK
+    sourceId: HRK
+    target: TRY
+    targetId: TRY
+-
+    symbol: HRK-CNY
+    source: HRK
+    sourceId: HRK
+    target: CNY
+    targetId: CNY
+-
+    symbol: HRK-NOK
+    source: HRK
+    sourceId: HRK
+    target: NOK
+    targetId: NOK
+-
+    symbol: HRK-NZD
+    source: HRK
+    sourceId: HRK
+    target: NZD
+    targetId: NZD
+-
+    symbol: HRK-ZAR
+    source: HRK
+    sourceId: HRK
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: HRK-USD
+    source: HRK
+    sourceId: HRK
+    target: USD
+    targetId: USD
+-
+    symbol: HRK-MXN
+    source: HRK
+    sourceId: HRK
+    target: MXN
+    targetId: MXN
+-
+    symbol: HRK-ILS
+    source: HRK
+    sourceId: HRK
+    target: ILS
+    targetId: ILS
+-
+    symbol: HRK-GBP
+    source: HRK
+    sourceId: HRK
+    target: GBP
+    targetId: GBP
+-
+    symbol: HRK-KRW
+    source: HRK
+    sourceId: HRK
+    target: KRW
+    targetId: KRW
+-
+    symbol: HRK-MYR
+    source: HRK
+    sourceId: HRK
+    target: MYR
+    targetId: MYR
+-
+    symbol: JPY-CAD
+    source: JPY
+    sourceId: JPY
+    target: CAD
+    targetId: CAD
+-
+    symbol: JPY-HKD
+    source: JPY
+    sourceId: JPY
+    target: HKD
+    targetId: HKD
+-
+    symbol: JPY-ISK
+    source: JPY
+    sourceId: JPY
+    target: ISK
+    targetId: ISK
+-
+    symbol: JPY-PHP
+    source: JPY
+    sourceId: JPY
+    target: PHP
+    targetId: PHP
+-
+    symbol: JPY-DKK
+    source: JPY
+    sourceId: JPY
+    target: DKK
+    targetId: DKK
+-
+    symbol: JPY-HUF
+    source: JPY
+    sourceId: JPY
+    target: HUF
+    targetId: HUF
+-
+    symbol: JPY-CZK
+    source: JPY
+    sourceId: JPY
+    target: CZK
+    targetId: CZK
+-
+    symbol: JPY-AUD
+    source: JPY
+    sourceId: JPY
+    target: AUD
+    targetId: AUD
+-
+    symbol: JPY-RON
+    source: JPY
+    sourceId: JPY
+    target: RON
+    targetId: RON
+-
+    symbol: JPY-SEK
+    source: JPY
+    sourceId: JPY
+    target: SEK
+    targetId: SEK
+-
+    symbol: JPY-IDR
+    source: JPY
+    sourceId: JPY
+    target: IDR
+    targetId: IDR
+-
+    symbol: JPY-INR
+    source: JPY
+    sourceId: JPY
+    target: INR
+    targetId: INR
+-
+    symbol: JPY-BRL
+    source: JPY
+    sourceId: JPY
+    target: BRL
+    targetId: BRL
+-
+    symbol: JPY-RUB
+    source: JPY
+    sourceId: JPY
+    target: RUB
+    targetId: RUB
+-
+    symbol: JPY-HRK
+    source: JPY
+    sourceId: JPY
+    target: HRK
+    targetId: HRK
+-
+    symbol: JPY-THB
+    source: JPY
+    sourceId: JPY
+    target: THB
+    targetId: THB
+-
+    symbol: JPY-CHF
+    source: JPY
+    sourceId: JPY
+    target: CHF
+    targetId: CHF
+-
+    symbol: JPY-SGD
+    source: JPY
+    sourceId: JPY
+    target: SGD
+    targetId: SGD
+-
+    symbol: JPY-PLN
+    source: JPY
+    sourceId: JPY
+    target: PLN
+    targetId: PLN
+-
+    symbol: JPY-BGN
+    source: JPY
+    sourceId: JPY
+    target: BGN
+    targetId: BGN
+-
+    symbol: JPY-TRY
+    source: JPY
+    sourceId: JPY
+    target: TRY
+    targetId: TRY
+-
+    symbol: JPY-CNY
+    source: JPY
+    sourceId: JPY
+    target: CNY
+    targetId: CNY
+-
+    symbol: JPY-NOK
+    source: JPY
+    sourceId: JPY
+    target: NOK
+    targetId: NOK
+-
+    symbol: JPY-NZD
+    source: JPY
+    sourceId: JPY
+    target: NZD
+    targetId: NZD
+-
+    symbol: JPY-ZAR
+    source: JPY
+    sourceId: JPY
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: JPY-USD
+    source: JPY
+    sourceId: JPY
+    target: USD
+    targetId: USD
+-
+    symbol: JPY-MXN
+    source: JPY
+    sourceId: JPY
+    target: MXN
+    targetId: MXN
+-
+    symbol: JPY-ILS
+    source: JPY
+    sourceId: JPY
+    target: ILS
+    targetId: ILS
+-
+    symbol: JPY-GBP
+    source: JPY
+    sourceId: JPY
+    target: GBP
+    targetId: GBP
+-
+    symbol: JPY-KRW
+    source: JPY
+    sourceId: JPY
+    target: KRW
+    targetId: KRW
+-
+    symbol: JPY-MYR
+    source: JPY
+    sourceId: JPY
+    target: MYR
+    targetId: MYR
+-
+    symbol: THB-CAD
+    source: THB
+    sourceId: THB
+    target: CAD
+    targetId: CAD
+-
+    symbol: THB-HKD
+    source: THB
+    sourceId: THB
+    target: HKD
+    targetId: HKD
+-
+    symbol: THB-ISK
+    source: THB
+    sourceId: THB
+    target: ISK
+    targetId: ISK
+-
+    symbol: THB-PHP
+    source: THB
+    sourceId: THB
+    target: PHP
+    targetId: PHP
+-
+    symbol: THB-DKK
+    source: THB
+    sourceId: THB
+    target: DKK
+    targetId: DKK
+-
+    symbol: THB-HUF
+    source: THB
+    sourceId: THB
+    target: HUF
+    targetId: HUF
+-
+    symbol: THB-CZK
+    source: THB
+    sourceId: THB
+    target: CZK
+    targetId: CZK
+-
+    symbol: THB-AUD
+    source: THB
+    sourceId: THB
+    target: AUD
+    targetId: AUD
+-
+    symbol: THB-RON
+    source: THB
+    sourceId: THB
+    target: RON
+    targetId: RON
+-
+    symbol: THB-SEK
+    source: THB
+    sourceId: THB
+    target: SEK
+    targetId: SEK
+-
+    symbol: THB-IDR
+    source: THB
+    sourceId: THB
+    target: IDR
+    targetId: IDR
+-
+    symbol: THB-INR
+    source: THB
+    sourceId: THB
+    target: INR
+    targetId: INR
+-
+    symbol: THB-BRL
+    source: THB
+    sourceId: THB
+    target: BRL
+    targetId: BRL
+-
+    symbol: THB-RUB
+    source: THB
+    sourceId: THB
+    target: RUB
+    targetId: RUB
+-
+    symbol: THB-HRK
+    source: THB
+    sourceId: THB
+    target: HRK
+    targetId: HRK
+-
+    symbol: THB-JPY
+    source: THB
+    sourceId: THB
+    target: JPY
+    targetId: JPY
+-
+    symbol: THB-CHF
+    source: THB
+    sourceId: THB
+    target: CHF
+    targetId: CHF
+-
+    symbol: THB-SGD
+    source: THB
+    sourceId: THB
+    target: SGD
+    targetId: SGD
+-
+    symbol: THB-PLN
+    source: THB
+    sourceId: THB
+    target: PLN
+    targetId: PLN
+-
+    symbol: THB-BGN
+    source: THB
+    sourceId: THB
+    target: BGN
+    targetId: BGN
+-
+    symbol: THB-TRY
+    source: THB
+    sourceId: THB
+    target: TRY
+    targetId: TRY
+-
+    symbol: THB-CNY
+    source: THB
+    sourceId: THB
+    target: CNY
+    targetId: CNY
+-
+    symbol: THB-NOK
+    source: THB
+    sourceId: THB
+    target: NOK
+    targetId: NOK
+-
+    symbol: THB-NZD
+    source: THB
+    sourceId: THB
+    target: NZD
+    targetId: NZD
+-
+    symbol: THB-ZAR
+    source: THB
+    sourceId: THB
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: THB-USD
+    source: THB
+    sourceId: THB
+    target: USD
+    targetId: USD
+-
+    symbol: THB-MXN
+    source: THB
+    sourceId: THB
+    target: MXN
+    targetId: MXN
+-
+    symbol: THB-ILS
+    source: THB
+    sourceId: THB
+    target: ILS
+    targetId: ILS
+-
+    symbol: THB-GBP
+    source: THB
+    sourceId: THB
+    target: GBP
+    targetId: GBP
+-
+    symbol: THB-KRW
+    source: THB
+    sourceId: THB
+    target: KRW
+    targetId: KRW
+-
+    symbol: THB-MYR
+    source: THB
+    sourceId: THB
+    target: MYR
+    targetId: MYR
+-
+    symbol: CHF-CAD
+    source: CHF
+    sourceId: CHF
+    target: CAD
+    targetId: CAD
+-
+    symbol: CHF-HKD
+    source: CHF
+    sourceId: CHF
+    target: HKD
+    targetId: HKD
+-
+    symbol: CHF-ISK
+    source: CHF
+    sourceId: CHF
+    target: ISK
+    targetId: ISK
+-
+    symbol: CHF-PHP
+    source: CHF
+    sourceId: CHF
+    target: PHP
+    targetId: PHP
+-
+    symbol: CHF-DKK
+    source: CHF
+    sourceId: CHF
+    target: DKK
+    targetId: DKK
+-
+    symbol: CHF-HUF
+    source: CHF
+    sourceId: CHF
+    target: HUF
+    targetId: HUF
+-
+    symbol: CHF-CZK
+    source: CHF
+    sourceId: CHF
+    target: CZK
+    targetId: CZK
+-
+    symbol: CHF-AUD
+    source: CHF
+    sourceId: CHF
+    target: AUD
+    targetId: AUD
+-
+    symbol: CHF-RON
+    source: CHF
+    sourceId: CHF
+    target: RON
+    targetId: RON
+-
+    symbol: CHF-SEK
+    source: CHF
+    sourceId: CHF
+    target: SEK
+    targetId: SEK
+-
+    symbol: CHF-IDR
+    source: CHF
+    sourceId: CHF
+    target: IDR
+    targetId: IDR
+-
+    symbol: CHF-INR
+    source: CHF
+    sourceId: CHF
+    target: INR
+    targetId: INR
+-
+    symbol: CHF-BRL
+    source: CHF
+    sourceId: CHF
+    target: BRL
+    targetId: BRL
+-
+    symbol: CHF-RUB
+    source: CHF
+    sourceId: CHF
+    target: RUB
+    targetId: RUB
+-
+    symbol: CHF-HRK
+    source: CHF
+    sourceId: CHF
+    target: HRK
+    targetId: HRK
+-
+    symbol: CHF-JPY
+    source: CHF
+    sourceId: CHF
+    target: JPY
+    targetId: JPY
+-
+    symbol: CHF-THB
+    source: CHF
+    sourceId: CHF
+    target: THB
+    targetId: THB
+-
+    symbol: CHF-SGD
+    source: CHF
+    sourceId: CHF
+    target: SGD
+    targetId: SGD
+-
+    symbol: CHF-PLN
+    source: CHF
+    sourceId: CHF
+    target: PLN
+    targetId: PLN
+-
+    symbol: CHF-BGN
+    source: CHF
+    sourceId: CHF
+    target: BGN
+    targetId: BGN
+-
+    symbol: CHF-TRY
+    source: CHF
+    sourceId: CHF
+    target: TRY
+    targetId: TRY
+-
+    symbol: CHF-CNY
+    source: CHF
+    sourceId: CHF
+    target: CNY
+    targetId: CNY
+-
+    symbol: CHF-NOK
+    source: CHF
+    sourceId: CHF
+    target: NOK
+    targetId: NOK
+-
+    symbol: CHF-NZD
+    source: CHF
+    sourceId: CHF
+    target: NZD
+    targetId: NZD
+-
+    symbol: CHF-ZAR
+    source: CHF
+    sourceId: CHF
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: CHF-USD
+    source: CHF
+    sourceId: CHF
+    target: USD
+    targetId: USD
+-
+    symbol: CHF-MXN
+    source: CHF
+    sourceId: CHF
+    target: MXN
+    targetId: MXN
+-
+    symbol: CHF-ILS
+    source: CHF
+    sourceId: CHF
+    target: ILS
+    targetId: ILS
+-
+    symbol: CHF-GBP
+    source: CHF
+    sourceId: CHF
+    target: GBP
+    targetId: GBP
+-
+    symbol: CHF-KRW
+    source: CHF
+    sourceId: CHF
+    target: KRW
+    targetId: KRW
+-
+    symbol: CHF-MYR
+    source: CHF
+    sourceId: CHF
+    target: MYR
+    targetId: MYR
+-
+    symbol: SGD-CAD
+    source: SGD
+    sourceId: SGD
+    target: CAD
+    targetId: CAD
+-
+    symbol: SGD-HKD
+    source: SGD
+    sourceId: SGD
+    target: HKD
+    targetId: HKD
+-
+    symbol: SGD-ISK
+    source: SGD
+    sourceId: SGD
+    target: ISK
+    targetId: ISK
+-
+    symbol: SGD-PHP
+    source: SGD
+    sourceId: SGD
+    target: PHP
+    targetId: PHP
+-
+    symbol: SGD-DKK
+    source: SGD
+    sourceId: SGD
+    target: DKK
+    targetId: DKK
+-
+    symbol: SGD-HUF
+    source: SGD
+    sourceId: SGD
+    target: HUF
+    targetId: HUF
+-
+    symbol: SGD-CZK
+    source: SGD
+    sourceId: SGD
+    target: CZK
+    targetId: CZK
+-
+    symbol: SGD-AUD
+    source: SGD
+    sourceId: SGD
+    target: AUD
+    targetId: AUD
+-
+    symbol: SGD-RON
+    source: SGD
+    sourceId: SGD
+    target: RON
+    targetId: RON
+-
+    symbol: SGD-SEK
+    source: SGD
+    sourceId: SGD
+    target: SEK
+    targetId: SEK
+-
+    symbol: SGD-IDR
+    source: SGD
+    sourceId: SGD
+    target: IDR
+    targetId: IDR
+-
+    symbol: SGD-INR
+    source: SGD
+    sourceId: SGD
+    target: INR
+    targetId: INR
+-
+    symbol: SGD-BRL
+    source: SGD
+    sourceId: SGD
+    target: BRL
+    targetId: BRL
+-
+    symbol: SGD-RUB
+    source: SGD
+    sourceId: SGD
+    target: RUB
+    targetId: RUB
+-
+    symbol: SGD-HRK
+    source: SGD
+    sourceId: SGD
+    target: HRK
+    targetId: HRK
+-
+    symbol: SGD-JPY
+    source: SGD
+    sourceId: SGD
+    target: JPY
+    targetId: JPY
+-
+    symbol: SGD-THB
+    source: SGD
+    sourceId: SGD
+    target: THB
+    targetId: THB
+-
+    symbol: SGD-CHF
+    source: SGD
+    sourceId: SGD
+    target: CHF
+    targetId: CHF
+-
+    symbol: SGD-PLN
+    source: SGD
+    sourceId: SGD
+    target: PLN
+    targetId: PLN
+-
+    symbol: SGD-BGN
+    source: SGD
+    sourceId: SGD
+    target: BGN
+    targetId: BGN
+-
+    symbol: SGD-TRY
+    source: SGD
+    sourceId: SGD
+    target: TRY
+    targetId: TRY
+-
+    symbol: SGD-CNY
+    source: SGD
+    sourceId: SGD
+    target: CNY
+    targetId: CNY
+-
+    symbol: SGD-NOK
+    source: SGD
+    sourceId: SGD
+    target: NOK
+    targetId: NOK
+-
+    symbol: SGD-NZD
+    source: SGD
+    sourceId: SGD
+    target: NZD
+    targetId: NZD
+-
+    symbol: SGD-ZAR
+    source: SGD
+    sourceId: SGD
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: SGD-USD
+    source: SGD
+    sourceId: SGD
+    target: USD
+    targetId: USD
+-
+    symbol: SGD-MXN
+    source: SGD
+    sourceId: SGD
+    target: MXN
+    targetId: MXN
+-
+    symbol: SGD-ILS
+    source: SGD
+    sourceId: SGD
+    target: ILS
+    targetId: ILS
+-
+    symbol: SGD-GBP
+    source: SGD
+    sourceId: SGD
+    target: GBP
+    targetId: GBP
+-
+    symbol: SGD-KRW
+    source: SGD
+    sourceId: SGD
+    target: KRW
+    targetId: KRW
+-
+    symbol: SGD-MYR
+    source: SGD
+    sourceId: SGD
+    target: MYR
+    targetId: MYR
+-
+    symbol: PLN-CAD
+    source: PLN
+    sourceId: PLN
+    target: CAD
+    targetId: CAD
+-
+    symbol: PLN-HKD
+    source: PLN
+    sourceId: PLN
+    target: HKD
+    targetId: HKD
+-
+    symbol: PLN-ISK
+    source: PLN
+    sourceId: PLN
+    target: ISK
+    targetId: ISK
+-
+    symbol: PLN-PHP
+    source: PLN
+    sourceId: PLN
+    target: PHP
+    targetId: PHP
+-
+    symbol: PLN-DKK
+    source: PLN
+    sourceId: PLN
+    target: DKK
+    targetId: DKK
+-
+    symbol: PLN-HUF
+    source: PLN
+    sourceId: PLN
+    target: HUF
+    targetId: HUF
+-
+    symbol: PLN-CZK
+    source: PLN
+    sourceId: PLN
+    target: CZK
+    targetId: CZK
+-
+    symbol: PLN-AUD
+    source: PLN
+    sourceId: PLN
+    target: AUD
+    targetId: AUD
+-
+    symbol: PLN-RON
+    source: PLN
+    sourceId: PLN
+    target: RON
+    targetId: RON
+-
+    symbol: PLN-SEK
+    source: PLN
+    sourceId: PLN
+    target: SEK
+    targetId: SEK
+-
+    symbol: PLN-IDR
+    source: PLN
+    sourceId: PLN
+    target: IDR
+    targetId: IDR
+-
+    symbol: PLN-INR
+    source: PLN
+    sourceId: PLN
+    target: INR
+    targetId: INR
+-
+    symbol: PLN-BRL
+    source: PLN
+    sourceId: PLN
+    target: BRL
+    targetId: BRL
+-
+    symbol: PLN-RUB
+    source: PLN
+    sourceId: PLN
+    target: RUB
+    targetId: RUB
+-
+    symbol: PLN-HRK
+    source: PLN
+    sourceId: PLN
+    target: HRK
+    targetId: HRK
+-
+    symbol: PLN-JPY
+    source: PLN
+    sourceId: PLN
+    target: JPY
+    targetId: JPY
+-
+    symbol: PLN-THB
+    source: PLN
+    sourceId: PLN
+    target: THB
+    targetId: THB
+-
+    symbol: PLN-CHF
+    source: PLN
+    sourceId: PLN
+    target: CHF
+    targetId: CHF
+-
+    symbol: PLN-SGD
+    source: PLN
+    sourceId: PLN
+    target: SGD
+    targetId: SGD
+-
+    symbol: PLN-BGN
+    source: PLN
+    sourceId: PLN
+    target: BGN
+    targetId: BGN
+-
+    symbol: PLN-TRY
+    source: PLN
+    sourceId: PLN
+    target: TRY
+    targetId: TRY
+-
+    symbol: PLN-CNY
+    source: PLN
+    sourceId: PLN
+    target: CNY
+    targetId: CNY
+-
+    symbol: PLN-NOK
+    source: PLN
+    sourceId: PLN
+    target: NOK
+    targetId: NOK
+-
+    symbol: PLN-NZD
+    source: PLN
+    sourceId: PLN
+    target: NZD
+    targetId: NZD
+-
+    symbol: PLN-ZAR
+    source: PLN
+    sourceId: PLN
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: PLN-USD
+    source: PLN
+    sourceId: PLN
+    target: USD
+    targetId: USD
+-
+    symbol: PLN-MXN
+    source: PLN
+    sourceId: PLN
+    target: MXN
+    targetId: MXN
+-
+    symbol: PLN-ILS
+    source: PLN
+    sourceId: PLN
+    target: ILS
+    targetId: ILS
+-
+    symbol: PLN-GBP
+    source: PLN
+    sourceId: PLN
+    target: GBP
+    targetId: GBP
+-
+    symbol: PLN-KRW
+    source: PLN
+    sourceId: PLN
+    target: KRW
+    targetId: KRW
+-
+    symbol: PLN-MYR
+    source: PLN
+    sourceId: PLN
+    target: MYR
+    targetId: MYR
+-
+    symbol: BGN-CAD
+    source: BGN
+    sourceId: BGN
+    target: CAD
+    targetId: CAD
+-
+    symbol: BGN-HKD
+    source: BGN
+    sourceId: BGN
+    target: HKD
+    targetId: HKD
+-
+    symbol: BGN-ISK
+    source: BGN
+    sourceId: BGN
+    target: ISK
+    targetId: ISK
+-
+    symbol: BGN-PHP
+    source: BGN
+    sourceId: BGN
+    target: PHP
+    targetId: PHP
+-
+    symbol: BGN-DKK
+    source: BGN
+    sourceId: BGN
+    target: DKK
+    targetId: DKK
+-
+    symbol: BGN-HUF
+    source: BGN
+    sourceId: BGN
+    target: HUF
+    targetId: HUF
+-
+    symbol: BGN-CZK
+    source: BGN
+    sourceId: BGN
+    target: CZK
+    targetId: CZK
+-
+    symbol: BGN-AUD
+    source: BGN
+    sourceId: BGN
+    target: AUD
+    targetId: AUD
+-
+    symbol: BGN-RON
+    source: BGN
+    sourceId: BGN
+    target: RON
+    targetId: RON
+-
+    symbol: BGN-SEK
+    source: BGN
+    sourceId: BGN
+    target: SEK
+    targetId: SEK
+-
+    symbol: BGN-IDR
+    source: BGN
+    sourceId: BGN
+    target: IDR
+    targetId: IDR
+-
+    symbol: BGN-INR
+    source: BGN
+    sourceId: BGN
+    target: INR
+    targetId: INR
+-
+    symbol: BGN-BRL
+    source: BGN
+    sourceId: BGN
+    target: BRL
+    targetId: BRL
+-
+    symbol: BGN-RUB
+    source: BGN
+    sourceId: BGN
+    target: RUB
+    targetId: RUB
+-
+    symbol: BGN-HRK
+    source: BGN
+    sourceId: BGN
+    target: HRK
+    targetId: HRK
+-
+    symbol: BGN-JPY
+    source: BGN
+    sourceId: BGN
+    target: JPY
+    targetId: JPY
+-
+    symbol: BGN-THB
+    source: BGN
+    sourceId: BGN
+    target: THB
+    targetId: THB
+-
+    symbol: BGN-CHF
+    source: BGN
+    sourceId: BGN
+    target: CHF
+    targetId: CHF
+-
+    symbol: BGN-SGD
+    source: BGN
+    sourceId: BGN
+    target: SGD
+    targetId: SGD
+-
+    symbol: BGN-PLN
+    source: BGN
+    sourceId: BGN
+    target: PLN
+    targetId: PLN
+-
+    symbol: BGN-TRY
+    source: BGN
+    sourceId: BGN
+    target: TRY
+    targetId: TRY
+-
+    symbol: BGN-CNY
+    source: BGN
+    sourceId: BGN
+    target: CNY
+    targetId: CNY
+-
+    symbol: BGN-NOK
+    source: BGN
+    sourceId: BGN
+    target: NOK
+    targetId: NOK
+-
+    symbol: BGN-NZD
+    source: BGN
+    sourceId: BGN
+    target: NZD
+    targetId: NZD
+-
+    symbol: BGN-ZAR
+    source: BGN
+    sourceId: BGN
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: BGN-USD
+    source: BGN
+    sourceId: BGN
+    target: USD
+    targetId: USD
+-
+    symbol: BGN-MXN
+    source: BGN
+    sourceId: BGN
+    target: MXN
+    targetId: MXN
+-
+    symbol: BGN-ILS
+    source: BGN
+    sourceId: BGN
+    target: ILS
+    targetId: ILS
+-
+    symbol: BGN-GBP
+    source: BGN
+    sourceId: BGN
+    target: GBP
+    targetId: GBP
+-
+    symbol: BGN-KRW
+    source: BGN
+    sourceId: BGN
+    target: KRW
+    targetId: KRW
+-
+    symbol: BGN-MYR
+    source: BGN
+    sourceId: BGN
+    target: MYR
+    targetId: MYR
+-
+    symbol: TRY-CAD
+    source: TRY
+    sourceId: TRY
+    target: CAD
+    targetId: CAD
+-
+    symbol: TRY-HKD
+    source: TRY
+    sourceId: TRY
+    target: HKD
+    targetId: HKD
+-
+    symbol: TRY-ISK
+    source: TRY
+    sourceId: TRY
+    target: ISK
+    targetId: ISK
+-
+    symbol: TRY-PHP
+    source: TRY
+    sourceId: TRY
+    target: PHP
+    targetId: PHP
+-
+    symbol: TRY-DKK
+    source: TRY
+    sourceId: TRY
+    target: DKK
+    targetId: DKK
+-
+    symbol: TRY-HUF
+    source: TRY
+    sourceId: TRY
+    target: HUF
+    targetId: HUF
+-
+    symbol: TRY-CZK
+    source: TRY
+    sourceId: TRY
+    target: CZK
+    targetId: CZK
+-
+    symbol: TRY-AUD
+    source: TRY
+    sourceId: TRY
+    target: AUD
+    targetId: AUD
+-
+    symbol: TRY-RON
+    source: TRY
+    sourceId: TRY
+    target: RON
+    targetId: RON
+-
+    symbol: TRY-SEK
+    source: TRY
+    sourceId: TRY
+    target: SEK
+    targetId: SEK
+-
+    symbol: TRY-IDR
+    source: TRY
+    sourceId: TRY
+    target: IDR
+    targetId: IDR
+-
+    symbol: TRY-INR
+    source: TRY
+    sourceId: TRY
+    target: INR
+    targetId: INR
+-
+    symbol: TRY-BRL
+    source: TRY
+    sourceId: TRY
+    target: BRL
+    targetId: BRL
+-
+    symbol: TRY-RUB
+    source: TRY
+    sourceId: TRY
+    target: RUB
+    targetId: RUB
+-
+    symbol: TRY-HRK
+    source: TRY
+    sourceId: TRY
+    target: HRK
+    targetId: HRK
+-
+    symbol: TRY-JPY
+    source: TRY
+    sourceId: TRY
+    target: JPY
+    targetId: JPY
+-
+    symbol: TRY-THB
+    source: TRY
+    sourceId: TRY
+    target: THB
+    targetId: THB
+-
+    symbol: TRY-CHF
+    source: TRY
+    sourceId: TRY
+    target: CHF
+    targetId: CHF
+-
+    symbol: TRY-SGD
+    source: TRY
+    sourceId: TRY
+    target: SGD
+    targetId: SGD
+-
+    symbol: TRY-PLN
+    source: TRY
+    sourceId: TRY
+    target: PLN
+    targetId: PLN
+-
+    symbol: TRY-BGN
+    source: TRY
+    sourceId: TRY
+    target: BGN
+    targetId: BGN
+-
+    symbol: TRY-CNY
+    source: TRY
+    sourceId: TRY
+    target: CNY
+    targetId: CNY
+-
+    symbol: TRY-NOK
+    source: TRY
+    sourceId: TRY
+    target: NOK
+    targetId: NOK
+-
+    symbol: TRY-NZD
+    source: TRY
+    sourceId: TRY
+    target: NZD
+    targetId: NZD
+-
+    symbol: TRY-ZAR
+    source: TRY
+    sourceId: TRY
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: TRY-USD
+    source: TRY
+    sourceId: TRY
+    target: USD
+    targetId: USD
+-
+    symbol: TRY-MXN
+    source: TRY
+    sourceId: TRY
+    target: MXN
+    targetId: MXN
+-
+    symbol: TRY-ILS
+    source: TRY
+    sourceId: TRY
+    target: ILS
+    targetId: ILS
+-
+    symbol: TRY-GBP
+    source: TRY
+    sourceId: TRY
+    target: GBP
+    targetId: GBP
+-
+    symbol: TRY-KRW
+    source: TRY
+    sourceId: TRY
+    target: KRW
+    targetId: KRW
+-
+    symbol: TRY-MYR
+    source: TRY
+    sourceId: TRY
+    target: MYR
+    targetId: MYR
+-
+    symbol: CNY-CAD
+    source: CNY
+    sourceId: CNY
+    target: CAD
+    targetId: CAD
+-
+    symbol: CNY-HKD
+    source: CNY
+    sourceId: CNY
+    target: HKD
+    targetId: HKD
+-
+    symbol: CNY-ISK
+    source: CNY
+    sourceId: CNY
+    target: ISK
+    targetId: ISK
+-
+    symbol: CNY-PHP
+    source: CNY
+    sourceId: CNY
+    target: PHP
+    targetId: PHP
+-
+    symbol: CNY-DKK
+    source: CNY
+    sourceId: CNY
+    target: DKK
+    targetId: DKK
+-
+    symbol: CNY-HUF
+    source: CNY
+    sourceId: CNY
+    target: HUF
+    targetId: HUF
+-
+    symbol: CNY-CZK
+    source: CNY
+    sourceId: CNY
+    target: CZK
+    targetId: CZK
+-
+    symbol: CNY-AUD
+    source: CNY
+    sourceId: CNY
+    target: AUD
+    targetId: AUD
+-
+    symbol: CNY-RON
+    source: CNY
+    sourceId: CNY
+    target: RON
+    targetId: RON
+-
+    symbol: CNY-SEK
+    source: CNY
+    sourceId: CNY
+    target: SEK
+    targetId: SEK
+-
+    symbol: CNY-IDR
+    source: CNY
+    sourceId: CNY
+    target: IDR
+    targetId: IDR
+-
+    symbol: CNY-INR
+    source: CNY
+    sourceId: CNY
+    target: INR
+    targetId: INR
+-
+    symbol: CNY-BRL
+    source: CNY
+    sourceId: CNY
+    target: BRL
+    targetId: BRL
+-
+    symbol: CNY-RUB
+    source: CNY
+    sourceId: CNY
+    target: RUB
+    targetId: RUB
+-
+    symbol: CNY-HRK
+    source: CNY
+    sourceId: CNY
+    target: HRK
+    targetId: HRK
+-
+    symbol: CNY-JPY
+    source: CNY
+    sourceId: CNY
+    target: JPY
+    targetId: JPY
+-
+    symbol: CNY-THB
+    source: CNY
+    sourceId: CNY
+    target: THB
+    targetId: THB
+-
+    symbol: CNY-CHF
+    source: CNY
+    sourceId: CNY
+    target: CHF
+    targetId: CHF
+-
+    symbol: CNY-SGD
+    source: CNY
+    sourceId: CNY
+    target: SGD
+    targetId: SGD
+-
+    symbol: CNY-PLN
+    source: CNY
+    sourceId: CNY
+    target: PLN
+    targetId: PLN
+-
+    symbol: CNY-BGN
+    source: CNY
+    sourceId: CNY
+    target: BGN
+    targetId: BGN
+-
+    symbol: CNY-TRY
+    source: CNY
+    sourceId: CNY
+    target: TRY
+    targetId: TRY
+-
+    symbol: CNY-NOK
+    source: CNY
+    sourceId: CNY
+    target: NOK
+    targetId: NOK
+-
+    symbol: CNY-NZD
+    source: CNY
+    sourceId: CNY
+    target: NZD
+    targetId: NZD
+-
+    symbol: CNY-ZAR
+    source: CNY
+    sourceId: CNY
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: CNY-USD
+    source: CNY
+    sourceId: CNY
+    target: USD
+    targetId: USD
+-
+    symbol: CNY-MXN
+    source: CNY
+    sourceId: CNY
+    target: MXN
+    targetId: MXN
+-
+    symbol: CNY-ILS
+    source: CNY
+    sourceId: CNY
+    target: ILS
+    targetId: ILS
+-
+    symbol: CNY-GBP
+    source: CNY
+    sourceId: CNY
+    target: GBP
+    targetId: GBP
+-
+    symbol: CNY-KRW
+    source: CNY
+    sourceId: CNY
+    target: KRW
+    targetId: KRW
+-
+    symbol: CNY-MYR
+    source: CNY
+    sourceId: CNY
+    target: MYR
+    targetId: MYR
+-
+    symbol: NOK-CAD
+    source: NOK
+    sourceId: NOK
+    target: CAD
+    targetId: CAD
+-
+    symbol: NOK-HKD
+    source: NOK
+    sourceId: NOK
+    target: HKD
+    targetId: HKD
+-
+    symbol: NOK-ISK
+    source: NOK
+    sourceId: NOK
+    target: ISK
+    targetId: ISK
+-
+    symbol: NOK-PHP
+    source: NOK
+    sourceId: NOK
+    target: PHP
+    targetId: PHP
+-
+    symbol: NOK-DKK
+    source: NOK
+    sourceId: NOK
+    target: DKK
+    targetId: DKK
+-
+    symbol: NOK-HUF
+    source: NOK
+    sourceId: NOK
+    target: HUF
+    targetId: HUF
+-
+    symbol: NOK-CZK
+    source: NOK
+    sourceId: NOK
+    target: CZK
+    targetId: CZK
+-
+    symbol: NOK-AUD
+    source: NOK
+    sourceId: NOK
+    target: AUD
+    targetId: AUD
+-
+    symbol: NOK-RON
+    source: NOK
+    sourceId: NOK
+    target: RON
+    targetId: RON
+-
+    symbol: NOK-SEK
+    source: NOK
+    sourceId: NOK
+    target: SEK
+    targetId: SEK
+-
+    symbol: NOK-IDR
+    source: NOK
+    sourceId: NOK
+    target: IDR
+    targetId: IDR
+-
+    symbol: NOK-INR
+    source: NOK
+    sourceId: NOK
+    target: INR
+    targetId: INR
+-
+    symbol: NOK-BRL
+    source: NOK
+    sourceId: NOK
+    target: BRL
+    targetId: BRL
+-
+    symbol: NOK-RUB
+    source: NOK
+    sourceId: NOK
+    target: RUB
+    targetId: RUB
+-
+    symbol: NOK-HRK
+    source: NOK
+    sourceId: NOK
+    target: HRK
+    targetId: HRK
+-
+    symbol: NOK-JPY
+    source: NOK
+    sourceId: NOK
+    target: JPY
+    targetId: JPY
+-
+    symbol: NOK-THB
+    source: NOK
+    sourceId: NOK
+    target: THB
+    targetId: THB
+-
+    symbol: NOK-CHF
+    source: NOK
+    sourceId: NOK
+    target: CHF
+    targetId: CHF
+-
+    symbol: NOK-SGD
+    source: NOK
+    sourceId: NOK
+    target: SGD
+    targetId: SGD
+-
+    symbol: NOK-PLN
+    source: NOK
+    sourceId: NOK
+    target: PLN
+    targetId: PLN
+-
+    symbol: NOK-BGN
+    source: NOK
+    sourceId: NOK
+    target: BGN
+    targetId: BGN
+-
+    symbol: NOK-TRY
+    source: NOK
+    sourceId: NOK
+    target: TRY
+    targetId: TRY
+-
+    symbol: NOK-CNY
+    source: NOK
+    sourceId: NOK
+    target: CNY
+    targetId: CNY
+-
+    symbol: NOK-NZD
+    source: NOK
+    sourceId: NOK
+    target: NZD
+    targetId: NZD
+-
+    symbol: NOK-ZAR
+    source: NOK
+    sourceId: NOK
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: NOK-USD
+    source: NOK
+    sourceId: NOK
+    target: USD
+    targetId: USD
+-
+    symbol: NOK-MXN
+    source: NOK
+    sourceId: NOK
+    target: MXN
+    targetId: MXN
+-
+    symbol: NOK-ILS
+    source: NOK
+    sourceId: NOK
+    target: ILS
+    targetId: ILS
+-
+    symbol: NOK-GBP
+    source: NOK
+    sourceId: NOK
+    target: GBP
+    targetId: GBP
+-
+    symbol: NOK-KRW
+    source: NOK
+    sourceId: NOK
+    target: KRW
+    targetId: KRW
+-
+    symbol: NOK-MYR
+    source: NOK
+    sourceId: NOK
+    target: MYR
+    targetId: MYR
+-
+    symbol: NZD-CAD
+    source: NZD
+    sourceId: NZD
+    target: CAD
+    targetId: CAD
+-
+    symbol: NZD-HKD
+    source: NZD
+    sourceId: NZD
+    target: HKD
+    targetId: HKD
+-
+    symbol: NZD-ISK
+    source: NZD
+    sourceId: NZD
+    target: ISK
+    targetId: ISK
+-
+    symbol: NZD-PHP
+    source: NZD
+    sourceId: NZD
+    target: PHP
+    targetId: PHP
+-
+    symbol: NZD-DKK
+    source: NZD
+    sourceId: NZD
+    target: DKK
+    targetId: DKK
+-
+    symbol: NZD-HUF
+    source: NZD
+    sourceId: NZD
+    target: HUF
+    targetId: HUF
+-
+    symbol: NZD-CZK
+    source: NZD
+    sourceId: NZD
+    target: CZK
+    targetId: CZK
+-
+    symbol: NZD-AUD
+    source: NZD
+    sourceId: NZD
+    target: AUD
+    targetId: AUD
+-
+    symbol: NZD-RON
+    source: NZD
+    sourceId: NZD
+    target: RON
+    targetId: RON
+-
+    symbol: NZD-SEK
+    source: NZD
+    sourceId: NZD
+    target: SEK
+    targetId: SEK
+-
+    symbol: NZD-IDR
+    source: NZD
+    sourceId: NZD
+    target: IDR
+    targetId: IDR
+-
+    symbol: NZD-INR
+    source: NZD
+    sourceId: NZD
+    target: INR
+    targetId: INR
+-
+    symbol: NZD-BRL
+    source: NZD
+    sourceId: NZD
+    target: BRL
+    targetId: BRL
+-
+    symbol: NZD-RUB
+    source: NZD
+    sourceId: NZD
+    target: RUB
+    targetId: RUB
+-
+    symbol: NZD-HRK
+    source: NZD
+    sourceId: NZD
+    target: HRK
+    targetId: HRK
+-
+    symbol: NZD-JPY
+    source: NZD
+    sourceId: NZD
+    target: JPY
+    targetId: JPY
+-
+    symbol: NZD-THB
+    source: NZD
+    sourceId: NZD
+    target: THB
+    targetId: THB
+-
+    symbol: NZD-CHF
+    source: NZD
+    sourceId: NZD
+    target: CHF
+    targetId: CHF
+-
+    symbol: NZD-SGD
+    source: NZD
+    sourceId: NZD
+    target: SGD
+    targetId: SGD
+-
+    symbol: NZD-PLN
+    source: NZD
+    sourceId: NZD
+    target: PLN
+    targetId: PLN
+-
+    symbol: NZD-BGN
+    source: NZD
+    sourceId: NZD
+    target: BGN
+    targetId: BGN
+-
+    symbol: NZD-TRY
+    source: NZD
+    sourceId: NZD
+    target: TRY
+    targetId: TRY
+-
+    symbol: NZD-CNY
+    source: NZD
+    sourceId: NZD
+    target: CNY
+    targetId: CNY
+-
+    symbol: NZD-NOK
+    source: NZD
+    sourceId: NZD
+    target: NOK
+    targetId: NOK
+-
+    symbol: NZD-ZAR
+    source: NZD
+    sourceId: NZD
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: NZD-USD
+    source: NZD
+    sourceId: NZD
+    target: USD
+    targetId: USD
+-
+    symbol: NZD-MXN
+    source: NZD
+    sourceId: NZD
+    target: MXN
+    targetId: MXN
+-
+    symbol: NZD-ILS
+    source: NZD
+    sourceId: NZD
+    target: ILS
+    targetId: ILS
+-
+    symbol: NZD-GBP
+    source: NZD
+    sourceId: NZD
+    target: GBP
+    targetId: GBP
+-
+    symbol: NZD-KRW
+    source: NZD
+    sourceId: NZD
+    target: KRW
+    targetId: KRW
+-
+    symbol: NZD-MYR
+    source: NZD
+    sourceId: NZD
+    target: MYR
+    targetId: MYR
+-
+    symbol: ZAR-CAD
+    source: ZAR
+    sourceId: ZAR
+    target: CAD
+    targetId: CAD
+-
+    symbol: ZAR-HKD
+    source: ZAR
+    sourceId: ZAR
+    target: HKD
+    targetId: HKD
+-
+    symbol: ZAR-ISK
+    source: ZAR
+    sourceId: ZAR
+    target: ISK
+    targetId: ISK
+-
+    symbol: ZAR-PHP
+    source: ZAR
+    sourceId: ZAR
+    target: PHP
+    targetId: PHP
+-
+    symbol: ZAR-DKK
+    source: ZAR
+    sourceId: ZAR
+    target: DKK
+    targetId: DKK
+-
+    symbol: ZAR-HUF
+    source: ZAR
+    sourceId: ZAR
+    target: HUF
+    targetId: HUF
+-
+    symbol: ZAR-CZK
+    source: ZAR
+    sourceId: ZAR
+    target: CZK
+    targetId: CZK
+-
+    symbol: ZAR-AUD
+    source: ZAR
+    sourceId: ZAR
+    target: AUD
+    targetId: AUD
+-
+    symbol: ZAR-RON
+    source: ZAR
+    sourceId: ZAR
+    target: RON
+    targetId: RON
+-
+    symbol: ZAR-SEK
+    source: ZAR
+    sourceId: ZAR
+    target: SEK
+    targetId: SEK
+-
+    symbol: ZAR-IDR
+    source: ZAR
+    sourceId: ZAR
+    target: IDR
+    targetId: IDR
+-
+    symbol: ZAR-INR
+    source: ZAR
+    sourceId: ZAR
+    target: INR
+    targetId: INR
+-
+    symbol: ZAR-BRL
+    source: ZAR
+    sourceId: ZAR
+    target: BRL
+    targetId: BRL
+-
+    symbol: ZAR-RUB
+    source: ZAR
+    sourceId: ZAR
+    target: RUB
+    targetId: RUB
+-
+    symbol: ZAR-HRK
+    source: ZAR
+    sourceId: ZAR
+    target: HRK
+    targetId: HRK
+-
+    symbol: ZAR-JPY
+    source: ZAR
+    sourceId: ZAR
+    target: JPY
+    targetId: JPY
+-
+    symbol: ZAR-THB
+    source: ZAR
+    sourceId: ZAR
+    target: THB
+    targetId: THB
+-
+    symbol: ZAR-CHF
+    source: ZAR
+    sourceId: ZAR
+    target: CHF
+    targetId: CHF
+-
+    symbol: ZAR-SGD
+    source: ZAR
+    sourceId: ZAR
+    target: SGD
+    targetId: SGD
+-
+    symbol: ZAR-PLN
+    source: ZAR
+    sourceId: ZAR
+    target: PLN
+    targetId: PLN
+-
+    symbol: ZAR-BGN
+    source: ZAR
+    sourceId: ZAR
+    target: BGN
+    targetId: BGN
+-
+    symbol: ZAR-TRY
+    source: ZAR
+    sourceId: ZAR
+    target: TRY
+    targetId: TRY
+-
+    symbol: ZAR-CNY
+    source: ZAR
+    sourceId: ZAR
+    target: CNY
+    targetId: CNY
+-
+    symbol: ZAR-NOK
+    source: ZAR
+    sourceId: ZAR
+    target: NOK
+    targetId: NOK
+-
+    symbol: ZAR-NZD
+    source: ZAR
+    sourceId: ZAR
+    target: NZD
+    targetId: NZD
+-
+    symbol: ZAR-USD
+    source: ZAR
+    sourceId: ZAR
+    target: USD
+    targetId: USD
+-
+    symbol: ZAR-MXN
+    source: ZAR
+    sourceId: ZAR
+    target: MXN
+    targetId: MXN
+-
+    symbol: ZAR-ILS
+    source: ZAR
+    sourceId: ZAR
+    target: ILS
+    targetId: ILS
+-
+    symbol: ZAR-GBP
+    source: ZAR
+    sourceId: ZAR
+    target: GBP
+    targetId: GBP
+-
+    symbol: ZAR-KRW
+    source: ZAR
+    sourceId: ZAR
+    target: KRW
+    targetId: KRW
+-
+    symbol: ZAR-MYR
+    source: ZAR
+    sourceId: ZAR
+    target: MYR
+    targetId: MYR
+-
+    symbol: USD-CAD
+    source: USD
+    sourceId: USD
+    target: CAD
+    targetId: CAD
+-
+    symbol: USD-HKD
+    source: USD
+    sourceId: USD
+    target: HKD
+    targetId: HKD
+-
+    symbol: USD-ISK
+    source: USD
+    sourceId: USD
+    target: ISK
+    targetId: ISK
+-
+    symbol: USD-PHP
+    source: USD
+    sourceId: USD
+    target: PHP
+    targetId: PHP
+-
+    symbol: USD-DKK
+    source: USD
+    sourceId: USD
+    target: DKK
+    targetId: DKK
+-
+    symbol: USD-HUF
+    source: USD
+    sourceId: USD
+    target: HUF
+    targetId: HUF
+-
+    symbol: USD-CZK
+    source: USD
+    sourceId: USD
+    target: CZK
+    targetId: CZK
+-
+    symbol: USD-AUD
+    source: USD
+    sourceId: USD
+    target: AUD
+    targetId: AUD
+-
+    symbol: USD-RON
+    source: USD
+    sourceId: USD
+    target: RON
+    targetId: RON
+-
+    symbol: USD-SEK
+    source: USD
+    sourceId: USD
+    target: SEK
+    targetId: SEK
+-
+    symbol: USD-IDR
+    source: USD
+    sourceId: USD
+    target: IDR
+    targetId: IDR
+-
+    symbol: USD-INR
+    source: USD
+    sourceId: USD
+    target: INR
+    targetId: INR
+-
+    symbol: USD-BRL
+    source: USD
+    sourceId: USD
+    target: BRL
+    targetId: BRL
+-
+    symbol: USD-RUB
+    source: USD
+    sourceId: USD
+    target: RUB
+    targetId: RUB
+-
+    symbol: USD-HRK
+    source: USD
+    sourceId: USD
+    target: HRK
+    targetId: HRK
+-
+    symbol: USD-JPY
+    source: USD
+    sourceId: USD
+    target: JPY
+    targetId: JPY
+-
+    symbol: USD-THB
+    source: USD
+    sourceId: USD
+    target: THB
+    targetId: THB
+-
+    symbol: USD-CHF
+    source: USD
+    sourceId: USD
+    target: CHF
+    targetId: CHF
+-
+    symbol: USD-SGD
+    source: USD
+    sourceId: USD
+    target: SGD
+    targetId: SGD
+-
+    symbol: USD-PLN
+    source: USD
+    sourceId: USD
+    target: PLN
+    targetId: PLN
+-
+    symbol: USD-BGN
+    source: USD
+    sourceId: USD
+    target: BGN
+    targetId: BGN
+-
+    symbol: USD-TRY
+    source: USD
+    sourceId: USD
+    target: TRY
+    targetId: TRY
+-
+    symbol: USD-CNY
+    source: USD
+    sourceId: USD
+    target: CNY
+    targetId: CNY
+-
+    symbol: USD-NOK
+    source: USD
+    sourceId: USD
+    target: NOK
+    targetId: NOK
+-
+    symbol: USD-NZD
+    source: USD
+    sourceId: USD
+    target: NZD
+    targetId: NZD
+-
+    symbol: USD-ZAR
+    source: USD
+    sourceId: USD
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: USD-MXN
+    source: USD
+    sourceId: USD
+    target: MXN
+    targetId: MXN
+-
+    symbol: USD-ILS
+    source: USD
+    sourceId: USD
+    target: ILS
+    targetId: ILS
+-
+    symbol: USD-GBP
+    source: USD
+    sourceId: USD
+    target: GBP
+    targetId: GBP
+-
+    symbol: USD-KRW
+    source: USD
+    sourceId: USD
+    target: KRW
+    targetId: KRW
+-
+    symbol: USD-MYR
+    source: USD
+    sourceId: USD
+    target: MYR
+    targetId: MYR
+-
+    symbol: MXN-CAD
+    source: MXN
+    sourceId: MXN
+    target: CAD
+    targetId: CAD
+-
+    symbol: MXN-HKD
+    source: MXN
+    sourceId: MXN
+    target: HKD
+    targetId: HKD
+-
+    symbol: MXN-ISK
+    source: MXN
+    sourceId: MXN
+    target: ISK
+    targetId: ISK
+-
+    symbol: MXN-PHP
+    source: MXN
+    sourceId: MXN
+    target: PHP
+    targetId: PHP
+-
+    symbol: MXN-DKK
+    source: MXN
+    sourceId: MXN
+    target: DKK
+    targetId: DKK
+-
+    symbol: MXN-HUF
+    source: MXN
+    sourceId: MXN
+    target: HUF
+    targetId: HUF
+-
+    symbol: MXN-CZK
+    source: MXN
+    sourceId: MXN
+    target: CZK
+    targetId: CZK
+-
+    symbol: MXN-AUD
+    source: MXN
+    sourceId: MXN
+    target: AUD
+    targetId: AUD
+-
+    symbol: MXN-RON
+    source: MXN
+    sourceId: MXN
+    target: RON
+    targetId: RON
+-
+    symbol: MXN-SEK
+    source: MXN
+    sourceId: MXN
+    target: SEK
+    targetId: SEK
+-
+    symbol: MXN-IDR
+    source: MXN
+    sourceId: MXN
+    target: IDR
+    targetId: IDR
+-
+    symbol: MXN-INR
+    source: MXN
+    sourceId: MXN
+    target: INR
+    targetId: INR
+-
+    symbol: MXN-BRL
+    source: MXN
+    sourceId: MXN
+    target: BRL
+    targetId: BRL
+-
+    symbol: MXN-RUB
+    source: MXN
+    sourceId: MXN
+    target: RUB
+    targetId: RUB
+-
+    symbol: MXN-HRK
+    source: MXN
+    sourceId: MXN
+    target: HRK
+    targetId: HRK
+-
+    symbol: MXN-JPY
+    source: MXN
+    sourceId: MXN
+    target: JPY
+    targetId: JPY
+-
+    symbol: MXN-THB
+    source: MXN
+    sourceId: MXN
+    target: THB
+    targetId: THB
+-
+    symbol: MXN-CHF
+    source: MXN
+    sourceId: MXN
+    target: CHF
+    targetId: CHF
+-
+    symbol: MXN-SGD
+    source: MXN
+    sourceId: MXN
+    target: SGD
+    targetId: SGD
+-
+    symbol: MXN-PLN
+    source: MXN
+    sourceId: MXN
+    target: PLN
+    targetId: PLN
+-
+    symbol: MXN-BGN
+    source: MXN
+    sourceId: MXN
+    target: BGN
+    targetId: BGN
+-
+    symbol: MXN-TRY
+    source: MXN
+    sourceId: MXN
+    target: TRY
+    targetId: TRY
+-
+    symbol: MXN-CNY
+    source: MXN
+    sourceId: MXN
+    target: CNY
+    targetId: CNY
+-
+    symbol: MXN-NOK
+    source: MXN
+    sourceId: MXN
+    target: NOK
+    targetId: NOK
+-
+    symbol: MXN-NZD
+    source: MXN
+    sourceId: MXN
+    target: NZD
+    targetId: NZD
+-
+    symbol: MXN-ZAR
+    source: MXN
+    sourceId: MXN
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: MXN-USD
+    source: MXN
+    sourceId: MXN
+    target: USD
+    targetId: USD
+-
+    symbol: MXN-ILS
+    source: MXN
+    sourceId: MXN
+    target: ILS
+    targetId: ILS
+-
+    symbol: MXN-GBP
+    source: MXN
+    sourceId: MXN
+    target: GBP
+    targetId: GBP
+-
+    symbol: MXN-KRW
+    source: MXN
+    sourceId: MXN
+    target: KRW
+    targetId: KRW
+-
+    symbol: MXN-MYR
+    source: MXN
+    sourceId: MXN
+    target: MYR
+    targetId: MYR
+-
+    symbol: ILS-CAD
+    source: ILS
+    sourceId: ILS
+    target: CAD
+    targetId: CAD
+-
+    symbol: ILS-HKD
+    source: ILS
+    sourceId: ILS
+    target: HKD
+    targetId: HKD
+-
+    symbol: ILS-ISK
+    source: ILS
+    sourceId: ILS
+    target: ISK
+    targetId: ISK
+-
+    symbol: ILS-PHP
+    source: ILS
+    sourceId: ILS
+    target: PHP
+    targetId: PHP
+-
+    symbol: ILS-DKK
+    source: ILS
+    sourceId: ILS
+    target: DKK
+    targetId: DKK
+-
+    symbol: ILS-HUF
+    source: ILS
+    sourceId: ILS
+    target: HUF
+    targetId: HUF
+-
+    symbol: ILS-CZK
+    source: ILS
+    sourceId: ILS
+    target: CZK
+    targetId: CZK
+-
+    symbol: ILS-AUD
+    source: ILS
+    sourceId: ILS
+    target: AUD
+    targetId: AUD
+-
+    symbol: ILS-RON
+    source: ILS
+    sourceId: ILS
+    target: RON
+    targetId: RON
+-
+    symbol: ILS-SEK
+    source: ILS
+    sourceId: ILS
+    target: SEK
+    targetId: SEK
+-
+    symbol: ILS-IDR
+    source: ILS
+    sourceId: ILS
+    target: IDR
+    targetId: IDR
+-
+    symbol: ILS-INR
+    source: ILS
+    sourceId: ILS
+    target: INR
+    targetId: INR
+-
+    symbol: ILS-BRL
+    source: ILS
+    sourceId: ILS
+    target: BRL
+    targetId: BRL
+-
+    symbol: ILS-RUB
+    source: ILS
+    sourceId: ILS
+    target: RUB
+    targetId: RUB
+-
+    symbol: ILS-HRK
+    source: ILS
+    sourceId: ILS
+    target: HRK
+    targetId: HRK
+-
+    symbol: ILS-JPY
+    source: ILS
+    sourceId: ILS
+    target: JPY
+    targetId: JPY
+-
+    symbol: ILS-THB
+    source: ILS
+    sourceId: ILS
+    target: THB
+    targetId: THB
+-
+    symbol: ILS-CHF
+    source: ILS
+    sourceId: ILS
+    target: CHF
+    targetId: CHF
+-
+    symbol: ILS-SGD
+    source: ILS
+    sourceId: ILS
+    target: SGD
+    targetId: SGD
+-
+    symbol: ILS-PLN
+    source: ILS
+    sourceId: ILS
+    target: PLN
+    targetId: PLN
+-
+    symbol: ILS-BGN
+    source: ILS
+    sourceId: ILS
+    target: BGN
+    targetId: BGN
+-
+    symbol: ILS-TRY
+    source: ILS
+    sourceId: ILS
+    target: TRY
+    targetId: TRY
+-
+    symbol: ILS-CNY
+    source: ILS
+    sourceId: ILS
+    target: CNY
+    targetId: CNY
+-
+    symbol: ILS-NOK
+    source: ILS
+    sourceId: ILS
+    target: NOK
+    targetId: NOK
+-
+    symbol: ILS-NZD
+    source: ILS
+    sourceId: ILS
+    target: NZD
+    targetId: NZD
+-
+    symbol: ILS-ZAR
+    source: ILS
+    sourceId: ILS
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: ILS-USD
+    source: ILS
+    sourceId: ILS
+    target: USD
+    targetId: USD
+-
+    symbol: ILS-MXN
+    source: ILS
+    sourceId: ILS
+    target: MXN
+    targetId: MXN
+-
+    symbol: ILS-GBP
+    source: ILS
+    sourceId: ILS
+    target: GBP
+    targetId: GBP
+-
+    symbol: ILS-KRW
+    source: ILS
+    sourceId: ILS
+    target: KRW
+    targetId: KRW
+-
+    symbol: ILS-MYR
+    source: ILS
+    sourceId: ILS
+    target: MYR
+    targetId: MYR
+-
+    symbol: GBP-CAD
+    source: GBP
+    sourceId: GBP
+    target: CAD
+    targetId: CAD
+-
+    symbol: GBP-HKD
+    source: GBP
+    sourceId: GBP
+    target: HKD
+    targetId: HKD
+-
+    symbol: GBP-ISK
+    source: GBP
+    sourceId: GBP
+    target: ISK
+    targetId: ISK
+-
+    symbol: GBP-PHP
+    source: GBP
+    sourceId: GBP
+    target: PHP
+    targetId: PHP
+-
+    symbol: GBP-DKK
+    source: GBP
+    sourceId: GBP
+    target: DKK
+    targetId: DKK
+-
+    symbol: GBP-HUF
+    source: GBP
+    sourceId: GBP
+    target: HUF
+    targetId: HUF
+-
+    symbol: GBP-CZK
+    source: GBP
+    sourceId: GBP
+    target: CZK
+    targetId: CZK
+-
+    symbol: GBP-AUD
+    source: GBP
+    sourceId: GBP
+    target: AUD
+    targetId: AUD
+-
+    symbol: GBP-RON
+    source: GBP
+    sourceId: GBP
+    target: RON
+    targetId: RON
+-
+    symbol: GBP-SEK
+    source: GBP
+    sourceId: GBP
+    target: SEK
+    targetId: SEK
+-
+    symbol: GBP-IDR
+    source: GBP
+    sourceId: GBP
+    target: IDR
+    targetId: IDR
+-
+    symbol: GBP-INR
+    source: GBP
+    sourceId: GBP
+    target: INR
+    targetId: INR
+-
+    symbol: GBP-BRL
+    source: GBP
+    sourceId: GBP
+    target: BRL
+    targetId: BRL
+-
+    symbol: GBP-RUB
+    source: GBP
+    sourceId: GBP
+    target: RUB
+    targetId: RUB
+-
+    symbol: GBP-HRK
+    source: GBP
+    sourceId: GBP
+    target: HRK
+    targetId: HRK
+-
+    symbol: GBP-JPY
+    source: GBP
+    sourceId: GBP
+    target: JPY
+    targetId: JPY
+-
+    symbol: GBP-THB
+    source: GBP
+    sourceId: GBP
+    target: THB
+    targetId: THB
+-
+    symbol: GBP-CHF
+    source: GBP
+    sourceId: GBP
+    target: CHF
+    targetId: CHF
+-
+    symbol: GBP-SGD
+    source: GBP
+    sourceId: GBP
+    target: SGD
+    targetId: SGD
+-
+    symbol: GBP-PLN
+    source: GBP
+    sourceId: GBP
+    target: PLN
+    targetId: PLN
+-
+    symbol: GBP-BGN
+    source: GBP
+    sourceId: GBP
+    target: BGN
+    targetId: BGN
+-
+    symbol: GBP-TRY
+    source: GBP
+    sourceId: GBP
+    target: TRY
+    targetId: TRY
+-
+    symbol: GBP-CNY
+    source: GBP
+    sourceId: GBP
+    target: CNY
+    targetId: CNY
+-
+    symbol: GBP-NOK
+    source: GBP
+    sourceId: GBP
+    target: NOK
+    targetId: NOK
+-
+    symbol: GBP-NZD
+    source: GBP
+    sourceId: GBP
+    target: NZD
+    targetId: NZD
+-
+    symbol: GBP-ZAR
+    source: GBP
+    sourceId: GBP
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: GBP-USD
+    source: GBP
+    sourceId: GBP
+    target: USD
+    targetId: USD
+-
+    symbol: GBP-MXN
+    source: GBP
+    sourceId: GBP
+    target: MXN
+    targetId: MXN
+-
+    symbol: GBP-ILS
+    source: GBP
+    sourceId: GBP
+    target: ILS
+    targetId: ILS
+-
+    symbol: GBP-KRW
+    source: GBP
+    sourceId: GBP
+    target: KRW
+    targetId: KRW
+-
+    symbol: GBP-MYR
+    source: GBP
+    sourceId: GBP
+    target: MYR
+    targetId: MYR
+-
+    symbol: KRW-CAD
+    source: KRW
+    sourceId: KRW
+    target: CAD
+    targetId: CAD
+-
+    symbol: KRW-HKD
+    source: KRW
+    sourceId: KRW
+    target: HKD
+    targetId: HKD
+-
+    symbol: KRW-ISK
+    source: KRW
+    sourceId: KRW
+    target: ISK
+    targetId: ISK
+-
+    symbol: KRW-PHP
+    source: KRW
+    sourceId: KRW
+    target: PHP
+    targetId: PHP
+-
+    symbol: KRW-DKK
+    source: KRW
+    sourceId: KRW
+    target: DKK
+    targetId: DKK
+-
+    symbol: KRW-HUF
+    source: KRW
+    sourceId: KRW
+    target: HUF
+    targetId: HUF
+-
+    symbol: KRW-CZK
+    source: KRW
+    sourceId: KRW
+    target: CZK
+    targetId: CZK
+-
+    symbol: KRW-AUD
+    source: KRW
+    sourceId: KRW
+    target: AUD
+    targetId: AUD
+-
+    symbol: KRW-RON
+    source: KRW
+    sourceId: KRW
+    target: RON
+    targetId: RON
+-
+    symbol: KRW-SEK
+    source: KRW
+    sourceId: KRW
+    target: SEK
+    targetId: SEK
+-
+    symbol: KRW-IDR
+    source: KRW
+    sourceId: KRW
+    target: IDR
+    targetId: IDR
+-
+    symbol: KRW-INR
+    source: KRW
+    sourceId: KRW
+    target: INR
+    targetId: INR
+-
+    symbol: KRW-BRL
+    source: KRW
+    sourceId: KRW
+    target: BRL
+    targetId: BRL
+-
+    symbol: KRW-RUB
+    source: KRW
+    sourceId: KRW
+    target: RUB
+    targetId: RUB
+-
+    symbol: KRW-HRK
+    source: KRW
+    sourceId: KRW
+    target: HRK
+    targetId: HRK
+-
+    symbol: KRW-JPY
+    source: KRW
+    sourceId: KRW
+    target: JPY
+    targetId: JPY
+-
+    symbol: KRW-THB
+    source: KRW
+    sourceId: KRW
+    target: THB
+    targetId: THB
+-
+    symbol: KRW-CHF
+    source: KRW
+    sourceId: KRW
+    target: CHF
+    targetId: CHF
+-
+    symbol: KRW-SGD
+    source: KRW
+    sourceId: KRW
+    target: SGD
+    targetId: SGD
+-
+    symbol: KRW-PLN
+    source: KRW
+    sourceId: KRW
+    target: PLN
+    targetId: PLN
+-
+    symbol: KRW-BGN
+    source: KRW
+    sourceId: KRW
+    target: BGN
+    targetId: BGN
+-
+    symbol: KRW-TRY
+    source: KRW
+    sourceId: KRW
+    target: TRY
+    targetId: TRY
+-
+    symbol: KRW-CNY
+    source: KRW
+    sourceId: KRW
+    target: CNY
+    targetId: CNY
+-
+    symbol: KRW-NOK
+    source: KRW
+    sourceId: KRW
+    target: NOK
+    targetId: NOK
+-
+    symbol: KRW-NZD
+    source: KRW
+    sourceId: KRW
+    target: NZD
+    targetId: NZD
+-
+    symbol: KRW-ZAR
+    source: KRW
+    sourceId: KRW
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: KRW-USD
+    source: KRW
+    sourceId: KRW
+    target: USD
+    targetId: USD
+-
+    symbol: KRW-MXN
+    source: KRW
+    sourceId: KRW
+    target: MXN
+    targetId: MXN
+-
+    symbol: KRW-ILS
+    source: KRW
+    sourceId: KRW
+    target: ILS
+    targetId: ILS
+-
+    symbol: KRW-GBP
+    source: KRW
+    sourceId: KRW
+    target: GBP
+    targetId: GBP
+-
+    symbol: KRW-MYR
+    source: KRW
+    sourceId: KRW
+    target: MYR
+    targetId: MYR
+-
+    symbol: MYR-CAD
+    source: MYR
+    sourceId: MYR
+    target: CAD
+    targetId: CAD
+-
+    symbol: MYR-HKD
+    source: MYR
+    sourceId: MYR
+    target: HKD
+    targetId: HKD
+-
+    symbol: MYR-ISK
+    source: MYR
+    sourceId: MYR
+    target: ISK
+    targetId: ISK
+-
+    symbol: MYR-PHP
+    source: MYR
+    sourceId: MYR
+    target: PHP
+    targetId: PHP
+-
+    symbol: MYR-DKK
+    source: MYR
+    sourceId: MYR
+    target: DKK
+    targetId: DKK
+-
+    symbol: MYR-HUF
+    source: MYR
+    sourceId: MYR
+    target: HUF
+    targetId: HUF
+-
+    symbol: MYR-CZK
+    source: MYR
+    sourceId: MYR
+    target: CZK
+    targetId: CZK
+-
+    symbol: MYR-AUD
+    source: MYR
+    sourceId: MYR
+    target: AUD
+    targetId: AUD
+-
+    symbol: MYR-RON
+    source: MYR
+    sourceId: MYR
+    target: RON
+    targetId: RON
+-
+    symbol: MYR-SEK
+    source: MYR
+    sourceId: MYR
+    target: SEK
+    targetId: SEK
+-
+    symbol: MYR-IDR
+    source: MYR
+    sourceId: MYR
+    target: IDR
+    targetId: IDR
+-
+    symbol: MYR-INR
+    source: MYR
+    sourceId: MYR
+    target: INR
+    targetId: INR
+-
+    symbol: MYR-BRL
+    source: MYR
+    sourceId: MYR
+    target: BRL
+    targetId: BRL
+-
+    symbol: MYR-RUB
+    source: MYR
+    sourceId: MYR
+    target: RUB
+    targetId: RUB
+-
+    symbol: MYR-HRK
+    source: MYR
+    sourceId: MYR
+    target: HRK
+    targetId: HRK
+-
+    symbol: MYR-JPY
+    source: MYR
+    sourceId: MYR
+    target: JPY
+    targetId: JPY
+-
+    symbol: MYR-THB
+    source: MYR
+    sourceId: MYR
+    target: THB
+    targetId: THB
+-
+    symbol: MYR-CHF
+    source: MYR
+    sourceId: MYR
+    target: CHF
+    targetId: CHF
+-
+    symbol: MYR-SGD
+    source: MYR
+    sourceId: MYR
+    target: SGD
+    targetId: SGD
+-
+    symbol: MYR-PLN
+    source: MYR
+    sourceId: MYR
+    target: PLN
+    targetId: PLN
+-
+    symbol: MYR-BGN
+    source: MYR
+    sourceId: MYR
+    target: BGN
+    targetId: BGN
+-
+    symbol: MYR-TRY
+    source: MYR
+    sourceId: MYR
+    target: TRY
+    targetId: TRY
+-
+    symbol: MYR-CNY
+    source: MYR
+    sourceId: MYR
+    target: CNY
+    targetId: CNY
+-
+    symbol: MYR-NOK
+    source: MYR
+    sourceId: MYR
+    target: NOK
+    targetId: NOK
+-
+    symbol: MYR-NZD
+    source: MYR
+    sourceId: MYR
+    target: NZD
+    targetId: NZD
+-
+    symbol: MYR-ZAR
+    source: MYR
+    sourceId: MYR
+    target: ZAR
+    targetId: ZAR
+-
+    symbol: MYR-USD
+    source: MYR
+    sourceId: MYR
+    target: USD
+    targetId: USD
+-
+    symbol: MYR-MXN
+    source: MYR
+    sourceId: MYR
+    target: MXN
+    targetId: MXN
+-
+    symbol: MYR-ILS
+    source: MYR
+    sourceId: MYR
+    target: ILS
+    targetId: ILS
+-
+    symbol: MYR-GBP
+    source: MYR
+    sourceId: MYR
+    target: GBP
+    targetId: GBP
+-
+    symbol: MYR-KRW
+    source: MYR
+    sourceId: MYR
+    target: KRW
+    targetId: KRW

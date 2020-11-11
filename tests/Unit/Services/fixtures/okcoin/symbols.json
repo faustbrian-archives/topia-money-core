@@ -1,0 +1,218 @@
+[{
+    "base_currency": "BTC",
+    "instrument_id": "BTC-USD",
+    "min_size": "0.001",
+    "quote_currency": "USD",
+    "size_increment": "0.0001",
+    "tick_size": "0.01"
+}, {
+    "base_currency": "LTC",
+    "instrument_id": "LTC-USD",
+    "min_size": "0.1",
+    "quote_currency": "USD",
+    "size_increment": "0.0001",
+    "tick_size": "0.01"
+}, {
+    "base_currency": "ETH",
+    "instrument_id": "ETH-USD",
+    "min_size": "0.01",
+    "quote_currency": "USD",
+    "size_increment": "0.0001",
+    "tick_size": "0.01"
+}, {
+    "base_currency": "ETC",
+    "instrument_id": "ETC-USD",
+    "min_size": "0.1",
+    "quote_currency": "USD",
+    "size_increment": "0.0001",
+    "tick_size": "0.001"
+}, {
+    "base_currency": "TUSD",
+    "instrument_id": "TUSD-USD",
+    "min_size": "0.01",
+    "quote_currency": "USD",
+    "size_increment": "0.0001",
+    "tick_size": "0.0001"
+}, {
+    "base_currency": "CELO",
+    "instrument_id": "CELO-USD",
+    "min_size": "0.1",
+    "quote_currency": "USD",
+    "size_increment": "0.0001",
+    "tick_size": "0.001"
+}, {
+    "base_currency": "DOT",
+    "instrument_id": "DOT-USD",
+    "min_size": "1",
+    "quote_currency": "USD",
+    "size_increment": "0.0001",
+    "tick_size": "0.0001"
+}, {
+    "base_currency": "YFI",
+    "instrument_id": "YFI-USD",
+    "min_size": "0.001",
+    "quote_currency": "USD",
+    "size_increment": "0.0001",
+    "tick_size": "0.1"
+}, {
+    "base_currency": "COMP",
+    "instrument_id": "COMP-USD",
+    "min_size": "0.01",
+    "quote_currency": "USD",
+    "size_increment": "0.0001",
+    "tick_size": "0.01"
+}, {
+    "base_currency": "UNI",
+    "instrument_id": "UNI-USD",
+    "min_size": "1",
+    "quote_currency": "USD",
+    "size_increment": "0.0001",
+    "tick_size": "0.001"
+}, {
+    "base_currency": "BCH",
+    "instrument_id": "BCH-USD",
+    "min_size": "0.01",
+    "quote_currency": "USD",
+    "size_increment": "0.0001",
+    "tick_size": "0.01"
+}, {
+    "base_currency": "EOS",
+    "instrument_id": "EOS-USD",
+    "min_size": "0.1",
+    "quote_currency": "USD",
+    "size_increment": "0.0001",
+    "tick_size": "0.001"
+}, {
+    "base_currency": "XRP",
+    "instrument_id": "XRP-USD",
+    "min_size": "1",
+    "quote_currency": "USD",
+    "size_increment": "0.001",
+    "tick_size": "0.0001"
+}, {
+    "base_currency": "TRX",
+    "instrument_id": "TRX-USD",
+    "min_size": "1",
+    "quote_currency": "USD",
+    "size_increment": "0.0001",
+    "tick_size": "0.00001"
+}, {
+    "base_currency": "BSV",
+    "instrument_id": "BSV-USD",
+    "min_size": "0.01",
+    "quote_currency": "USD",
+    "size_increment": "0.0001",
+    "tick_size": "0.01"
+}, {
+    "base_currency": "BTC",
+    "instrument_id": "BTC-USDT",
+    "min_size": "0.001",
+    "quote_currency": "USDT",
+    "size_increment": "0.0001",
+    "tick_size": "0.1"
+}, {
+    "base_currency": "BTC",
+    "instrument_id": "BTC-SGD",
+    "min_size": "0.001",
+    "quote_currency": "SGD",
+    "size_increment": "0.0001",
+    "tick_size": "0.01"
+}, {
+    "base_currency": "ETH",
+    "instrument_id": "ETH-SGD",
+    "min_size": "0.01",
+    "quote_currency": "SGD",
+    "size_increment": "0.0001",
+    "tick_size": "0.01"
+}, {
+    "base_currency": "USDT",
+    "instrument_id": "USDT-USD",
+    "min_size": "1",
+    "quote_currency": "USD",
+    "size_increment": "0.0001",
+    "tick_size": "0.0001"
+}, {
+    "base_currency": "USDK",
+    "instrument_id": "USDK-USD",
+    "min_size": "0.01",
+    "quote_currency": "USD",
+    "size_increment": "0.0001",
+    "tick_size": "0.0001"
+}, {
+    "base_currency": "CUSD",
+    "instrument_id": "CUSD-USD",
+    "min_size": "1",
+    "quote_currency": "USD",
+    "size_increment": "0.0001",
+    "tick_size": "0.0001"
+}, {
+    "base_currency": "DAI",
+    "instrument_id": "DAI-USD",
+    "min_size": "1",
+    "quote_currency": "USD",
+    "size_increment": "0.0001",
+    "tick_size": "0.0001"
+}, {
+    "base_currency": "EURS",
+    "instrument_id": "EURS-USD",
+    "min_size": "0.01",
+    "quote_currency": "USD",
+    "size_increment": "0.0001",
+    "tick_size": "0.0001"
+}, {
+    "base_currency": "HBAR",
+    "instrument_id": "HBAR-USD",
+    "min_size": "1",
+    "quote_currency": "USD",
+    "size_increment": "0.0001",
+    "tick_size": "0.0001"
+}, {
+    "base_currency": "PAX",
+    "instrument_id": "PAX-USD",
+    "min_size": "0.1",
+    "quote_currency": "USD",
+    "size_increment": "0.0001",
+    "tick_size": "0.0001"
+}, {
+    "base_currency": "USDC",
+    "instrument_id": "USDC-USD",
+    "min_size": "0.1",
+    "quote_currency": "USD",
+    "size_increment": "0.0001",
+    "tick_size": "0.0001"
+}, {
+    "base_currency": "BTC",
+    "instrument_id": "BTC-EUR",
+    "min_size": "0.001",
+    "quote_currency": "EUR",
+    "size_increment": "0.0001",
+    "tick_size": "0.01"
+}, {
+    "base_currency": "BTC",
+    "instrument_id": "BTC-EURS",
+    "min_size": "0.001",
+    "quote_currency": "EURS",
+    "size_increment": "0.0001",
+    "tick_size": "0.01"
+}, {
+    "base_currency": "ETH",
+    "instrument_id": "ETH-EUR",
+    "min_size": "0.01",
+    "quote_currency": "EUR",
+    "size_increment": "0.0001",
+    "tick_size": "0.01"
+}, {
+    "base_currency": "BCH",
+    "instrument_id": "BCH-EUR",
+    "min_size": "0.01",
+    "quote_currency": "EUR",
+    "size_increment": "0.0001",
+    "tick_size": "0.01"
+}, {
+    "base_currency": "EURS",
+    "instrument_id": "EURS-EUR",
+    "min_size": "0.01",
+    "quote_currency": "EUR",
+    "size_increment": "0.0001",
+    "tick_size": "0.0001"
+}]

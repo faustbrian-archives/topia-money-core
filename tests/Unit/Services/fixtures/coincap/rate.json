@@ -1,0 +1,10 @@
+{
+    "data": {
+        "id": "bitcoin",
+        "symbol": "BTC",
+        "currencySymbol": "₿",
+        "type": "crypto",
+        "rateUsd": "10517.1587475513649950"
+    },
+    "timestamp": 1600780533922
+}

@@ -1,0 +1,1054 @@
+[{
+    "market": "ADA-BTC",
+    "status": "trading",
+    "base": "ADA",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "100",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "ADA-EUR",
+    "status": "trading",
+    "base": "ADA",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "100",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "AE-BTC",
+    "status": "trading",
+    "base": "AE",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "10",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "AE-EUR",
+    "status": "trading",
+    "base": "AE",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "10",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "AION-BTC",
+    "status": "trading",
+    "base": "AION",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "30",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "AION-EUR",
+    "status": "trading",
+    "base": "AION",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "30",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "ANT-BTC",
+    "status": "trading",
+    "base": "ANT",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "10",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "ANT-EUR",
+    "status": "trading",
+    "base": "ANT",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "10",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "ARK-BTC",
+    "status": "trading",
+    "base": "ARK",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "10",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "ARK-EUR",
+    "status": "trading",
+    "base": "ARK",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "10",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "BAT-BTC",
+    "status": "trading",
+    "base": "BAT",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "30",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "BAT-EUR",
+    "status": "trading",
+    "base": "BAT",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "30",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "BCH-BTC",
+    "status": "trading",
+    "base": "BCH",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "0.03",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "BCH-EUR",
+    "status": "trading",
+    "base": "BCH",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "0.03",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "BSV-BTC",
+    "status": "trading",
+    "base": "BSV",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "0.02",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "BSV-EUR",
+    "status": "trading",
+    "base": "BSV",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "0.02",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "BTC-EUR",
+    "status": "trading",
+    "base": "BTC",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "0.001",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "CMT-BTC",
+    "status": "trading",
+    "base": "CMT",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "150",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "CMT-EUR",
+    "status": "trading",
+    "base": "CMT",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "150",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "DCR-BTC",
+    "status": "trading",
+    "base": "DCR",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "0.2",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "DCR-EUR",
+    "status": "trading",
+    "base": "DCR",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "0.2",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "DGB-BTC",
+    "status": "trading",
+    "base": "DGB",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "400",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "DGB-EUR",
+    "status": "trading",
+    "base": "DGB",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "400",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "ELF-BTC",
+    "status": "trading",
+    "base": "ELF",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "40",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "ELF-EUR",
+    "status": "trading",
+    "base": "ELF",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "40",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "ENJ-BTC",
+    "status": "trading",
+    "base": "ENJ",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "20",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "ENJ-EUR",
+    "status": "trading",
+    "base": "ENJ",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "20",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "EOS-BTC",
+    "status": "trading",
+    "base": "EOS",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "1",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "EOS-EUR",
+    "status": "trading",
+    "base": "EOS",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "1",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "ETC-BTC",
+    "status": "trading",
+    "base": "ETC",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "1",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "ETC-EUR",
+    "status": "trading",
+    "base": "ETC",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "1",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "ETH-BTC",
+    "status": "trading",
+    "base": "ETH",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "0.04",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "ETH-EUR",
+    "status": "trading",
+    "base": "ETH",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "0.04",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "GAS-BTC",
+    "status": "trading",
+    "base": "GAS",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "2",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "GAS-EUR",
+    "status": "trading",
+    "base": "GAS",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "2",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "GNT-BTC",
+    "status": "trading",
+    "base": "GNT",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "70",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "GNT-EUR",
+    "status": "trading",
+    "base": "GNT",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "70",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "HOT-BTC",
+    "status": "trading",
+    "base": "HOT",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "3000",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "HOT-EUR",
+    "status": "trading",
+    "base": "HOT",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "3000",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "ICX-BTC",
+    "status": "trading",
+    "base": "ICX",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "20",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "ICX-EUR",
+    "status": "trading",
+    "base": "ICX",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "20",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "IOST-BTC",
+    "status": "trading",
+    "base": "IOST",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "700",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "IOST-EUR",
+    "status": "trading",
+    "base": "IOST",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "700",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "KMD-BTC",
+    "status": "trading",
+    "base": "KMD",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "3",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "KMD-EUR",
+    "status": "trading",
+    "base": "KMD",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "3",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "LINK-BTC",
+    "status": "trading",
+    "base": "LINK",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "0.7",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "LINK-EUR",
+    "status": "trading",
+    "base": "LINK",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "0.7",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "LRC-BTC",
+    "status": "trading",
+    "base": "LRC",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "70",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "LRC-EUR",
+    "status": "trading",
+    "base": "LRC",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "70",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "LSK-BTC",
+    "status": "trading",
+    "base": "LSK",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "3",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "LSK-EUR",
+    "status": "trading",
+    "base": "LSK",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "3",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "LTC-BTC",
+    "status": "trading",
+    "base": "LTC",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "0.1",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "LTC-EUR",
+    "status": "trading",
+    "base": "LTC",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "0.1",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "MIOTA-BTC",
+    "status": "trading",
+    "base": "MIOTA",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "10",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "MIOTA-EUR",
+    "status": "trading",
+    "base": "MIOTA",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "10",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "NANO-BTC",
+    "status": "trading",
+    "base": "NANO",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "4",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "NANO-EUR",
+    "status": "trading",
+    "base": "NANO",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "4",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "NAS-BTC",
+    "status": "trading",
+    "base": "NAS",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "7",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "NAS-EUR",
+    "status": "trading",
+    "base": "NAS",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "7",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "NEO-BTC",
+    "status": "trading",
+    "base": "NEO",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "0.5",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "NEO-EUR",
+    "status": "trading",
+    "base": "NEO",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "0.5",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "NPXS-BTC",
+    "status": "trading",
+    "base": "NPXS",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "6000",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "NPXS-EUR",
+    "status": "trading",
+    "base": "NPXS",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "6000",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "NULS-BTC",
+    "status": "trading",
+    "base": "NULS",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "5",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "NULS-EUR",
+    "status": "trading",
+    "base": "NULS",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "5",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "OMG-BTC",
+    "status": "trading",
+    "base": "OMG",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "3",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "OMG-EUR",
+    "status": "trading",
+    "base": "OMG",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "3",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "ONG-BTC",
+    "status": "trading",
+    "base": "ONG",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "8",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "ONG-EUR",
+    "status": "trading",
+    "base": "ONG",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "8",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "ONT-BTC",
+    "status": "trading",
+    "base": "ONT",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "7",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "ONT-EUR",
+    "status": "trading",
+    "base": "ONT",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "7",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "POWR-BTC",
+    "status": "trading",
+    "base": "POWR",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "50",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "POWR-EUR",
+    "status": "trading",
+    "base": "POWR",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "50",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "QTUM-BTC",
+    "status": "trading",
+    "base": "QTUM",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "2",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "QTUM-EUR",
+    "status": "trading",
+    "base": "QTUM",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "2",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "RDD-BTC",
+    "status": "trading",
+    "base": "RDD",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "3000",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "RDD-EUR",
+    "status": "trading",
+    "base": "RDD",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "3000",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "REQ-BTC",
+    "status": "trading",
+    "base": "REQ",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "200",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "REQ-EUR",
+    "status": "trading",
+    "base": "REQ",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "200",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "RVN-BTC",
+    "status": "trading",
+    "base": "RVN",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "70",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "RVN-EUR",
+    "status": "trading",
+    "base": "RVN",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "70",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "SNT-BTC",
+    "status": "trading",
+    "base": "SNT",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "200",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "SNT-EUR",
+    "status": "trading",
+    "base": "SNT",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "200",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "STEEM-BTC",
+    "status": "trading",
+    "base": "STEEM",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "10",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "STEEM-EUR",
+    "status": "trading",
+    "base": "STEEM",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "10",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "STMX-BTC",
+    "status": "trading",
+    "base": "STMX",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "1500",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "STMX-EUR",
+    "status": "trading",
+    "base": "STMX",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "1500",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "STORM-BTC",
+    "status": "halted",
+    "base": "STORM",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "1500",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "STORM-EUR",
+    "status": "halted",
+    "base": "STORM",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "1500",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "STRAT-BTC",
+    "status": "trading",
+    "base": "STRAT",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "5",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "STRAT-EUR",
+    "status": "trading",
+    "base": "STRAT",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "5",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "TRX-BTC",
+    "status": "trading",
+    "base": "TRX",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "150",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "TRX-EUR",
+    "status": "trading",
+    "base": "TRX",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "150",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "VET-BTC",
+    "status": "trading",
+    "base": "VET",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "1000",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "VET-EUR",
+    "status": "trading",
+    "base": "VET",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "1000",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "VTC-BTC",
+    "status": "trading",
+    "base": "VTC",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "15",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "VTC-EUR",
+    "status": "trading",
+    "base": "VTC",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "10",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "VTHO-BTC",
+    "status": "trading",
+    "base": "VTHO",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "3750",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "VTHO-EUR",
+    "status": "trading",
+    "base": "VTHO",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "3750",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "WAVES-BTC",
+    "status": "trading",
+    "base": "WAVES",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "1",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "WAVES-EUR",
+    "status": "trading",
+    "base": "WAVES",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "1",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "WTC-BTC",
+    "status": "trading",
+    "base": "WTC",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "4",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "WTC-EUR",
+    "status": "trading",
+    "base": "WTC",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "4",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "XEM-BTC",
+    "status": "trading",
+    "base": "XEM",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "100",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "XEM-EUR",
+    "status": "trading",
+    "base": "XEM",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "100",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "XLM-BTC",
+    "status": "trading",
+    "base": "XLM",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "50",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "XLM-EUR",
+    "status": "trading",
+    "base": "XLM",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "50",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "XRP-BTC",
+    "status": "trading",
+    "base": "XRP",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "10",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "XRP-EUR",
+    "status": "trading",
+    "base": "XRP",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "10",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "XTZ-BTC",
+    "status": "trading",
+    "base": "XTZ",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "3",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "XTZ-EUR",
+    "status": "trading",
+    "base": "XTZ",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "3",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "XVG-BTC",
+    "status": "trading",
+    "base": "XVG",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "600",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "XVG-EUR",
+    "status": "trading",
+    "base": "XVG",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "600",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "ZIL-BTC",
+    "status": "trading",
+    "base": "ZIL",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "200",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "ZIL-EUR",
+    "status": "trading",
+    "base": "ZIL",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "200",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "ZRX-BTC",
+    "status": "trading",
+    "base": "ZRX",
+    "quote": "BTC",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "15",
+    "minOrderInQuoteAsset": "0.001",
+    "orderTypes": ["market", "limit"]
+}, {
+    "market": "ZRX-EUR",
+    "status": "trading",
+    "base": "ZRX",
+    "quote": "EUR",
+    "pricePrecision": 5,
+    "minOrderInBaseAsset": "10",
+    "minOrderInQuoteAsset": "5",
+    "orderTypes": ["market", "limit"]
+}]

@@ -1,0 +1,1314 @@
+-
+    symbol: ADAETH
+    source: ADA
+    sourceId: ADA
+    target: XETH
+    targetId: XETH
+-
+    symbol: ADAEUR
+    source: ADA
+    sourceId: ADA
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: ADAUSD
+    source: ADA
+    sourceId: ADA
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: ADAXBT
+    source: ADA
+    sourceId: ADA
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: ALGOETH
+    source: ALGO
+    sourceId: ALGO
+    target: XETH
+    targetId: XETH
+-
+    symbol: ALGOEUR
+    source: ALGO
+    sourceId: ALGO
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: ALGOUSD
+    source: ALGO
+    sourceId: ALGO
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: ALGOXBT
+    source: ALGO
+    sourceId: ALGO
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: ATOMETH
+    source: ATOM
+    sourceId: ATOM
+    target: XETH
+    targetId: XETH
+-
+    symbol: ATOMEUR
+    source: ATOM
+    sourceId: ATOM
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: ATOMUSD
+    source: ATOM
+    sourceId: ATOM
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: ATOMXBT
+    source: ATOM
+    sourceId: ATOM
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: AUDJPY
+    source: ZAUD
+    sourceId: ZAUD
+    target: ZJPY
+    targetId: ZJPY
+-
+    symbol: AUDUSD
+    source: ZAUD
+    sourceId: ZAUD
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: BALETH
+    source: BAL
+    sourceId: BAL
+    target: XETH
+    targetId: XETH
+-
+    symbol: BALEUR
+    source: BAL
+    sourceId: BAL
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: BALUSD
+    source: BAL
+    sourceId: BAL
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: BALXBT
+    source: BAL
+    sourceId: BAL
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: BATETH
+    source: BAT
+    sourceId: BAT
+    target: XETH
+    targetId: XETH
+-
+    symbol: BATEUR
+    source: BAT
+    sourceId: BAT
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: BATUSD
+    source: BAT
+    sourceId: BAT
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: BATXBT
+    source: BAT
+    sourceId: BAT
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: BCHAUD
+    source: BCH
+    sourceId: BCH
+    target: ZAUD
+    targetId: ZAUD
+-
+    symbol: BCHETH
+    source: BCH
+    sourceId: BCH
+    target: XETH
+    targetId: XETH
+-
+    symbol: BCHEUR
+    source: BCH
+    sourceId: BCH
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: BCHGBP
+    source: BCH
+    sourceId: BCH
+    target: ZGBP
+    targetId: ZGBP
+-
+    symbol: BCHUSD
+    source: BCH
+    sourceId: BCH
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: BCHUSDT
+    source: BCH
+    sourceId: BCH
+    target: USDT
+    targetId: USDT
+-
+    symbol: BCHXBT
+    source: BCH
+    sourceId: BCH
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: COMPETH
+    source: COMP
+    sourceId: COMP
+    target: XETH
+    targetId: XETH
+-
+    symbol: COMPEUR
+    source: COMP
+    sourceId: COMP
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: COMPUSD
+    source: COMP
+    sourceId: COMP
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: COMPXBT
+    source: COMP
+    sourceId: COMP
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: CRVETH
+    source: CRV
+    sourceId: CRV
+    target: XETH
+    targetId: XETH
+-
+    symbol: CRVEUR
+    source: CRV
+    sourceId: CRV
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: CRVUSD
+    source: CRV
+    sourceId: CRV
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: CRVXBT
+    source: CRV
+    sourceId: CRV
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: DAIEUR
+    source: DAI
+    sourceId: DAI
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: DAIUSD
+    source: DAI
+    sourceId: DAI
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: DAIUSDT
+    source: DAI
+    sourceId: DAI
+    target: USDT
+    targetId: USDT
+-
+    symbol: DASHEUR
+    source: DASH
+    sourceId: DASH
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: DASHUSD
+    source: DASH
+    sourceId: DASH
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: DASHXBT
+    source: DASH
+    sourceId: DASH
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: DOTETH
+    source: DOT
+    sourceId: DOT
+    target: XETH
+    targetId: XETH
+-
+    symbol: DOTEUR
+    source: DOT
+    sourceId: DOT
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: DOTUSD
+    source: DOT
+    sourceId: DOT
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: DOTXBT
+    source: DOT
+    sourceId: DOT
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: EOSETH
+    source: EOS
+    sourceId: EOS
+    target: XETH
+    targetId: XETH
+-
+    symbol: EOSEUR
+    source: EOS
+    sourceId: EOS
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: EOSUSD
+    source: EOS
+    sourceId: EOS
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: EOSXBT
+    source: EOS
+    sourceId: EOS
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: ETHAUD
+    source: XETH
+    sourceId: XETH
+    target: ZAUD
+    targetId: ZAUD
+-
+    symbol: ETHCHF
+    source: XETH
+    sourceId: XETH
+    target: CHF
+    targetId: CHF
+-
+    symbol: ETHDAI
+    source: XETH
+    sourceId: XETH
+    target: DAI
+    targetId: DAI
+-
+    symbol: ETHUSDC
+    source: XETH
+    sourceId: XETH
+    target: USDC
+    targetId: USDC
+-
+    symbol: ETHUSDT
+    source: XETH
+    sourceId: XETH
+    target: USDT
+    targetId: USDT
+-
+    symbol: EURAUD
+    source: ZEUR
+    sourceId: ZEUR
+    target: ZAUD
+    targetId: ZAUD
+-
+    symbol: EURCAD
+    source: ZEUR
+    sourceId: ZEUR
+    target: ZCAD
+    targetId: ZCAD
+-
+    symbol: EURCHF
+    source: ZEUR
+    sourceId: ZEUR
+    target: CHF
+    targetId: CHF
+-
+    symbol: EURGBP
+    source: ZEUR
+    sourceId: ZEUR
+    target: ZGBP
+    targetId: ZGBP
+-
+    symbol: EURJPY
+    source: ZEUR
+    sourceId: ZEUR
+    target: ZJPY
+    targetId: ZJPY
+-
+    symbol: GNOETH
+    source: GNO
+    sourceId: GNO
+    target: XETH
+    targetId: XETH
+-
+    symbol: GNOEUR
+    source: GNO
+    sourceId: GNO
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: GNOUSD
+    source: GNO
+    sourceId: GNO
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: GNOXBT
+    source: GNO
+    sourceId: GNO
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: ICXETH
+    source: ICX
+    sourceId: ICX
+    target: XETH
+    targetId: XETH
+-
+    symbol: ICXEUR
+    source: ICX
+    sourceId: ICX
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: ICXUSD
+    source: ICX
+    sourceId: ICX
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: ICXXBT
+    source: ICX
+    sourceId: ICX
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: KAVAETH
+    source: KAVA
+    sourceId: KAVA
+    target: XETH
+    targetId: XETH
+-
+    symbol: KAVAEUR
+    source: KAVA
+    sourceId: KAVA
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: KAVAUSD
+    source: KAVA
+    sourceId: KAVA
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: KAVAXBT
+    source: KAVA
+    sourceId: KAVA
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: KNCETH
+    source: KNC
+    sourceId: KNC
+    target: XETH
+    targetId: XETH
+-
+    symbol: KNCEUR
+    source: KNC
+    sourceId: KNC
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: KNCUSD
+    source: KNC
+    sourceId: KNC
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: KNCXBT
+    source: KNC
+    sourceId: KNC
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: KSMETH
+    source: KSM
+    sourceId: KSM
+    target: XETH
+    targetId: XETH
+-
+    symbol: KSMEUR
+    source: KSM
+    sourceId: KSM
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: KSMUSD
+    source: KSM
+    sourceId: KSM
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: KSMXBT
+    source: KSM
+    sourceId: KSM
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: LINKETH
+    source: LINK
+    sourceId: LINK
+    target: XETH
+    targetId: XETH
+-
+    symbol: LINKEUR
+    source: LINK
+    sourceId: LINK
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: LINKUSD
+    source: LINK
+    sourceId: LINK
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: LINKXBT
+    source: LINK
+    sourceId: LINK
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: LSKETH
+    source: LSK
+    sourceId: LSK
+    target: XETH
+    targetId: XETH
+-
+    symbol: LSKEUR
+    source: LSK
+    sourceId: LSK
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: LSKUSD
+    source: LSK
+    sourceId: LSK
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: LSKXBT
+    source: LSK
+    sourceId: LSK
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: LTCAUD
+    source: XLTC
+    sourceId: XLTC
+    target: ZAUD
+    targetId: ZAUD
+-
+    symbol: LTCETH
+    source: XLTC
+    sourceId: XLTC
+    target: XETH
+    targetId: XETH
+-
+    symbol: LTCGBP
+    source: XLTC
+    sourceId: XLTC
+    target: ZGBP
+    targetId: ZGBP
+-
+    symbol: LTCUSDT
+    source: XLTC
+    sourceId: XLTC
+    target: USDT
+    targetId: USDT
+-
+    symbol: NANOETH
+    source: NANO
+    sourceId: NANO
+    target: XETH
+    targetId: XETH
+-
+    symbol: NANOEUR
+    source: NANO
+    sourceId: NANO
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: NANOUSD
+    source: NANO
+    sourceId: NANO
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: NANOXBT
+    source: NANO
+    sourceId: NANO
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: OMGETH
+    source: OMG
+    sourceId: OMG
+    target: XETH
+    targetId: XETH
+-
+    symbol: OMGEUR
+    source: OMG
+    sourceId: OMG
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: OMGUSD
+    source: OMG
+    sourceId: OMG
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: OMGXBT
+    source: OMG
+    sourceId: OMG
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: OXTETH
+    source: OXT
+    sourceId: OXT
+    target: XETH
+    targetId: XETH
+-
+    symbol: OXTEUR
+    source: OXT
+    sourceId: OXT
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: OXTUSD
+    source: OXT
+    sourceId: OXT
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: OXTXBT
+    source: OXT
+    sourceId: OXT
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: PAXGETH
+    source: PAXG
+    sourceId: PAXG
+    target: XETH
+    targetId: XETH
+-
+    symbol: PAXGEUR
+    source: PAXG
+    sourceId: PAXG
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: PAXGUSD
+    source: PAXG
+    sourceId: PAXG
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: PAXGXBT
+    source: PAXG
+    sourceId: PAXG
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: QTUMETH
+    source: QTUM
+    sourceId: QTUM
+    target: XETH
+    targetId: XETH
+-
+    symbol: QTUMEUR
+    source: QTUM
+    sourceId: QTUM
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: QTUMUSD
+    source: QTUM
+    sourceId: QTUM
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: QTUMXBT
+    source: QTUM
+    sourceId: QTUM
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: REPV2ETH
+    source: REPV2
+    sourceId: REPV2
+    target: XETH
+    targetId: XETH
+-
+    symbol: REPV2EUR
+    source: REPV2
+    sourceId: REPV2
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: REPV2USD
+    source: REPV2
+    sourceId: REPV2
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: REPV2XBT
+    source: REPV2
+    sourceId: REPV2
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: SCETH
+    source: SC
+    sourceId: SC
+    target: XETH
+    targetId: XETH
+-
+    symbol: SCEUR
+    source: SC
+    sourceId: SC
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: SCUSD
+    source: SC
+    sourceId: SC
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: SCXBT
+    source: SC
+    sourceId: SC
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: SNXETH
+    source: SNX
+    sourceId: SNX
+    target: XETH
+    targetId: XETH
+-
+    symbol: SNXEUR
+    source: SNX
+    sourceId: SNX
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: SNXUSD
+    source: SNX
+    sourceId: SNX
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: SNXXBT
+    source: SNX
+    sourceId: SNX
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: STORJETH
+    source: STORJ
+    sourceId: STORJ
+    target: XETH
+    targetId: XETH
+-
+    symbol: STORJEUR
+    source: STORJ
+    sourceId: STORJ
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: STORJUSD
+    source: STORJ
+    sourceId: STORJ
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: STORJXBT
+    source: STORJ
+    sourceId: STORJ
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: TRXETH
+    source: TRX
+    sourceId: TRX
+    target: XETH
+    targetId: XETH
+-
+    symbol: TRXEUR
+    source: TRX
+    sourceId: TRX
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: TRXUSD
+    source: TRX
+    sourceId: TRX
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: TRXXBT
+    source: TRX
+    sourceId: TRX
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: USDCEUR
+    source: USDC
+    sourceId: USDC
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: USDCHF
+    source: ZUSD
+    sourceId: ZUSD
+    target: CHF
+    targetId: CHF
+-
+    symbol: USDCUSD
+    source: USDC
+    sourceId: USDC
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: USDCUSDT
+    source: USDC
+    sourceId: USDC
+    target: USDT
+    targetId: USDT
+-
+    symbol: USDTAUD
+    source: USDT
+    sourceId: USDT
+    target: ZAUD
+    targetId: ZAUD
+-
+    symbol: USDTCAD
+    source: USDT
+    sourceId: USDT
+    target: ZCAD
+    targetId: ZCAD
+-
+    symbol: USDTCHF
+    source: USDT
+    sourceId: USDT
+    target: CHF
+    targetId: CHF
+-
+    symbol: USDTEUR
+    source: USDT
+    sourceId: USDT
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: USDTGBP
+    source: USDT
+    sourceId: USDT
+    target: ZGBP
+    targetId: ZGBP
+-
+    symbol: USDTJPY
+    source: USDT
+    sourceId: USDT
+    target: ZJPY
+    targetId: ZJPY
+-
+    symbol: USDTUSD
+    source: USDT
+    sourceId: USDT
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: WAVESETH
+    source: WAVES
+    sourceId: WAVES
+    target: XETH
+    targetId: XETH
+-
+    symbol: WAVESEUR
+    source: WAVES
+    sourceId: WAVES
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: WAVESUSD
+    source: WAVES
+    sourceId: WAVES
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: WAVESXBT
+    source: WAVES
+    sourceId: WAVES
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: XBTAUD
+    source: XXBT
+    sourceId: XXBT
+    target: ZAUD
+    targetId: ZAUD
+-
+    symbol: XBTCHF
+    source: XXBT
+    sourceId: XXBT
+    target: CHF
+    targetId: CHF
+-
+    symbol: XBTDAI
+    source: XXBT
+    sourceId: XXBT
+    target: DAI
+    targetId: DAI
+-
+    symbol: XBTUSDC
+    source: XXBT
+    sourceId: XXBT
+    target: USDC
+    targetId: USDC
+-
+    symbol: XBTUSDT
+    source: XXBT
+    sourceId: XXBT
+    target: USDT
+    targetId: USDT
+-
+    symbol: XDGEUR
+    source: XXDG
+    sourceId: XXDG
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: XDGUSD
+    source: XXDG
+    sourceId: XXDG
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: ETCETH
+    source: XETC
+    sourceId: XETC
+    target: XETH
+    targetId: XETH
+-
+    symbol: ETCXBT
+    source: XETC
+    sourceId: XETC
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: ETCEUR
+    source: XETC
+    sourceId: XETC
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: ETCUSD
+    source: XETC
+    sourceId: XETC
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: ETHXBT
+    source: XETH
+    sourceId: XETH
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: ETHXBT.d
+    source: XETH
+    sourceId: XETH
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: ETHCAD
+    source: XETH
+    sourceId: XETH
+    target: ZCAD
+    targetId: ZCAD
+-
+    symbol: ETHCAD.d
+    source: XETH
+    sourceId: XETH
+    target: ZCAD
+    targetId: ZCAD
+-
+    symbol: ETHEUR
+    source: XETH
+    sourceId: XETH
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: ETHEUR.d
+    source: XETH
+    sourceId: XETH
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: ETHGBP
+    source: XETH
+    sourceId: XETH
+    target: ZGBP
+    targetId: ZGBP
+-
+    symbol: ETHGBP.d
+    source: XETH
+    sourceId: XETH
+    target: ZGBP
+    targetId: ZGBP
+-
+    symbol: ETHJPY
+    source: XETH
+    sourceId: XETH
+    target: ZJPY
+    targetId: ZJPY
+-
+    symbol: ETHJPY.d
+    source: XETH
+    sourceId: XETH
+    target: ZJPY
+    targetId: ZJPY
+-
+    symbol: ETHUSD
+    source: XETH
+    sourceId: XETH
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: ETHUSD.d
+    source: XETH
+    sourceId: XETH
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: LTCXBT
+    source: XLTC
+    sourceId: XLTC
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: LTCEUR
+    source: XLTC
+    sourceId: XLTC
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: LTCUSD
+    source: XLTC
+    sourceId: XLTC
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: MLNETH
+    source: XMLN
+    sourceId: XMLN
+    target: XETH
+    targetId: XETH
+-
+    symbol: MLNXBT
+    source: XMLN
+    sourceId: XMLN
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: MLNEUR
+    source: XMLN
+    sourceId: XMLN
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: MLNUSD
+    source: XMLN
+    sourceId: XMLN
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: REPETH
+    source: XREP
+    sourceId: XREP
+    target: XETH
+    targetId: XETH
+-
+    symbol: REPXBT
+    source: XREP
+    sourceId: XREP
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: REPEUR
+    source: XREP
+    sourceId: XREP
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: REPUSD
+    source: XREP
+    sourceId: XREP
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: XRPAUD
+    source: XXRP
+    sourceId: XXRP
+    target: ZAUD
+    targetId: ZAUD
+-
+    symbol: XRPETH
+    source: XXRP
+    sourceId: XXRP
+    target: XETH
+    targetId: XETH
+-
+    symbol: XRPGBP
+    source: XXRP
+    sourceId: XXRP
+    target: ZGBP
+    targetId: ZGBP
+-
+    symbol: XRPUSDT
+    source: XXRP
+    sourceId: XXRP
+    target: USDT
+    targetId: USDT
+-
+    symbol: XTZETH
+    source: XTZ
+    sourceId: XTZ
+    target: XETH
+    targetId: XETH
+-
+    symbol: XTZEUR
+    source: XTZ
+    sourceId: XTZ
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: XTZUSD
+    source: XTZ
+    sourceId: XTZ
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: XTZXBT
+    source: XTZ
+    sourceId: XTZ
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: XBTCAD
+    source: XXBT
+    sourceId: XXBT
+    target: ZCAD
+    targetId: ZCAD
+-
+    symbol: XBTCAD.d
+    source: XXBT
+    sourceId: XXBT
+    target: ZCAD
+    targetId: ZCAD
+-
+    symbol: XBTEUR
+    source: XXBT
+    sourceId: XXBT
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: XBTEUR.d
+    source: XXBT
+    sourceId: XXBT
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: XBTGBP
+    source: XXBT
+    sourceId: XXBT
+    target: ZGBP
+    targetId: ZGBP
+-
+    symbol: XBTGBP.d
+    source: XXBT
+    sourceId: XXBT
+    target: ZGBP
+    targetId: ZGBP
+-
+    symbol: XBTJPY
+    source: XXBT
+    sourceId: XXBT
+    target: ZJPY
+    targetId: ZJPY
+-
+    symbol: XBTJPY.d
+    source: XXBT
+    sourceId: XXBT
+    target: ZJPY
+    targetId: ZJPY
+-
+    symbol: XBTUSD
+    source: XXBT
+    sourceId: XXBT
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: XBTUSD.d
+    source: XXBT
+    sourceId: XXBT
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: XDGXBT
+    source: XXDG
+    sourceId: XXDG
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: XLMXBT
+    source: XXLM
+    sourceId: XXLM
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: XLMEUR
+    source: XXLM
+    sourceId: XXLM
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: XLMUSD
+    source: XXLM
+    sourceId: XXLM
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: XMRXBT
+    source: XXMR
+    sourceId: XXMR
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: XMREUR
+    source: XXMR
+    sourceId: XXMR
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: XMRUSD
+    source: XXMR
+    sourceId: XXMR
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: XRPXBT
+    source: XXRP
+    sourceId: XXRP
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: XRPCAD
+    source: XXRP
+    sourceId: XXRP
+    target: ZCAD
+    targetId: ZCAD
+-
+    symbol: XRPEUR
+    source: XXRP
+    sourceId: XXRP
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: XRPJPY
+    source: XXRP
+    sourceId: XXRP
+    target: ZJPY
+    targetId: ZJPY
+-
+    symbol: XRPUSD
+    source: XXRP
+    sourceId: XXRP
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: ZECXBT
+    source: XZEC
+    sourceId: XZEC
+    target: XXBT
+    targetId: XXBT
+-
+    symbol: ZECEUR
+    source: XZEC
+    sourceId: XZEC
+    target: ZEUR
+    targetId: ZEUR
+-
+    symbol: ZECUSD
+    source: XZEC
+    sourceId: XZEC
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: EURUSD
+    source: ZEUR
+    sourceId: ZEUR
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: GBPUSD
+    source: ZGBP
+    sourceId: ZGBP
+    target: ZUSD
+    targetId: ZUSD
+-
+    symbol: USDCAD
+    source: ZUSD
+    sourceId: ZUSD
+    target: ZCAD
+    targetId: ZCAD
+-
+    symbol: USDJPY
+    source: ZUSD
+    sourceId: ZUSD
+    target: ZJPY
+    targetId: ZJPY

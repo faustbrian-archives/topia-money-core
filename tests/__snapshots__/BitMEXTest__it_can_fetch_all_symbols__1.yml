@@ -1,0 +1,600 @@
+-
+    symbol: XBTZ14
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBTF15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBTZ14_F15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBTH15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBTF15_H15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBUZ14
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBUH15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBUZ14_H15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBUM15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBUZ14_M15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBUH15_M15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBTZ14_H15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBTG15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBTF15_G15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBTH15_G15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBUU15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBUH15_U15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBUM15_U15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: BVOLG15
+    source: XBT
+    sourceId: XBT
+    target: XXX
+    targetId: XXX
+-
+    symbol: .XBT
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: .BVOL
+    source: XBT
+    sourceId: XBT
+    target: XXX
+    targetId: XXX
+-
+    symbol: .XBT30M
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBU24H
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: BVOLH15
+    source: XBT
+    sourceId: XBT
+    target: XXX
+    targetId: XXX
+-
+    symbol: XBUJ15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: BVOLJ15
+    source: XBT
+    sourceId: XBT
+    target: XXX
+    targetId: XXX
+-
+    symbol: XBTJ15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBTK15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBUK15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBTM15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBTK15_M15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: .XBT_5M
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: .XBT2H
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: .BVOL24H
+    source: XBT
+    sourceId: XBT
+    target: XXX
+    targetId: XXX
+-
+    symbol: BVOL24H
+    source: XBT
+    sourceId: XBT
+    target: XXX
+    targetId: XXX
+-
+    symbol: .BVOL7D
+    source: XBT
+    sourceId: XBT
+    target: XXX
+    targetId: XXX
+-
+    symbol: BVOL7D
+    source: XBT
+    sourceId: XBT
+    target: XXX
+    targetId: XXX
+-
+    symbol: XBUZ15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBUU15_Z15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBTU15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBTM15_U15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBTZ15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBTM15_Z15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBTU15_Z15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBTN15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBUN15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBTQ15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBUQ15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: .LTC
+    source: LTC
+    sourceId: LTC
+    target: USD
+    targetId: USD
+-
+    symbol: .LTC2H
+    source: LTC
+    sourceId: LTC
+    target: USD
+    targetId: USD
+-
+    symbol: XLT7D
+    source: XLT
+    sourceId: XLT
+    target: USD
+    targetId: USD
+-
+    symbol: XBT7D
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: .ETHXBT
+    source: ETH
+    sourceId: ETH
+    target: XBT
+    targetId: XBT
+-
+    symbol: .ETHXBT2H
+    source: ETH
+    sourceId: ETH
+    target: XBT
+    targetId: XBT
+-
+    symbol: ETH7D
+    source: ETH
+    sourceId: ETH
+    target: XBT
+    targetId: XBT
+-
+    symbol: XBTH16
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBTV15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBUV15
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBT24H
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: .BVOL10M
+    source: XBT
+    sourceId: XBT
+    target: XXX
+    targetId: XXX
+-
+    symbol: .BVOL30M
+    source: XBT
+    sourceId: XBT
+    target: XXX
+    targetId: XXX
+-
+    symbol: .BVOL1H
+    source: XBT
+    sourceId: XBT
+    target: XXX
+    targetId: XXX
+-
+    symbol: XBTM16
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: XBU7D
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: .A50
+    source: .A50
+    sourceId: .A50
+    target: CNY
+    targetId: CNY
+-
+    symbol: A50G16
+    source: XBT
+    sourceId: XBT
+    target: CNY
+    targetId: CNY
+-
+    symbol: XBT48H
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: A50H16
+    source: XBT
+    sourceId: XBT
+    target: CNY
+    targetId: CNY
+-
+    symbol: .FCTXBT
+    source: FCT
+    sourceId: FCT
+    target: XBT
+    targetId: XBT
+-
+    symbol: .FCTXBT2H
+    source: FCT
+    sourceId: FCT
+    target: XBT
+    targetId: XBT
+-
+    symbol: FCT7D
+    source: FCT
+    sourceId: FCT
+    target: XBT
+    targetId: XBT
+-
+    symbol: XBTU16
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: A50J16
+    source: XBT
+    sourceId: XBT
+    target: CNY
+    targetId: CNY
+-
+    symbol: A50K16
+    source: XBT
+    sourceId: XBT
+    target: CNY
+    targetId: CNY
+-
+    symbol: .XBTPON
+    source: XBT
+    sourceId: XBT
+    target: XXX
+    targetId: XXX
+-
+    symbol: .XBTPON24H
+    source: XBT
+    sourceId: XBT
+    target: XXX
+    targetId: XXX
+-
+    symbol: .ETHPON
+    source: ETH
+    sourceId: ETH
+    target: XXX
+    targetId: XXX
+-
+    symbol: .ETHPON24H
+    source: ETH
+    sourceId: ETH
+    target: XXX
+    targetId: XXX
+-
+    symbol: ETHXBT
+    source: ETH
+    sourceId: ETH
+    target: XBT
+    targetId: XBT
+-
+    symbol: .LTCXBT
+    source: LTC
+    sourceId: LTC
+    target: XBT
+    targetId: XBT
+-
+    symbol: .LTCXBT2H
+    source: LTC
+    sourceId: LTC
+    target: XBT
+    targetId: XBT
+-
+    symbol: .LTCBON
+    source: LTC
+    sourceId: LTC
+    target: XXX
+    targetId: XXX
+-
+    symbol: .LTCBON24H
+    source: LTC
+    sourceId: LTC
+    target: XXX
+    targetId: XXX
+-
+    symbol: .XBTBON
+    source: XBT
+    sourceId: XBT
+    target: XXX
+    targetId: XXX
+-
+    symbol: .XBTBON24H
+    source: XBT
+    sourceId: XBT
+    target: XXX
+    targetId: XXX
+-
+    symbol: LTCXBT
+    source: LTC
+    sourceId: LTC
+    target: XBT
+    targetId: XBT
+-
+    symbol: .USDBON
+    source: USD
+    sourceId: USD
+    target: XXX
+    targetId: XXX
+-
+    symbol: .USDBON24H
+    source: USD
+    sourceId: USD
+    target: XXX
+    targetId: XXX
+-
+    symbol: XBTUSD
+    source: XBT
+    sourceId: XBT
+    target: USD
+    targetId: USD
+-
+    symbol: .FCTPON
+    source: FCT
+    sourceId: FCT
+    target: XXX
+    targetId: XXX
+-
+    symbol: .FCTPON24H
+    source: FCT
+    sourceId: FCT
+    target: XXX
+    targetId: XXX
+-
+    symbol: .DAOETH
+    source: DAO
+    sourceId: DAO
+    target: ETH
+    targetId: ETH
+-
+    symbol: .DAOETH2H
+    source: DAO
+    sourceId: DAO
+    target: ETH
+    targetId: ETH
+-
+    symbol: FCTXBT
+    source: FCT
+    sourceId: FCT
+    target: XBT
+    targetId: XBT
+-
+    symbol: DAOETH
+    source: DAO
+    sourceId: DAO
+    target: ETH
+    targetId: ETH
+-
+    symbol: .LSKXBT
+    source: LSK
+    sourceId: LSK
+    target: XBT
+    targetId: XBT
+-
+    symbol: .LSKPON
+    source: LSK
+    sourceId: LSK
+    target: XXX
+    targetId: XXX
+-
+    symbol: .LSKPON24H
+    source: LSK
+    sourceId: LSK
+    target: XXX
+    targetId: XXX
+-
+    symbol: LSKXBT
+    source: LSK
+    sourceId: LSK
+    target: XBT
+    targetId: XBT
+-
+    symbol: A50M16
+    source: XBT
+    sourceId: XBT
+    target: CNY
+    targetId: CNY

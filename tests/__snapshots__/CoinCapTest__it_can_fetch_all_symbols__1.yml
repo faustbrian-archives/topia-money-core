@@ -1,0 +1,600 @@
+-
+    symbol: BTC-AUD
+    source: BTC
+    sourceId: bitcoin
+    target: AUD
+    targetId: australian-dollar
+-
+    symbol: R2R-USDT
+    source: R2R
+    sourceId: citios
+    target: USDT
+    targetId: tether
+-
+    symbol: LOG-BTC
+    source: LOG
+    sourceId: woodcoin
+    target: BTC
+    targetId: bitcoin
+-
+    symbol: UBTC-BTC
+    source: UBTC
+    sourceId: united-bitcoin
+    target: BTC
+    targetId: bitcoin
+-
+    symbol: R2R-BTC
+    source: R2R
+    sourceId: citios
+    target: BTC
+    targetId: bitcoin
+-
+    symbol: BTC-USDT
+    source: BTC
+    sourceId: bitcoin
+    target: USDT
+    targetId: tether
+-
+    symbol: ETH-USDT
+    source: ETH
+    sourceId: ethereum
+    target: USDT
+    targetId: tether
+-
+    symbol: LINK-USDT
+    source: LINK
+    sourceId: chainlink
+    target: USDT
+    targetId: tether
+-
+    symbol: EOS-USDT
+    source: EOS
+    sourceId: eos
+    target: USDT
+    targetId: tether
+-
+    symbol: ETH-BTC
+    source: ETH
+    sourceId: ethereum
+    target: BTC
+    targetId: bitcoin
+-
+    symbol: BCH-USDT
+    source: BCH
+    sourceId: bitcoin-cash
+    target: USDT
+    targetId: tether
+-
+    symbol: LINK-BTC
+    source: LINK
+    sourceId: chainlink
+    target: BTC
+    targetId: bitcoin
+-
+    symbol: LTC-USDT
+    source: LTC
+    sourceId: litecoin
+    target: USDT
+    targetId: tether
+-
+    symbol: XRP-USDT
+    source: XRP
+    sourceId: xrp
+    target: USDT
+    targetId: tether
+-
+    symbol: BSV-USDT
+    source: BSV
+    sourceId: bitcoin-sv
+    target: USDT
+    targetId: tether
+-
+    symbol: EOS-BTC
+    source: EOS
+    sourceId: eos
+    target: BTC
+    targetId: bitcoin
+-
+    symbol: BAL-USDT
+    source: BAL
+    sourceId: balancer
+    target: USDT
+    targetId: tether
+-
+    symbol: NEO-USDT
+    source: NEO
+    sourceId: neo
+    target: USDT
+    targetId: tether
+-
+    symbol: BCH-BTC
+    source: BCH
+    sourceId: bitcoin-cash
+    target: BTC
+    targetId: bitcoin
+-
+    symbol: LTC-BTC
+    source: LTC
+    sourceId: litecoin
+    target: BTC
+    targetId: bitcoin
+-
+    symbol: LINK-ETH
+    source: LINK
+    sourceId: chainlink
+    target: ETH
+    targetId: ethereum
+-
+    symbol: BAL-ETH
+    source: BAL
+    sourceId: balancer
+    target: ETH
+    targetId: ethereum
+-
+    symbol: LEND-USDT
+    source: LEND
+    sourceId: aave
+    target: USDT
+    targetId: tether
+-
+    symbol: LEND-BTC
+    source: LEND
+    sourceId: aave
+    target: BTC
+    targetId: bitcoin
+-
+    symbol: EOS-ETH
+    source: EOS
+    sourceId: eos
+    target: ETH
+    targetId: ethereum
+-
+    symbol: NEO-BTC
+    source: NEO
+    sourceId: neo
+    target: BTC
+    targetId: bitcoin
+-
+    symbol: ONT-USDT
+    source: ONT
+    sourceId: ontology
+    target: USDT
+    targetId: tether
+-
+    symbol: LEND-ETH
+    source: LEND
+    sourceId: aave
+    target: ETH
+    targetId: ethereum
+-
+    symbol: BCH-ETH
+    source: BCH
+    sourceId: bitcoin-cash
+    target: ETH
+    targetId: ethereum
+-
+    symbol: ATOM-USDT
+    source: ATOM
+    sourceId: cosmos
+    target: USDT
+    targetId: tether
+-
+    symbol: ETC-USDT
+    source: ETC
+    sourceId: ethereum-classic
+    target: USDT
+    targetId: tether
+-
+    symbol: LTC-ETH
+    source: LTC
+    sourceId: litecoin
+    target: ETH
+    targetId: ethereum
+-
+    symbol: XRP-ETH
+    source: XRP
+    sourceId: xrp
+    target: ETH
+    targetId: ethereum
+-
+    symbol: ETC-BTC
+    source: ETC
+    sourceId: ethereum-classic
+    target: BTC
+    targetId: bitcoin
+-
+    symbol: DOT-USDT
+    source: DOT
+    sourceId: polkadot
+    target: USDT
+    targetId: tether
+-
+    symbol: XRP-BTC
+    source: XRP
+    sourceId: xrp
+    target: BTC
+    targetId: bitcoin
+-
+    symbol: NEO-ETH
+    source: NEO
+    sourceId: neo
+    target: ETH
+    targetId: ethereum
+-
+    symbol: QTUM-USDT
+    source: QTUM
+    sourceId: qtum
+    target: USDT
+    targetId: tether
+-
+    symbol: OMG-USDT
+    source: OMG
+    sourceId: omg
+    target: USDT
+    targetId: tether
+-
+    symbol: TRX-BTC
+    source: TRX
+    sourceId: tron
+    target: BTC
+    targetId: bitcoin
+-
+    symbol: HT-USDT
+    source: HT
+    sourceId: huobi-token
+    target: USDT
+    targetId: tether
+-
+    symbol: BTT-ETH
+    source: BTT
+    sourceId: bittorrent
+    target: ETH
+    targetId: ethereum
+-
+    symbol: ONT-BTC
+    source: ONT
+    sourceId: ontology
+    target: BTC
+    targetId: bitcoin
+-
+    symbol: ETC-ETH
+    source: ETC
+    sourceId: ethereum-classic
+    target: ETH
+    targetId: ethereum
+-
+    symbol: BSV-BTC
+    source: BSV
+    sourceId: bitcoin-sv
+    target: BTC
+    targetId: bitcoin
+-
+    symbol: ALGO-USDT
+    source: ALGO
+    sourceId: algorand
+    target: USDT
+    targetId: tether
+-
+    symbol: DASH-USDT
+    source: DASH
+    sourceId: dash
+    target: USDT
+    targetId: tether
+-
+    symbol: YFI-USDT
+    source: YFI
+    sourceId: yearn-finance
+    target: USDT
+    targetId: tether
+-
+    symbol: KSM-BTC
+    source: KSM
+    sourceId: kusama
+    target: BTC
+    targetId: bitcoin
+-
+    symbol: KSM-USDT
+    source: KSM
+    sourceId: kusama
+    target: USDT
+    targetId: tether
+-
+    symbol: NXM-USDT
+    source: NXM
+    sourceId: nxm
+    target: USDT
+    targetId: tether
+-
+    symbol: QTUM-BTC
+    source: QTUM
+    sourceId: qtum
+    target: BTC
+    targetId: bitcoin
+-
+    symbol: OMG-BTC
+    source: OMG
+    sourceId: omg
+    target: BTC
+    targetId: bitcoin
+-
+    symbol: RDN-ETH
+    source: RDN
+    sourceId: raiden-network-token
+    target: ETH
+    targetId: ethereum
+-
+    symbol: BIX-BTC
+    source: BIX
+    sourceId: bibox-token
+    target: BTC
+    targetId: bitcoin
+-
+    symbol: KSM-ETH
+    source: KSM
+    sourceId: kusama
+    target: ETH
+    targetId: ethereum
+-
+    symbol: TRX-ETH
+    source: TRX
+    sourceId: tron
+    target: ETH
+    targetId: ethereum
+-
+    symbol: HT-BTC
+    source: HT
+    sourceId: huobi-token
+    target: BTC
+    targetId: bitcoin
+-
+    symbol: ALGO-BTC
+    source: ALGO
+    sourceId: algorand
+    target: BTC
+    targetId: bitcoin
+-
+    symbol: BSV-ETH
+    source: BSV
+    sourceId: bitcoin-sv
+    target: ETH
+    targetId: ethereum
+-
+    symbol: ATOM-ETH
+    source: ATOM
+    sourceId: cosmos
+    target: ETH
+    targetId: ethereum
+-
+    symbol: HYN-USDT
+    source: HYN
+    sourceId: hyperion
+    target: USDT
+    targetId: tether
+-
+    symbol: ONT-ETH
+    source: ONT
+    sourceId: ontology
+    target: ETH
+    targetId: ethereum
+-
+    symbol: HT-ETH
+    source: HT
+    sourceId: huobi-token
+    target: ETH
+    targetId: ethereum
+-
+    symbol: DASH-BTC
+    source: DASH
+    sourceId: dash
+    target: BTC
+    targetId: bitcoin
+-
+    symbol: NEST-ETH
+    source: NEST
+    sourceId: nest-protocol
+    target: ETH
+    targetId: ethereum
+-
+    symbol: BIX-ETH
+    source: BIX
+    sourceId: bibox-token
+    target: ETH
+    targetId: ethereum
+-
+    symbol: BIX-USDT
+    source: BIX
+    sourceId: bibox-token
+    target: USDT
+    targetId: tether
+-
+    symbol: HPB-BTC
+    source: HPB
+    sourceId: high-performance-blockchain
+    target: BTC
+    targetId: bitcoin
+-
+    symbol: QTUM-ETH
+    source: QTUM
+    sourceId: qtum
+    target: ETH
+    targetId: ethereum
+-
+    symbol: OMG-ETH
+    source: OMG
+    sourceId: omg
+    target: ETH
+    targetId: ethereum
+-
+    symbol: NEST-USDT
+    source: NEST
+    sourceId: nest-protocol
+    target: USDT
+    targetId: tether
+-
+    symbol: MKR-ETH
+    source: MKR
+    sourceId: maker
+    target: ETH
+    targetId: ethereum
+-
+    symbol: ZYN-ETH
+    source: ZYN
+    sourceId: zynecoin
+    target: ETH
+    targetId: ethereum
+-
+    symbol: ALGO-ETH
+    source: ALGO
+    sourceId: algorand
+    target: ETH
+    targetId: ethereum
+-
+    symbol: REP-ETH
+    source: REP
+    sourceId: augur
+    target: ETH
+    targetId: ethereum
+-
+    symbol: IRIS-USDT
+    source: IRIS
+    sourceId: irisnet
+    target: USDT
+    targetId: tether
+-
+    symbol: BAT-USDT
+    source: BAT
+    sourceId: basic-attention-token
+    target: USDT
+    targetId: tether
+-
+    symbol: REP-BTC
+    source: REP
+    sourceId: augur
+    target: BTC
+    targetId: bitcoin
+-
+    symbol: MKR-BTC
+    source: MKR
+    sourceId: maker
+    target: BTC
+    targetId: bitcoin
+-
+    symbol: DASH-ETH
+    source: DASH
+    sourceId: dash
+    target: ETH
+    targetId: ethereum
+-
+    symbol: TRB-USDT
+    source: TRB
+    sourceId: tellor
+    target: USDT
+    targetId: tether
+-
+    symbol: PNK-USDT
+    source: PNK
+    sourceId: kleros
+    target: USDT
+    targetId: tether
+-
+    symbol: DIA-USDT
+    source: DIA
+    sourceId: dia-data
+    target: USDT
+    targetId: tether
+-
+    symbol: DIA-ETH
+    source: DIA
+    sourceId: dia-data
+    target: ETH
+    targetId: ethereum
+-
+    symbol: REP-USDT
+    source: REP
+    sourceId: augur
+    target: USDT
+    targetId: tether
+-
+    symbol: PHA-USDT
+    source: PHA
+    sourceId: phala-network
+    target: USDT
+    targetId: tether
+-
+    symbol: PHA-BTC
+    source: PHA
+    sourceId: phala-network
+    target: BTC
+    targetId: bitcoin
+-
+    symbol: MANA-BTC
+    source: MANA
+    sourceId: decentraland
+    target: BTC
+    targetId: bitcoin
+-
+    symbol: IRIS-BTC
+    source: IRIS
+    sourceId: irisnet
+    target: BTC
+    targetId: bitcoin
+-
+    symbol: SUN-USDT
+    source: SUN
+    sourceId: sun
+    target: USDT
+    targetId: tether
+-
+    symbol: BAT-BTC
+    source: BAT
+    sourceId: basic-attention-token
+    target: BTC
+    targetId: bitcoin
+-
+    symbol: ARPA-USDT
+    source: ARPA
+    sourceId: arpa-chain
+    target: USDT
+    targetId: tether
+-
+    symbol: PHA-ETH
+    source: PHA
+    sourceId: phala-network
+    target: ETH
+    targetId: ethereum
+-
+    symbol: UNI-USDT
+    source: UNI
+    sourceId: uniswap
+    target: USDT
+    targetId: tether
+-
+    symbol: FSN-USDT
+    source: FSN
+    sourceId: fusion
+    target: USDT
+    targetId: tether
+-
+    symbol: ZYN-USDT
+    source: ZYN
+    sourceId: zynecoin
+    target: USDT
+    targetId: tether
+-
+    symbol: IRIS-ETH
+    source: IRIS
+    sourceId: irisnet
+    target: ETH
+    targetId: ethereum
+-
+    symbol: MANA-ETH
+    source: MANA
+    sourceId: decentraland
+    target: ETH
+    targetId: ethereum
+-
+    symbol: CRO-USDT
+    source: CRO
+    sourceId: crypto-com-coin
+    target: USDT
+    targetId: tether

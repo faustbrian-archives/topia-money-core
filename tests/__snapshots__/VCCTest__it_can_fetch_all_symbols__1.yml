@@ -1,0 +1,1284 @@
+-
+    symbol: btc_vnd
+    source: btc
+    sourceId: btc
+    target: vnd
+    targetId: vnd
+-
+    symbol: eth_vnd
+    source: eth
+    sourceId: eth
+    target: vnd
+    targetId: vnd
+-
+    symbol: usdt_vnd
+    source: usdt
+    sourceId: usdt
+    target: vnd
+    targetId: vnd
+-
+    symbol: xrp_vnd
+    source: xrp
+    sourceId: xrp
+    target: vnd
+    targetId: vnd
+-
+    symbol: dgx_vnd
+    source: dgx
+    sourceId: dgx
+    target: vnd
+    targetId: vnd
+-
+    symbol: solve_vnd
+    source: solve
+    sourceId: solve
+    target: vnd
+    targetId: vnd
+-
+    symbol: hmr_vnd
+    source: hmr
+    sourceId: hmr
+    target: vnd
+    targetId: vnd
+-
+    symbol: omc_vnd
+    source: omc
+    sourceId: omc
+    target: vnd
+    targetId: vnd
+-
+    symbol: orme_vnd
+    source: orme
+    sourceId: orme
+    target: vnd
+    targetId: vnd
+-
+    symbol: drm_vnd
+    source: drm
+    sourceId: drm
+    target: vnd
+    targetId: vnd
+-
+    symbol: eco_vnd
+    source: eco
+    sourceId: eco
+    target: vnd
+    targetId: vnd
+-
+    symbol: plf_vnd
+    source: plf
+    sourceId: plf
+    target: vnd
+    targetId: vnd
+-
+    symbol: basid_vnd
+    source: basid
+    sourceId: basid
+    target: vnd
+    targetId: vnd
+-
+    symbol: dgb_vnd
+    source: dgb
+    sourceId: dgb
+    target: vnd
+    targetId: vnd
+-
+    symbol: bnb_vnd
+    source: bnb
+    sourceId: bnb
+    target: vnd
+    targetId: vnd
+-
+    symbol: eth_btc
+    source: eth
+    sourceId: eth
+    target: btc
+    targetId: btc
+-
+    symbol: bch_btc
+    source: bch
+    sourceId: bch
+    target: btc
+    targetId: btc
+-
+    symbol: xrp_btc
+    source: xrp
+    sourceId: xrp
+    target: btc
+    targetId: btc
+-
+    symbol: ltc_btc
+    source: ltc
+    sourceId: ltc
+    target: btc
+    targetId: btc
+-
+    symbol: dash_btc
+    source: dash
+    sourceId: dash
+    target: btc
+    targetId: btc
+-
+    symbol: omg_btc
+    source: omg
+    sourceId: omg
+    target: btc
+    targetId: btc
+-
+    symbol: bat_btc
+    source: bat
+    sourceId: bat
+    target: btc
+    targetId: btc
+-
+    symbol: zil_btc
+    source: zil
+    sourceId: zil
+    target: btc
+    targetId: btc
+-
+    symbol: xlm_btc
+    source: xlm
+    sourceId: xlm
+    target: btc
+    targetId: btc
+-
+    symbol: trx_btc
+    source: trx
+    sourceId: trx
+    target: btc
+    targetId: btc
+-
+    symbol: zec_btc
+    source: zec
+    sourceId: zec
+    target: btc
+    targetId: btc
+-
+    symbol: tnc_btc
+    source: tnc
+    sourceId: tnc
+    target: btc
+    targetId: btc
+-
+    symbol: elf_btc
+    source: elf
+    sourceId: elf
+    target: btc
+    targetId: btc
+-
+    symbol: steem_btc
+    source: steem
+    sourceId: steem
+    target: btc
+    targetId: btc
+-
+    symbol: enj_btc
+    source: enj
+    sourceId: enj
+    target: btc
+    targetId: btc
+-
+    symbol: poly_btc
+    source: poly
+    sourceId: poly
+    target: btc
+    targetId: btc
+-
+    symbol: loom_btc
+    source: loom
+    sourceId: loom
+    target: btc
+    targetId: btc
+-
+    symbol: gnt_btc
+    source: gnt
+    sourceId: gnt
+    target: btc
+    targetId: btc
+-
+    symbol: mco_btc
+    source: mco
+    sourceId: mco
+    target: btc
+    targetId: btc
+-
+    symbol: eos_btc
+    source: eos
+    sourceId: eos
+    target: btc
+    targetId: btc
+-
+    symbol: solve_btc
+    source: solve
+    sourceId: solve
+    target: btc
+    targetId: btc
+-
+    symbol: mtl_btc
+    source: mtl
+    sourceId: mtl
+    target: btc
+    targetId: btc
+-
+    symbol: cvc_btc
+    source: cvc
+    sourceId: cvc
+    target: btc
+    targetId: btc
+-
+    symbol: storj_btc
+    source: storj
+    sourceId: storj
+    target: btc
+    targetId: btc
+-
+    symbol: zrx_btc
+    source: zrx
+    sourceId: zrx
+    target: btc
+    targetId: btc
+-
+    symbol: gto_btc
+    source: gto
+    sourceId: gto
+    target: btc
+    targetId: btc
+-
+    symbol: lrc_btc
+    source: lrc
+    sourceId: lrc
+    target: btc
+    targetId: btc
+-
+    symbol: btu_btc
+    source: btu
+    sourceId: btu
+    target: btc
+    targetId: btc
+-
+    symbol: link_btc
+    source: link
+    sourceId: link
+    target: btc
+    targetId: btc
+-
+    symbol: rep_btc
+    source: rep
+    sourceId: rep
+    target: btc
+    targetId: btc
+-
+    symbol: rlc_btc
+    source: rlc
+    sourceId: rlc
+    target: btc
+    targetId: btc
+-
+    symbol: ant_btc
+    source: ant
+    sourceId: ant
+    target: btc
+    targetId: btc
+-
+    symbol: xtp_btc
+    source: xtp
+    sourceId: xtp
+    target: btc
+    targetId: btc
+-
+    symbol: nmr_btc
+    source: nmr
+    sourceId: nmr
+    target: btc
+    targetId: btc
+-
+    symbol: sxp_btc
+    source: sxp
+    sourceId: sxp
+    target: btc
+    targetId: btc
+-
+    symbol: hmr_btc
+    source: hmr
+    sourceId: hmr
+    target: btc
+    targetId: btc
+-
+    symbol: uqc_btc
+    source: uqc
+    sourceId: uqc
+    target: btc
+    targetId: btc
+-
+    symbol: dgb_btc
+    source: dgb
+    sourceId: dgb
+    target: btc
+    targetId: btc
+-
+    symbol: dnt_btc
+    source: dnt
+    sourceId: dnt
+    target: btc
+    targetId: btc
+-
+    symbol: vib_btc
+    source: vib
+    sourceId: vib
+    target: btc
+    targetId: btc
+-
+    symbol: nkn_btc
+    source: nkn
+    sourceId: nkn
+    target: btc
+    targetId: btc
+-
+    symbol: rcn_btc
+    source: rcn
+    sourceId: rcn
+    target: btc
+    targetId: btc
+-
+    symbol: sc_btc
+    source: sc
+    sourceId: sc
+    target: btc
+    targetId: btc
+-
+    symbol: stpt_btc
+    source: stpt
+    sourceId: stpt
+    target: btc
+    targetId: btc
+-
+    symbol: stmx_btc
+    source: stmx
+    sourceId: stmx
+    target: btc
+    targetId: btc
+-
+    symbol: ocean_btc
+    source: ocean
+    sourceId: ocean
+    target: btc
+    targetId: btc
+-
+    symbol: rvn_btc
+    source: rvn
+    sourceId: rvn
+    target: btc
+    targetId: btc
+-
+    symbol: ada_btc
+    source: ada
+    sourceId: ada
+    target: btc
+    targetId: btc
+-
+    symbol: ark_btc
+    source: ark
+    sourceId: ark
+    target: btc
+    targetId: btc
+-
+    symbol: doge_btc
+    source: doge
+    sourceId: doge
+    target: btc
+    targetId: btc
+-
+    symbol: etc_btc
+    source: etc
+    sourceId: etc
+    target: btc
+    targetId: btc
+-
+    symbol: mana_btc
+    source: mana
+    sourceId: mana
+    target: btc
+    targetId: btc
+-
+    symbol: neo_btc
+    source: neo
+    sourceId: neo
+    target: btc
+    targetId: btc
+-
+    symbol: rdd_btc
+    source: rdd
+    sourceId: rdd
+    target: btc
+    targetId: btc
+-
+    symbol: xem_btc
+    source: xem
+    sourceId: xem
+    target: btc
+    targetId: btc
+-
+    symbol: xmr_btc
+    source: xmr
+    sourceId: xmr
+    target: btc
+    targetId: btc
+-
+    symbol: plf_btc
+    source: plf
+    sourceId: plf
+    target: btc
+    targetId: btc
+-
+    symbol: basid_btc
+    source: basid
+    sourceId: basid
+    target: btc
+    targetId: btc
+-
+    symbol: flm_btc
+    source: flm
+    sourceId: flm
+    target: btc
+    targetId: btc
+-
+    symbol: avax_btc
+    source: avax
+    sourceId: avax
+    target: btc
+    targetId: btc
+-
+    symbol: yfi_btc
+    source: yfi
+    sourceId: yfi
+    target: btc
+    targetId: btc
+-
+    symbol: snx_btc
+    source: snx
+    sourceId: snx
+    target: btc
+    targetId: btc
+-
+    symbol: srm_btc
+    source: srm
+    sourceId: srm
+    target: btc
+    targetId: btc
+-
+    symbol: ogn_btc
+    source: ogn
+    sourceId: ogn
+    target: btc
+    targetId: btc
+-
+    symbol: bal_btc
+    source: bal
+    sourceId: bal
+    target: btc
+    targetId: btc
+-
+    symbol: kava_btc
+    source: kava
+    sourceId: kava
+    target: btc
+    targetId: btc
+-
+    symbol: sand_btc
+    source: sand
+    sourceId: sand
+    target: btc
+    targetId: btc
+-
+    symbol: comp_btc
+    source: comp
+    sourceId: comp
+    target: btc
+    targetId: btc
+-
+    symbol: jst_btc
+    source: jst
+    sourceId: jst
+    target: btc
+    targetId: btc
+-
+    symbol: uni_btc
+    source: uni
+    sourceId: uni
+    target: btc
+    targetId: btc
+-
+    symbol: sol_btc
+    source: sol
+    sourceId: sol
+    target: btc
+    targetId: btc
+-
+    symbol: dot_btc
+    source: dot
+    sourceId: dot
+    target: btc
+    targetId: btc
+-
+    symbol: rune_btc
+    source: rune
+    sourceId: rune
+    target: btc
+    targetId: btc
+-
+    symbol: mkr_btc
+    source: mkr
+    sourceId: mkr
+    target: btc
+    targetId: btc
+-
+    symbol: stx_btc
+    source: stx
+    sourceId: stx
+    target: btc
+    targetId: btc
+-
+    symbol: sushi_btc
+    source: sushi
+    sourceId: sushi
+    target: btc
+    targetId: btc
+-
+    symbol: yfii_btc
+    source: yfii
+    sourceId: yfii
+    target: btc
+    targetId: btc
+-
+    symbol: hnt_btc
+    source: hnt
+    sourceId: hnt
+    target: btc
+    targetId: btc
+-
+    symbol: bzrx_btc
+    source: bzrx
+    sourceId: bzrx
+    target: btc
+    targetId: btc
+-
+    symbol: wing_btc
+    source: wing
+    sourceId: wing
+    target: btc
+    targetId: btc
+-
+    symbol: coti_btc
+    source: coti
+    sourceId: coti
+    target: btc
+    targetId: btc
+-
+    symbol: trb_btc
+    source: trb
+    sourceId: trb
+    target: btc
+    targetId: btc
+-
+    symbol: egld_btc
+    source: egld
+    sourceId: egld
+    target: btc
+    targetId: btc
+-
+    symbol: dia_btc
+    source: dia
+    sourceId: dia
+    target: btc
+    targetId: btc
+-
+    symbol: wnxm_btc
+    source: wnxm
+    sourceId: wnxm
+    target: btc
+    targetId: btc
+-
+    symbol: luna_btc
+    source: luna
+    sourceId: luna
+    target: btc
+    targetId: btc
+-
+    symbol: iris_btc
+    source: iris
+    sourceId: iris
+    target: btc
+    targetId: btc
+-
+    symbol: sun_btc
+    source: sun
+    sourceId: sun
+    target: btc
+    targetId: btc
+-
+    symbol: oxt_btc
+    source: oxt
+    sourceId: oxt
+    target: btc
+    targetId: btc
+-
+    symbol: drep_btc
+    source: drep
+    sourceId: drep
+    target: btc
+    targetId: btc
+-
+    symbol: nas_btc
+    source: nas
+    sourceId: nas
+    target: btc
+    targetId: btc
+-
+    symbol: pnt_btc
+    source: pnt
+    sourceId: pnt
+    target: btc
+    targetId: btc
+-
+    symbol: gas_btc
+    source: gas
+    sourceId: gas
+    target: btc
+    targetId: btc
+-
+    symbol: bel_btc
+    source: bel
+    sourceId: bel
+    target: btc
+    targetId: btc
+-
+    symbol: atom_btc
+    source: atom
+    sourceId: atom
+    target: btc
+    targetId: btc
+-
+    symbol: band_btc
+    source: band
+    sourceId: band
+    target: btc
+    targetId: btc
+-
+    symbol: blz_btc
+    source: blz
+    sourceId: blz
+    target: btc
+    targetId: btc
+-
+    symbol: bnt_btc
+    source: bnt
+    sourceId: bnt
+    target: btc
+    targetId: btc
+-
+    symbol: xrp_eth
+    source: xrp
+    sourceId: xrp
+    target: eth
+    targetId: eth
+-
+    symbol: ltc_eth
+    source: ltc
+    sourceId: ltc
+    target: eth
+    targetId: eth
+-
+    symbol: dash_eth
+    source: dash
+    sourceId: dash
+    target: eth
+    targetId: eth
+-
+    symbol: omg_eth
+    source: omg
+    sourceId: omg
+    target: eth
+    targetId: eth
+-
+    symbol: bat_eth
+    source: bat
+    sourceId: bat
+    target: eth
+    targetId: eth
+-
+    symbol: xlm_eth
+    source: xlm
+    sourceId: xlm
+    target: eth
+    targetId: eth
+-
+    symbol: trx_eth
+    source: trx
+    sourceId: trx
+    target: eth
+    targetId: eth
+-
+    symbol: zec_eth
+    source: zec
+    sourceId: zec
+    target: eth
+    targetId: eth
+-
+    symbol: gnt_eth
+    source: gnt
+    sourceId: gnt
+    target: eth
+    targetId: eth
+-
+    symbol: mco_eth
+    source: mco
+    sourceId: mco
+    target: eth
+    targetId: eth
+-
+    symbol: solve_eth
+    source: solve
+    sourceId: solve
+    target: eth
+    targetId: eth
+-
+    symbol: zrx_eth
+    source: zrx
+    sourceId: zrx
+    target: eth
+    targetId: eth
+-
+    symbol: rep_eth
+    source: rep
+    sourceId: rep
+    target: eth
+    targetId: eth
+-
+    symbol: neo_eth
+    source: neo
+    sourceId: neo
+    target: eth
+    targetId: eth
+-
+    symbol: ada_eth
+    source: ada
+    sourceId: ada
+    target: eth
+    targetId: eth
+-
+    symbol: etc_eth
+    source: etc
+    sourceId: etc
+    target: eth
+    targetId: eth
+-
+    symbol: vib_eth
+    source: vib
+    sourceId: vib
+    target: eth
+    targetId: eth
+-
+    symbol: sc_eth
+    source: sc
+    sourceId: sc
+    target: eth
+    targetId: eth
+-
+    symbol: stmx_eth
+    source: stmx
+    sourceId: stmx
+    target: eth
+    targetId: eth
+-
+    symbol: xmr_eth
+    source: xmr
+    sourceId: xmr
+    target: eth
+    targetId: eth
+-
+    symbol: lmy_eth
+    source: lmy
+    sourceId: lmy
+    target: eth
+    targetId: eth
+-
+    symbol: dexg_eth
+    source: dexg
+    sourceId: dexg
+    target: eth
+    targetId: eth
+-
+    symbol: bnt_eth
+    source: bnt
+    sourceId: bnt
+    target: eth
+    targetId: eth
+-
+    symbol: btc_usdt
+    source: btc
+    sourceId: btc
+    target: usdt
+    targetId: usdt
+-
+    symbol: eth_usdt
+    source: eth
+    sourceId: eth
+    target: usdt
+    targetId: usdt
+-
+    symbol: bch_usdt
+    source: bch
+    sourceId: bch
+    target: usdt
+    targetId: usdt
+-
+    symbol: xrp_usdt
+    source: xrp
+    sourceId: xrp
+    target: usdt
+    targetId: usdt
+-
+    symbol: ltc_usdt
+    source: ltc
+    sourceId: ltc
+    target: usdt
+    targetId: usdt
+-
+    symbol: dash_usdt
+    source: dash
+    sourceId: dash
+    target: usdt
+    targetId: usdt
+-
+    symbol: omg_usdt
+    source: omg
+    sourceId: omg
+    target: usdt
+    targetId: usdt
+-
+    symbol: bat_usdt
+    source: bat
+    sourceId: bat
+    target: usdt
+    targetId: usdt
+-
+    symbol: npxs_usdt
+    source: npxs
+    sourceId: npxs
+    target: usdt
+    targetId: usdt
+-
+    symbol: xlm_usdt
+    source: xlm
+    sourceId: xlm
+    target: usdt
+    targetId: usdt
+-
+    symbol: trx_usdt
+    source: trx
+    sourceId: trx
+    target: usdt
+    targetId: usdt
+-
+    symbol: zrx_usdt
+    source: zrx
+    sourceId: zrx
+    target: usdt
+    targetId: usdt
+-
+    symbol: enj_usdt
+    source: enj
+    sourceId: enj
+    target: usdt
+    targetId: usdt
+-
+    symbol: tusd_usdt
+    source: tusd
+    sourceId: tusd
+    target: usdt
+    targetId: usdt
+-
+    symbol: zec_usdt
+    source: zec
+    sourceId: zec
+    target: usdt
+    targetId: usdt
+-
+    symbol: eos_usdt
+    source: eos
+    sourceId: eos
+    target: usdt
+    targetId: usdt
+-
+    symbol: anx_usdt
+    source: anx
+    sourceId: anx
+    target: usdt
+    targetId: usdt
+-
+    symbol: uqc_usdt
+    source: uqc
+    sourceId: uqc
+    target: usdt
+    targetId: usdt
+-
+    symbol: ada_usdt
+    source: ada
+    sourceId: ada
+    target: usdt
+    targetId: usdt
+-
+    symbol: neo_usdt
+    source: neo
+    sourceId: neo
+    target: usdt
+    targetId: usdt
+-
+    symbol: xmr_usdt
+    source: xmr
+    sourceId: xmr
+    target: usdt
+    targetId: usdt
+-
+    symbol: dgb_usdt
+    source: dgb
+    sourceId: dgb
+    target: usdt
+    targetId: usdt
+-
+    symbol: sc_usdt
+    source: sc
+    sourceId: sc
+    target: usdt
+    targetId: usdt
+-
+    symbol: etc_usdt
+    source: etc
+    sourceId: etc
+    target: usdt
+    targetId: usdt
+-
+    symbol: xtz_usdt
+    source: xtz
+    sourceId: xtz
+    target: usdt
+    targetId: usdt
+-
+    symbol: ocean_usdt
+    source: ocean
+    sourceId: ocean
+    target: usdt
+    targetId: usdt
+-
+    symbol: rvn_usdt
+    source: rvn
+    sourceId: rvn
+    target: usdt
+    targetId: usdt
+-
+    symbol: vet_usdt
+    source: vet
+    sourceId: vet
+    target: usdt
+    targetId: usdt
+-
+    symbol: doge_usdt
+    source: doge
+    sourceId: doge
+    target: usdt
+    targetId: usdt
+-
+    symbol: hbar_usdt
+    source: hbar
+    sourceId: hbar
+    target: usdt
+    targetId: usdt
+-
+    symbol: bnb_usdt
+    source: bnb
+    sourceId: bnb
+    target: usdt
+    targetId: usdt
+-
+    symbol: busd_usdt
+    source: busd
+    sourceId: busd
+    target: usdt
+    targetId: usdt
+-
+    symbol: p2pg_usdt
+    source: p2pg
+    sourceId: p2pg
+    target: usdt
+    targetId: usdt
+-
+    symbol: link_usdt
+    source: link
+    sourceId: link
+    target: usdt
+    targetId: usdt
+-
+    symbol: flm_usdt
+    source: flm
+    sourceId: flm
+    target: usdt
+    targetId: usdt
+-
+    symbol: avax_usdt
+    source: avax
+    sourceId: avax
+    target: usdt
+    targetId: usdt
+-
+    symbol: yfi_usdt
+    source: yfi
+    sourceId: yfi
+    target: usdt
+    targetId: usdt
+-
+    symbol: sxp_usdt
+    source: sxp
+    sourceId: sxp
+    target: usdt
+    targetId: usdt
+-
+    symbol: snx_usdt
+    source: snx
+    sourceId: snx
+    target: usdt
+    targetId: usdt
+-
+    symbol: srm_usdt
+    source: srm
+    sourceId: srm
+    target: usdt
+    targetId: usdt
+-
+    symbol: ogn_usdt
+    source: ogn
+    sourceId: ogn
+    target: usdt
+    targetId: usdt
+-
+    symbol: bal_usdt
+    source: bal
+    sourceId: bal
+    target: usdt
+    targetId: usdt
+-
+    symbol: kava_usdt
+    source: kava
+    sourceId: kava
+    target: usdt
+    targetId: usdt
+-
+    symbol: sand_usdt
+    source: sand
+    sourceId: sand
+    target: usdt
+    targetId: usdt
+-
+    symbol: comp_usdt
+    source: comp
+    sourceId: comp
+    target: usdt
+    targetId: usdt
+-
+    symbol: jst_usdt
+    source: jst
+    sourceId: jst
+    target: usdt
+    targetId: usdt
+-
+    symbol: uni_usdt
+    source: uni
+    sourceId: uni
+    target: usdt
+    targetId: usdt
+-
+    symbol: sol_usdt
+    source: sol
+    sourceId: sol
+    target: usdt
+    targetId: usdt
+-
+    symbol: dot_usdt
+    source: dot
+    sourceId: dot
+    target: usdt
+    targetId: usdt
+-
+    symbol: rune_usdt
+    source: rune
+    sourceId: rune
+    target: usdt
+    targetId: usdt
+-
+    symbol: mkr_usdt
+    source: mkr
+    sourceId: mkr
+    target: usdt
+    targetId: usdt
+-
+    symbol: stx_usdt
+    source: stx
+    sourceId: stx
+    target: usdt
+    targetId: usdt
+-
+    symbol: sushi_usdt
+    source: sushi
+    sourceId: sushi
+    target: usdt
+    targetId: usdt
+-
+    symbol: yfii_usdt
+    source: yfii
+    sourceId: yfii
+    target: usdt
+    targetId: usdt
+-
+    symbol: hnt_usdt
+    source: hnt
+    sourceId: hnt
+    target: usdt
+    targetId: usdt
+-
+    symbol: bzrx_usdt
+    source: bzrx
+    sourceId: bzrx
+    target: usdt
+    targetId: usdt
+-
+    symbol: wing_usdt
+    source: wing
+    sourceId: wing
+    target: usdt
+    targetId: usdt
+-
+    symbol: coti_usdt
+    source: coti
+    sourceId: coti
+    target: usdt
+    targetId: usdt
+-
+    symbol: trb_usdt
+    source: trb
+    sourceId: trb
+    target: usdt
+    targetId: usdt
+-
+    symbol: egld_usdt
+    source: egld
+    sourceId: egld
+    target: usdt
+    targetId: usdt
+-
+    symbol: dia_usdt
+    source: dia
+    sourceId: dia
+    target: usdt
+    targetId: usdt
+-
+    symbol: ant_usdt
+    source: ant
+    sourceId: ant
+    target: usdt
+    targetId: usdt
+-
+    symbol: wnxm_usdt
+    source: wnxm
+    sourceId: wnxm
+    target: usdt
+    targetId: usdt
+-
+    symbol: luna_usdt
+    source: luna
+    sourceId: luna
+    target: usdt
+    targetId: usdt
+-
+    symbol: iris_usdt
+    source: iris
+    sourceId: iris
+    target: usdt
+    targetId: usdt
+-
+    symbol: nmr_usdt
+    source: nmr
+    sourceId: nmr
+    target: usdt
+    targetId: usdt
+-
+    symbol: sun_usdt
+    source: sun
+    sourceId: sun
+    target: usdt
+    targetId: usdt
+-
+    symbol: win_usdt
+    source: win
+    sourceId: win
+    target: usdt
+    targetId: usdt
+-
+    symbol: oxt_usdt
+    source: oxt
+    sourceId: oxt
+    target: usdt
+    targetId: usdt
+-
+    symbol: drep_usdt
+    source: drep
+    sourceId: drep
+    target: usdt
+    targetId: usdt
+-
+    symbol: pnt_usdt
+    source: pnt
+    sourceId: pnt
+    target: usdt
+    targetId: usdt
+-
+    symbol: pax_usdt
+    source: pax
+    sourceId: pax
+    target: usdt
+    targetId: usdt
+-
+    symbol: bel_usdt
+    source: bel
+    sourceId: bel
+    target: usdt
+    targetId: usdt
+-
+    symbol: atom_usdt
+    source: atom
+    sourceId: atom
+    target: usdt
+    targetId: usdt
+-
+    symbol: band_usdt
+    source: band
+    sourceId: band
+    target: usdt
+    targetId: usdt
+-
+    symbol: blz_usdt
+    source: blz
+    sourceId: blz
+    target: usdt
+    targetId: usdt
+-
+    symbol: bnt_usdt
+    source: bnt
+    sourceId: bnt
+    target: usdt
+    targetId: usdt
+-
+    symbol: btt_usdt
+    source: btt
+    sourceId: btt
+    target: usdt
+    targetId: usdt

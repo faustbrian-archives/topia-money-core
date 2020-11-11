@@ -1,0 +1,1718 @@
+{
+    "message": null,
+    "dataVersion": "584a185322167a06564201a2a8b559f80abe8810",
+    "data": {
+        "BTC_VND": {
+            "base_id": 1,
+            "quote_id": 0,
+            "last_price": "246738269",
+            "base_volume": "10.2985760000",
+            "quote_volume": "2531766922.9172410083",
+            "isFrozen": 0
+        },
+        "ETH_VND": {
+            "base_id": 1027,
+            "quote_id": 0,
+            "last_price": "7868379",
+            "base_volume": "104.4183700000",
+            "quote_volume": "822759635.4648500042",
+            "isFrozen": 0
+        },
+        "USDT_VND": {
+            "base_id": 825,
+            "quote_id": 0,
+            "last_price": "23154",
+            "base_volume": "95335.9400000000",
+            "quote_volume": "2205125325.8700000140",
+            "isFrozen": 0
+        },
+        "XRP_VND": {
+            "base_id": 52,
+            "quote_id": 0,
+            "last_price": "5506.0000000000",
+            "base_volume": "73372.5000000000",
+            "quote_volume": "425560134.2000000061",
+            "isFrozen": 0
+        },
+        "DGX_VND": {
+            "base_id": 2739,
+            "quote_id": 0,
+            "last_price": "1407098",
+            "base_volume": "131.7118000000",
+            "quote_volume": "185444244.4510000000",
+            "isFrozen": 0
+        },
+        "SOLVE_VND": {
+            "base_id": 3724,
+            "quote_id": 0,
+            "last_price": "2351",
+            "base_volume": "60367.0000000000",
+            "quote_volume": "140706213.0000000000",
+            "isFrozen": 0
+        },
+        "HMR_VND": {
+            "base_id": 5336,
+            "quote_id": 0,
+            "last_price": "17929.0000000000",
+            "base_volume": "3451258.0000000000",
+            "quote_volume": "61886469118.0000000000",
+            "isFrozen": 0
+        },
+        "OMC_VND": {
+            "base_id": 5818,
+            "quote_id": 0,
+            "last_price": "115.0000000000",
+            "base_volume": "2705101.0000000000",
+            "quote_volume": "276011281.0000000000",
+            "isFrozen": 0
+        },
+        "ORME_VND": {
+            "base_id": 1998,
+            "quote_id": 0,
+            "last_price": "477.0000000000",
+            "base_volume": "797261.0000000000",
+            "quote_volume": "378115643.0000000000",
+            "isFrozen": 0
+        },
+        "DRM_VND": {
+            "base_id": 5837,
+            "quote_id": 0,
+            "last_price": "76.0000000000",
+            "base_volume": "2377876.0000000000",
+            "quote_volume": "181541425.0000000000",
+            "isFrozen": 0
+        },
+        "ECO_VND": {
+            "base_id": 4466,
+            "quote_id": 0,
+            "last_price": "87.0000000000",
+            "base_volume": "3908770.0000000000",
+            "quote_volume": "320901601.0000000000",
+            "isFrozen": 0
+        },
+        "PLF_VND": {
+            "base_id": 5084,
+            "quote_id": 0,
+            "last_price": "4524.0000000000",
+            "base_volume": "1254245.0000000000",
+            "quote_volume": "5689374825.0000000000",
+            "isFrozen": 0
+        },
+        "BASID_VND": {
+            "base_id": 0,
+            "quote_id": 0,
+            "last_price": "14435.0000000000",
+            "base_volume": "231257.0000000000",
+            "quote_volume": "3276161640.0000000000",
+            "isFrozen": 0
+        },
+        "DGB_VND": {
+            "base_id": 109,
+            "quote_id": 0,
+            "last_price": "630.0000000000",
+            "base_volume": "602.0000000000",
+            "quote_volume": "379260.0000000000",
+            "isFrozen": 0
+        },
+        "BNB_VND": {
+            "base_id": 1839,
+            "quote_id": 0,
+            "last_price": "635366",
+            "base_volume": "13909.1750000000",
+            "quote_volume": "8844235569.4240000404",
+            "isFrozen": 0
+        },
+        "ETH_BTC": {
+            "base_id": 1027,
+            "quote_id": 1,
+            "last_price": "0.03187700",
+            "base_volume": "79110.3210000000",
+            "quote_volume": "2530.3980842530",
+            "isFrozen": 0
+        },
+        "BCH_BTC": {
+            "base_id": 1831,
+            "quote_id": 1,
+            "last_price": "0.02117500",
+            "base_volume": "9994.4110000000",
+            "quote_volume": "208.1108162380",
+            "isFrozen": 0
+        },
+        "XRP_BTC": {
+            "base_id": 52,
+            "quote_id": 1,
+            "last_price": "0.00002324",
+            "base_volume": "6686388.0000000000",
+            "quote_volume": "155.6466309300",
+            "isFrozen": 0
+        },
+        "LTC_BTC": {
+            "base_id": 2,
+            "quote_id": 1,
+            "last_price": "0.00435800",
+            "base_volume": "24868.0300000000",
+            "quote_volume": "108.0323761600",
+            "isFrozen": 0
+        },
+        "DASH_BTC": {
+            "base_id": 131,
+            "quote_id": 1,
+            "last_price": "0.00619000",
+            "base_volume": "3181.8230000000",
+            "quote_volume": "19.6487290130",
+            "isFrozen": 0
+        },
+        "OMG_BTC": {
+            "base_id": 1808,
+            "quote_id": 1,
+            "last_price": "0.00030140",
+            "base_volume": "420022.1800000000",
+            "quote_volume": "128.9861330040",
+            "isFrozen": 0
+        },
+        "BAT_BTC": {
+            "base_id": 1697,
+            "quote_id": 1,
+            "last_price": "0.00001996",
+            "base_volume": "928852.0000000000",
+            "quote_volume": "18.5589692000",
+            "isFrozen": 0
+        },
+        "ZIL_BTC": {
+            "base_id": 2469,
+            "quote_id": 1,
+            "last_price": "0.00000176",
+            "base_volume": "13609276.0000000000",
+            "quote_volume": "23.4493003400",
+            "isFrozen": 0
+        },
+        "XLM_BTC": {
+            "base_id": 512,
+            "quote_id": 1,
+            "last_price": "0.00000675",
+            "base_volume": "2769164.0000000000",
+            "quote_volume": "18.7970331200",
+            "isFrozen": 0
+        },
+        "TRX_BTC": {
+            "base_id": 1958,
+            "quote_id": 1,
+            "last_price": "0.00000238",
+            "base_volume": "13281354.0000000000",
+            "quote_volume": "31.6890421400",
+            "isFrozen": 0
+        },
+        "ZEC_BTC": {
+            "base_id": 1437,
+            "quote_id": 1,
+            "last_price": "0.00571700",
+            "base_volume": "15059.2990000000",
+            "quote_volume": "86.7496791620",
+            "isFrozen": 0
+        },
+        "TNC_BTC": {
+            "base_id": 0,
+            "quote_id": 1,
+            "last_price": "0.00000949",
+            "base_volume": "22918393.0000000000",
+            "quote_volume": "221.2219316000",
+            "isFrozen": 0
+        },
+        "ELF_BTC": {
+            "base_id": 2299,
+            "quote_id": 1,
+            "last_price": "0.00000847",
+            "base_volume": "382213.0000000000",
+            "quote_volume": "3.1759294400",
+            "isFrozen": 0
+        },
+        "STEEM_BTC": {
+            "base_id": 1230,
+            "quote_id": 1,
+            "last_price": "0.00001421",
+            "base_volume": "3377877.0000000000",
+            "quote_volume": "47.6243760900",
+            "isFrozen": 0
+        },
+        "ENJ_BTC": {
+            "base_id": 2130,
+            "quote_id": 1,
+            "last_price": "0.00001371",
+            "base_volume": "1260611.0000000000",
+            "quote_volume": "17.1118920300",
+            "isFrozen": 0
+        },
+        "POLY_BTC": {
+            "base_id": 2496,
+            "quote_id": 1,
+            "last_price": "0.00000394",
+            "base_volume": "307269.0000000000",
+            "quote_volume": "1.2091323000",
+            "isFrozen": 0
+        },
+        "LOOM_BTC": {
+            "base_id": 2588,
+            "quote_id": 1,
+            "last_price": "0.00000177",
+            "base_volume": "499321.0000000000",
+            "quote_volume": "0.8646119500",
+            "isFrozen": 0
+        },
+        "GNT_BTC": {
+            "base_id": 1455,
+            "quote_id": 1,
+            "last_price": "0.00000830",
+            "base_volume": "281826.0000000000",
+            "quote_volume": "2.3387197800",
+            "isFrozen": 0
+        },
+        "MCO_BTC": {
+            "base_id": 1776,
+            "quote_id": 1,
+            "last_price": "0.00037730",
+            "base_volume": "10289.7000000000",
+            "quote_volume": "3.8941704810",
+            "isFrozen": 0
+        },
+        "EOS_BTC": {
+            "base_id": 1765,
+            "quote_id": 1,
+            "last_price": "0.00024770",
+            "base_volume": "716361.3800000000",
+            "quote_volume": "179.0270963470",
+            "isFrozen": 0
+        },
+        "SOLVE_BTC": {
+            "base_id": 3724,
+            "quote_id": 1,
+            "last_price": "0.0000111500",
+            "base_volume": "258.0000000000",
+            "quote_volume": "0.0028767000",
+            "isFrozen": 0
+        },
+        "MTL_BTC": {
+            "base_id": 1788,
+            "quote_id": 1,
+            "last_price": "0.00002801",
+            "base_volume": "3166669.0000000000",
+            "quote_volume": "88.4761515100",
+            "isFrozen": 0
+        },
+        "CVC_BTC": {
+            "base_id": 1816,
+            "quote_id": 1,
+            "last_price": "0.00000220",
+            "base_volume": "464704.0000000000",
+            "quote_volume": "1.0040283800",
+            "isFrozen": 0
+        },
+        "STORJ_BTC": {
+            "base_id": 1772,
+            "quote_id": 1,
+            "last_price": "0.00004458",
+            "base_volume": "863324.0000000000",
+            "quote_volume": "38.0570647900",
+            "isFrozen": 0
+        },
+        "ZRX_BTC": {
+            "base_id": 1896,
+            "quote_id": 1,
+            "last_price": "0.00003296",
+            "base_volume": "1268460.0000000000",
+            "quote_volume": "41.4885540000",
+            "isFrozen": 0
+        },
+        "GTO_BTC": {
+            "base_id": 2289,
+            "quote_id": 1,
+            "last_price": "0.00000061",
+            "base_volume": "348787.0000000000",
+            "quote_volume": "0.2108791700",
+            "isFrozen": 0
+        },
+        "LRC_BTC": {
+            "base_id": 1934,
+            "quote_id": 1,
+            "last_price": "0.00001590",
+            "base_volume": "4281378.0000000000",
+            "quote_volume": "65.5270305900",
+            "isFrozen": 0
+        },
+        "BTU_BTC": {
+            "base_id": 3737,
+            "quote_id": 1,
+            "last_price": "0.0000433500",
+            "base_volume": "559.0000000000",
+            "quote_volume": "0.0234573900",
+            "isFrozen": 0
+        },
+        "LINK_BTC": {
+            "base_id": 1975,
+            "quote_id": 1,
+            "last_price": "0.00082540",
+            "base_volume": "851054.1000000000",
+            "quote_volume": "706.0332652820",
+            "isFrozen": 0
+        },
+        "REP_BTC": {
+            "base_id": 1104,
+            "quote_id": 1,
+            "last_price": "0.00123800",
+            "base_volume": "4284.6570000000",
+            "quote_volume": "5.2718977770",
+            "isFrozen": 0
+        },
+        "RLC_BTC": {
+            "base_id": 1637,
+            "quote_id": 1,
+            "last_price": "0.00007379",
+            "base_volume": "198745.0000000000",
+            "quote_volume": "14.3578148900",
+            "isFrozen": 0
+        },
+        "ANT_BTC": {
+            "base_id": 1680,
+            "quote_id": 1,
+            "last_price": "0.00030750",
+            "base_volume": "31443.3200000000",
+            "quote_volume": "9.7847988070",
+            "isFrozen": 0
+        },
+        "XTP_BTC": {
+            "base_id": 5070,
+            "quote_id": 1,
+            "last_price": "0.00000447",
+            "base_volume": "1854835.7360105100",
+            "quote_volume": "8.4322064765",
+            "isFrozen": 0
+        },
+        "NMR_BTC": {
+            "base_id": 1732,
+            "quote_id": 1,
+            "last_price": "0.00254800",
+            "base_volume": "1674.5430000000",
+            "quote_volume": "4.2783615160",
+            "isFrozen": 0
+        },
+        "SXP_BTC": {
+            "base_id": 4279,
+            "quote_id": 1,
+            "last_price": "0.00011030",
+            "base_volume": "1855231.0000000000",
+            "quote_volume": "200.0851413100",
+            "isFrozen": 0
+        },
+        "HMR_BTC": {
+            "base_id": 5336,
+            "quote_id": 1,
+            "last_price": "0.0000727300",
+            "base_volume": "3318250.0000000000",
+            "quote_volume": "240.6744060000",
+            "isFrozen": 0
+        },
+        "UQC_BTC": {
+            "base_id": 2273,
+            "quote_id": 1,
+            "last_price": "0.00046595",
+            "base_volume": "95286.5000000000",
+            "quote_volume": "44.4087619970",
+            "isFrozen": 0
+        },
+        "DGB_BTC": {
+            "base_id": 109,
+            "quote_id": 1,
+            "last_price": "0.00000222",
+            "base_volume": "3082211.0000000000",
+            "quote_volume": "6.9465715500",
+            "isFrozen": 0
+        },
+        "DNT_BTC": {
+            "base_id": 1856,
+            "quote_id": 1,
+            "last_price": "0.00000072",
+            "base_volume": "776246.0000000000",
+            "quote_volume": "0.5469250000",
+            "isFrozen": 0
+        },
+        "VIB_BTC": {
+            "base_id": 2019,
+            "quote_id": 1,
+            "last_price": "0.00000137",
+            "base_volume": "1703452.0000000000",
+            "quote_volume": "2.3874818000",
+            "isFrozen": 0
+        },
+        "NKN_BTC": {
+            "base_id": 2780,
+            "quote_id": 1,
+            "last_price": "0.00000175",
+            "base_volume": "225669.0000000000",
+            "quote_volume": "0.3882434400",
+            "isFrozen": 0
+        },
+        "RCN_BTC": {
+            "base_id": 2096,
+            "quote_id": 1,
+            "last_price": "0.00000348",
+            "base_volume": "447029.0000000000",
+            "quote_volume": "1.5500128400",
+            "isFrozen": 0
+        },
+        "SC_BTC": {
+            "base_id": 1042,
+            "quote_id": 1,
+            "last_price": "0.00000025",
+            "base_volume": "4342207.0000000000",
+            "quote_volume": "1.0558396800",
+            "isFrozen": 0
+        },
+        "STPT_BTC": {
+            "base_id": 4006,
+            "quote_id": 1,
+            "last_price": "0.00000172",
+            "base_volume": "367804.0000000000",
+            "quote_volume": "0.6145626700",
+            "isFrozen": 0
+        },
+        "STMX_BTC": {
+            "base_id": 2297,
+            "quote_id": 1,
+            "last_price": "0.00000019",
+            "base_volume": "2565254.0000000000",
+            "quote_volume": "0.4628747700",
+            "isFrozen": 0
+        },
+        "OCEAN_BTC": {
+            "base_id": 3911,
+            "quote_id": 1,
+            "last_price": "0.00002948",
+            "base_volume": "2919445.0000000000",
+            "quote_volume": "78.0634903700",
+            "isFrozen": 0
+        },
+        "RVN_BTC": {
+            "base_id": 2577,
+            "quote_id": 1,
+            "last_price": "0.00000121",
+            "base_volume": "2781271.0000000000",
+            "quote_volume": "3.2909254000",
+            "isFrozen": 0
+        },
+        "ADA_BTC": {
+            "base_id": 2010,
+            "quote_id": 1,
+            "last_price": "0.00000874",
+            "base_volume": "3938836.0000000000",
+            "quote_volume": "34.4520417800",
+            "isFrozen": 0
+        },
+        "ARK_BTC": {
+            "base_id": 1586,
+            "quote_id": 1,
+            "last_price": "0.00002511",
+            "base_volume": "101961.0000000000",
+            "quote_volume": "2.5562913400",
+            "isFrozen": 0
+        },
+        "DOGE_BTC": {
+            "base_id": 74,
+            "quote_id": 1,
+            "last_price": "0.00000024",
+            "base_volume": "6558733.0000000000",
+            "quote_volume": "1.5968491900",
+            "isFrozen": 0
+        },
+        "ETC_BTC": {
+            "base_id": 1321,
+            "quote_id": 1,
+            "last_price": "0.00049090",
+            "base_volume": "36798.5200000000",
+            "quote_volume": "18.0184784590",
+            "isFrozen": 0
+        },
+        "MANA_BTC": {
+            "base_id": 1966,
+            "quote_id": 1,
+            "last_price": "0.00000671",
+            "base_volume": "231556.0000000000",
+            "quote_volume": "1.5368609100",
+            "isFrozen": 0
+        },
+        "NEO_BTC": {
+            "base_id": 1376,
+            "quote_id": 1,
+            "last_price": "0.00155300",
+            "base_volume": "23004.9500000000",
+            "quote_volume": "35.9550611400",
+            "isFrozen": 0
+        },
+        "RDD_BTC": {
+            "base_id": 118,
+            "quote_id": 1,
+            "last_price": "0.0000003300",
+            "base_volume": "2068.0000000000",
+            "quote_volume": "0.0006824400",
+            "isFrozen": 0
+        },
+        "XEM_BTC": {
+            "base_id": 873,
+            "quote_id": 1,
+            "last_price": "0.00001103",
+            "base_volume": "2600641.0000000000",
+            "quote_volume": "28.5542921900",
+            "isFrozen": 0
+        },
+        "XMR_BTC": {
+            "base_id": 328,
+            "quote_id": 1,
+            "last_price": "0.01038100",
+            "base_volume": "57442.4040000000",
+            "quote_volume": "588.1217099590",
+            "isFrozen": 0
+        },
+        "PLF_BTC": {
+            "base_id": 5084,
+            "quote_id": 1,
+            "last_price": "0.0000184100",
+            "base_volume": "1383941.0000000000",
+            "quote_volume": "25.6765753500",
+            "isFrozen": 0
+        },
+        "BASID_BTC": {
+            "base_id": 0,
+            "quote_id": 1,
+            "last_price": "0.0000583300",
+            "base_volume": "441528.0000000000",
+            "quote_volume": "25.2033675500",
+            "isFrozen": 0
+        },
+        "FLM_BTC": {
+            "base_id": 0,
+            "quote_id": 1,
+            "last_price": "0.00002484",
+            "base_volume": "2274166.0000000000",
+            "quote_volume": "56.6417776200",
+            "isFrozen": 0
+        },
+        "AVAX_BTC": {
+            "base_id": 5805,
+            "quote_id": 1,
+            "last_price": "0.00032586",
+            "base_volume": "109029.7000000000",
+            "quote_volume": "34.2689617030",
+            "isFrozen": 0
+        },
+        "YFI_BTC": {
+            "base_id": 5864,
+            "quote_id": 1,
+            "last_price": "1.31838000",
+            "base_volume": "617.6525000000",
+            "quote_volume": "859.2754780740",
+            "isFrozen": 0
+        },
+        "SNX_BTC": {
+            "base_id": 2586,
+            "quote_id": 1,
+            "last_price": "0.00035870",
+            "base_volume": "138953.6300000000",
+            "quote_volume": "48.7620182590",
+            "isFrozen": 0
+        },
+        "SRM_BTC": {
+            "base_id": 6187,
+            "quote_id": 1,
+            "last_price": "0.00011291",
+            "base_volume": "1102624.0000000000",
+            "quote_volume": "129.5814868400",
+            "isFrozen": 0
+        },
+        "OGN_BTC": {
+            "base_id": 5117,
+            "quote_id": 1,
+            "last_price": "0.00001605",
+            "base_volume": "825971.0000000000",
+            "quote_volume": "13.0137847100",
+            "isFrozen": 0
+        },
+        "BAL_BTC": {
+            "base_id": 5728,
+            "quote_id": 1,
+            "last_price": "0.00132230",
+            "base_volume": "57561.9700000000",
+            "quote_volume": "74.7932757500",
+            "isFrozen": 0
+        },
+        "KAVA_BTC": {
+            "base_id": 4846,
+            "quote_id": 1,
+            "last_price": "0.00017590",
+            "base_volume": "175485.0000000000",
+            "quote_volume": "30.0366310100",
+            "isFrozen": 0
+        },
+        "SAND_BTC": {
+            "base_id": 6210,
+            "quote_id": 1,
+            "last_price": "0.00000423",
+            "base_volume": "1272236.0000000000",
+            "quote_volume": "5.2856866600",
+            "isFrozen": 0
+        },
+        "COMP_BTC": {
+            "base_id": 5692,
+            "quote_id": 1,
+            "last_price": "0.01011000",
+            "base_volume": "9748.2870000000",
+            "quote_volume": "97.2256639230",
+            "isFrozen": 0
+        },
+        "JST_BTC": {
+            "base_id": 5488,
+            "quote_id": 1,
+            "last_price": "0.00000259",
+            "base_volume": "811648.0000000000",
+            "quote_volume": "2.0975955800",
+            "isFrozen": 0
+        },
+        "UNI_BTC": {
+            "base_id": 7083,
+            "quote_id": 1,
+            "last_price": "0.00026904",
+            "base_volume": "2691009.0000000000",
+            "quote_volume": "697.1096631200",
+            "isFrozen": 0
+        },
+        "SOL_BTC": {
+            "base_id": 5426,
+            "quote_id": 1,
+            "last_price": "0.00021072",
+            "base_volume": "439833.0000000000",
+            "quote_volume": "94.4431595700",
+            "isFrozen": 0
+        },
+        "DOT_BTC": {
+            "base_id": 6636,
+            "quote_id": 1,
+            "last_price": "0.00035964",
+            "base_volume": "1239399.5000000000",
+            "quote_volume": "441.9322968010",
+            "isFrozen": 0
+        },
+        "RUNE_BTC": {
+            "base_id": 4157,
+            "quote_id": 1,
+            "last_price": "0.00004124",
+            "base_volume": "1084400.0000000000",
+            "quote_volume": "42.3405765200",
+            "isFrozen": 0
+        },
+        "MKR_BTC": {
+            "base_id": 1518,
+            "quote_id": 1,
+            "last_price": "0.04819100",
+            "base_volume": "1630.0180000000",
+            "quote_volume": "79.6236561520",
+            "isFrozen": 0
+        },
+        "STX_BTC": {
+            "base_id": 4847,
+            "quote_id": 1,
+            "last_price": "0.00001406",
+            "base_volume": "413249.0000000000",
+            "quote_volume": "5.6626547500",
+            "isFrozen": 0
+        },
+        "SUSHI_BTC": {
+            "base_id": 6758,
+            "quote_id": 1,
+            "last_price": "0.00006040",
+            "base_volume": "3291651.0500000000",
+            "quote_volume": "190.8471319180",
+            "isFrozen": 0
+        },
+        "YFII_BTC": {
+            "base_id": 5957,
+            "quote_id": 1,
+            "last_price": "0.12540000",
+            "base_volume": "2499.1936000000",
+            "quote_volume": "314.8436465100",
+            "isFrozen": 0
+        },
+        "HNT_BTC": {
+            "base_id": 5655,
+            "quote_id": 1,
+            "last_price": "0.00010730",
+            "base_volume": "161788.8900000000",
+            "quote_volume": "17.8584646840",
+            "isFrozen": 0
+        },
+        "BZRX_BTC": {
+            "base_id": 5810,
+            "quote_id": 1,
+            "last_price": "0.00001065",
+            "base_volume": "1790067.0000000000",
+            "quote_volume": "18.8342624600",
+            "isFrozen": 0
+        },
+        "WING_BTC": {
+            "base_id": 7084,
+            "quote_id": 1,
+            "last_price": "0.00176400",
+            "base_volume": "20947.3340000000",
+            "quote_volume": "38.8061547120",
+            "isFrozen": 0
+        },
+        "COTI_BTC": {
+            "base_id": 3992,
+            "quote_id": 1,
+            "last_price": "0.00000282",
+            "base_volume": "11939280.0000000000",
+            "quote_volume": "33.5362202900",
+            "isFrozen": 0
+        },
+        "TRB_BTC": {
+            "base_id": 4944,
+            "quote_id": 1,
+            "last_price": "0.00148800",
+            "base_volume": "125136.4860000000",
+            "quote_volume": "178.5754402740",
+            "isFrozen": 0
+        },
+        "EGLD_BTC": {
+            "base_id": 6892,
+            "quote_id": 1,
+            "last_price": "0.00071000",
+            "base_volume": "36237.7170000000",
+            "quote_volume": "24.5262353330",
+            "isFrozen": 0
+        },
+        "DIA_BTC": {
+            "base_id": 6138,
+            "quote_id": 1,
+            "last_price": "0.00010060",
+            "base_volume": "516700.4200000000",
+            "quote_volume": "51.2556920140",
+            "isFrozen": 0
+        },
+        "WNXM_BTC": {
+            "base_id": 0,
+            "quote_id": 1,
+            "last_price": "0.00269900",
+            "base_volume": "10131.2740000000",
+            "quote_volume": "27.0558205730",
+            "isFrozen": 0
+        },
+        "LUNA_BTC": {
+            "base_id": 4172,
+            "quote_id": 1,
+            "last_price": "0.00002850",
+            "base_volume": "266663.0000000000",
+            "quote_volume": "7.4395383000",
+            "isFrozen": 0
+        },
+        "IRIS_BTC": {
+            "base_id": 3874,
+            "quote_id": 1,
+            "last_price": "0.00000525",
+            "base_volume": "1155996.0000000000",
+            "quote_volume": "5.9624348900",
+            "isFrozen": 0
+        },
+        "SUN_BTC": {
+            "base_id": 6990,
+            "quote_id": 1,
+            "last_price": "0.00136300",
+            "base_volume": "5529.7830000000",
+            "quote_volume": "7.6106989420",
+            "isFrozen": 0
+        },
+        "OXT_BTC": {
+            "base_id": 5026,
+            "quote_id": 1,
+            "last_price": "0.00002365",
+            "base_volume": "866300.0000000000",
+            "quote_volume": "20.0191368700",
+            "isFrozen": 0
+        },
+        "DREP_BTC": {
+            "base_id": 3924,
+            "quote_id": 1,
+            "last_price": "0.00000033",
+            "base_volume": "8541058.0000000000",
+            "quote_volume": "2.8195559700",
+            "isFrozen": 0
+        },
+        "NAS_BTC": {
+            "base_id": 1908,
+            "quote_id": 1,
+            "last_price": "0.00003040",
+            "base_volume": "53663.6100000000",
+            "quote_volume": "1.5930998680",
+            "isFrozen": 0
+        },
+        "PNT_BTC": {
+            "base_id": 5794,
+            "quote_id": 1,
+            "last_price": "0.00003716",
+            "base_volume": "182074.0000000000",
+            "quote_volume": "6.7311581000",
+            "isFrozen": 0
+        },
+        "GAS_BTC": {
+            "base_id": 1785,
+            "quote_id": 1,
+            "last_price": "0.00013230",
+            "base_volume": "27899.6200000000",
+            "quote_volume": "3.6447112920",
+            "isFrozen": 0
+        },
+        "BEL_BTC": {
+            "base_id": 6928,
+            "quote_id": 1,
+            "last_price": "0.00009830",
+            "base_volume": "234753.0000000000",
+            "quote_volume": "23.1074884300",
+            "isFrozen": 0
+        },
+        "ATOM_BTC": {
+            "base_id": 3794,
+            "quote_id": 1,
+            "last_price": "0.00045560",
+            "base_volume": "186350.4600000000",
+            "quote_volume": "84.5848806650",
+            "isFrozen": 0
+        },
+        "BAND_BTC": {
+            "base_id": 4679,
+            "quote_id": 1,
+            "last_price": "0.00051620",
+            "base_volume": "488208.9000000000",
+            "quote_volume": "244.9825730930",
+            "isFrozen": 0
+        },
+        "BLZ_BTC": {
+            "base_id": 2505,
+            "quote_id": 1,
+            "last_price": "0.00000898",
+            "base_volume": "1277350.0000000000",
+            "quote_volume": "11.0528150200",
+            "isFrozen": 0
+        },
+        "BNT_BTC": {
+            "base_id": 1727,
+            "quote_id": 1,
+            "last_price": "0.00010052",
+            "base_volume": "881844.0000000000",
+            "quote_volume": "89.6346153500",
+            "isFrozen": 0
+        },
+        "XRP_ETH": {
+            "base_id": 52,
+            "quote_id": 1027,
+            "last_price": "0.00072796",
+            "base_volume": "737580.0000000000",
+            "quote_volume": "536.9783298100",
+            "isFrozen": 0
+        },
+        "LTC_ETH": {
+            "base_id": 2,
+            "quote_id": 1027,
+            "last_price": "0.13672000",
+            "base_volume": "1178.7570000000",
+            "quote_volume": "160.1552891600",
+            "isFrozen": 0
+        },
+        "DASH_ETH": {
+            "base_id": 131,
+            "quote_id": 1027,
+            "last_price": "0.19430000",
+            "base_volume": "421.7740000000",
+            "quote_volume": "81.5837747000",
+            "isFrozen": 0
+        },
+        "OMG_ETH": {
+            "base_id": 1808,
+            "quote_id": 1027,
+            "last_price": "0.00947100",
+            "base_volume": "34606.4100000000",
+            "quote_volume": "331.3881480500",
+            "isFrozen": 0
+        },
+        "BAT_ETH": {
+            "base_id": 1697,
+            "quote_id": 1027,
+            "last_price": "0.00062722",
+            "base_volume": "76342.0000000000",
+            "quote_volume": "47.7397089800",
+            "isFrozen": 0
+        },
+        "XLM_ETH": {
+            "base_id": 512,
+            "quote_id": 1027,
+            "last_price": "0.00021161",
+            "base_volume": "587149.0000000000",
+            "quote_volume": "124.6094811600",
+            "isFrozen": 0
+        },
+        "TRX_ETH": {
+            "base_id": 1958,
+            "quote_id": 1027,
+            "last_price": "0.00007467",
+            "base_volume": "25272613.0000000000",
+            "quote_volume": "1886.6460159700",
+            "isFrozen": 0
+        },
+        "ZEC_ETH": {
+            "base_id": 1437,
+            "quote_id": 1027,
+            "last_price": "0.17979000",
+            "base_volume": "564.4470000000",
+            "quote_volume": "101.7566282800",
+            "isFrozen": 0
+        },
+        "GNT_ETH": {
+            "base_id": 1455,
+            "quote_id": 1027,
+            "last_price": "0.00026125",
+            "base_volume": "67081.0000000000",
+            "quote_volume": "17.3762051900",
+            "isFrozen": 0
+        },
+        "MCO_ETH": {
+            "base_id": 1776,
+            "quote_id": 1027,
+            "last_price": "0.01183100",
+            "base_volume": "907.9600000000",
+            "quote_volume": "10.7872645300",
+            "isFrozen": 0
+        },
+        "SOLVE_ETH": {
+            "base_id": 3724,
+            "quote_id": 1027,
+            "last_price": "0.0003101",
+            "base_volume": "40396.1094296000",
+            "quote_volume": "12.5725821878",
+            "isFrozen": 0
+        },
+        "ZRX_ETH": {
+            "base_id": 1896,
+            "quote_id": 1027,
+            "last_price": "0.00103782",
+            "base_volume": "159111.0000000000",
+            "quote_volume": "162.8902295800",
+            "isFrozen": 0
+        },
+        "REP_ETH": {
+            "base_id": 1104,
+            "quote_id": 1027,
+            "last_price": "0.03895000",
+            "base_volume": "2526.3050000000",
+            "quote_volume": "98.2776362400",
+            "isFrozen": 0
+        },
+        "NEO_ETH": {
+            "base_id": 1376,
+            "quote_id": 1027,
+            "last_price": "0.04871100",
+            "base_volume": "5914.9700000000",
+            "quote_volume": "288.9875556300",
+            "isFrozen": 0
+        },
+        "ADA_ETH": {
+            "base_id": 2010,
+            "quote_id": 1027,
+            "last_price": "0.00027361",
+            "base_volume": "1327259.0000000000",
+            "quote_volume": "363.9576612700",
+            "isFrozen": 0
+        },
+        "ETC_ETH": {
+            "base_id": 1321,
+            "quote_id": 1027,
+            "last_price": "0.01543100",
+            "base_volume": "1334.3400000000",
+            "quote_volume": "20.3630999300",
+            "isFrozen": 0
+        },
+        "VIB_ETH": {
+            "base_id": 2019,
+            "quote_id": 1027,
+            "last_price": "0.00004318",
+            "base_volume": "995088.0000000000",
+            "quote_volume": "42.8294413300",
+            "isFrozen": 0
+        },
+        "SC_ETH": {
+            "base_id": 1042,
+            "quote_id": 1027,
+            "last_price": "0.00000781",
+            "base_volume": "2251982.0000000000",
+            "quote_volume": "17.6614165800",
+            "isFrozen": 0
+        },
+        "STMX_ETH": {
+            "base_id": 2297,
+            "quote_id": 1027,
+            "last_price": "0.00000578",
+            "base_volume": "4928671.0000000000",
+            "quote_volume": "28.0870772600",
+            "isFrozen": 0
+        },
+        "XMR_ETH": {
+            "base_id": 1027,
+            "quote_id": 1027,
+            "last_price": "0.32558000",
+            "base_volume": "2023.9200000000",
+            "quote_volume": "645.3936569400",
+            "isFrozen": 0
+        },
+        "LMY_ETH": {
+            "base_id": 4577,
+            "quote_id": 1027,
+            "last_price": "0.0000050200",
+            "base_volume": "6.0000000000",
+            "quote_volume": "0.0000301200",
+            "isFrozen": 0
+        },
+        "DEXG_ETH": {
+            "base_id": 6684,
+            "quote_id": 1027,
+            "last_price": "0.1425000000",
+            "base_volume": "3595.3100000000",
+            "quote_volume": "494.8834963020",
+            "isFrozen": 0
+        },
+        "BNT_ETH": {
+            "base_id": 1727,
+            "quote_id": 1027,
+            "last_price": "0.00316200",
+            "base_volume": "108853.3200000000",
+            "quote_volume": "345.1305312700",
+            "isFrozen": 0
+        },
+        "BTC_USDT": {
+            "base_id": 1,
+            "quote_id": 825,
+            "last_price": "10641.33000000",
+            "base_volume": "12358.7384660000",
+            "quote_volume": "131286680.6138096200",
+            "isFrozen": 0
+        },
+        "ETH_USDT": {
+            "base_id": 1027,
+            "quote_id": 825,
+            "last_price": "339.25000000",
+            "base_volume": "200975.0436600000",
+            "quote_volume": "68303042.3553710000",
+            "isFrozen": 0
+        },
+        "BCH_USDT": {
+            "base_id": 1831,
+            "quote_id": 825,
+            "last_price": "225.37000000",
+            "base_volume": "52701.2142500000",
+            "quote_volume": "11664077.4483691000",
+            "isFrozen": 0
+        },
+        "XRP_USDT": {
+            "base_id": 52,
+            "quote_id": 825,
+            "last_price": "0.24715000",
+            "base_volume": "81878238.5000000000",
+            "quote_volume": "20251009.4329490000",
+            "isFrozen": 0
+        },
+        "LTC_USDT": {
+            "base_id": 2,
+            "quote_id": 825,
+            "last_price": "46.38000000",
+            "base_volume": "85871.4540100000",
+            "quote_volume": "3963680.6064339000",
+            "isFrozen": 0
+        },
+        "DASH_USDT": {
+            "base_id": 131,
+            "quote_id": 825,
+            "last_price": "65.86000000",
+            "base_volume": "15963.5126100000",
+            "quote_volume": "1047775.1092517000",
+            "isFrozen": 0
+        },
+        "OMG_USDT": {
+            "base_id": 1808,
+            "quote_id": 825,
+            "last_price": "3.20640000",
+            "base_volume": "1350925.4900000000",
+            "quote_volume": "4416404.4665560000",
+            "isFrozen": 0
+        },
+        "BAT_USDT": {
+            "base_id": 1697,
+            "quote_id": 825,
+            "last_price": "0.21220000",
+            "base_volume": "2417947.9600000000",
+            "quote_volume": "513232.3351490000",
+            "isFrozen": 0
+        },
+        "NPXS_USDT": {
+            "base_id": 2603,
+            "quote_id": 825,
+            "last_price": "0.00013630",
+            "base_volume": "223522465.0000000000",
+            "quote_volume": "29401.9131032000",
+            "isFrozen": 0
+        },
+        "XLM_USDT": {
+            "base_id": 512,
+            "quote_id": 825,
+            "last_price": "0.07178000",
+            "base_volume": "36460391.3000000000",
+            "quote_volume": "2629021.8838520000",
+            "isFrozen": 0
+        },
+        "TRX_USDT": {
+            "base_id": 1958,
+            "quote_id": 825,
+            "last_price": "0.02534000",
+            "base_volume": "119708423.1000000000",
+            "quote_volume": "3034696.9073960000",
+            "isFrozen": 0
+        },
+        "ZRX_USDT": {
+            "base_id": 1896,
+            "quote_id": 825,
+            "last_price": "0.35080000",
+            "base_volume": "2379862.0200000000",
+            "quote_volume": "826987.2758080000",
+            "isFrozen": 0
+        },
+        "ENJ_USDT": {
+            "base_id": 2130,
+            "quote_id": 825,
+            "last_price": "0.14611000",
+            "base_volume": "2693500.7000000000",
+            "quote_volume": "388105.2782310000",
+            "isFrozen": 0
+        },
+        "TUSD_USDT": {
+            "base_id": 2563,
+            "quote_id": 825,
+            "last_price": "1.00000000",
+            "base_volume": "485047.8600000000",
+            "quote_volume": "485134.7316200000",
+            "isFrozen": 0
+        },
+        "ZEC_USDT": {
+            "base_id": 1437,
+            "quote_id": 825,
+            "last_price": "60.85000000",
+            "base_volume": "62793.7228200000",
+            "quote_volume": "3844253.7131384000",
+            "isFrozen": 0
+        },
+        "EOS_USDT": {
+            "base_id": 1765,
+            "quote_id": 825,
+            "last_price": "2.63550000",
+            "base_volume": "8437482.6900000000",
+            "quote_volume": "22368784.0574820000",
+            "isFrozen": 0
+        },
+        "ANX_USDT": {
+            "base_id": 0,
+            "quote_id": 825,
+            "last_price": "0.0042238000",
+            "base_volume": "1072846.0000000000",
+            "quote_volume": "3849.7009095400",
+            "isFrozen": 0
+        },
+        "UQC_USDT": {
+            "base_id": 2273,
+            "quote_id": 825,
+            "last_price": "4.134",
+            "base_volume": "95996.6000000000",
+            "quote_volume": "416778.9179000000",
+            "isFrozen": 0
+        },
+        "ADA_USDT": {
+            "base_id": 2010,
+            "quote_id": 825,
+            "last_price": "0.09296000",
+            "base_volume": "69474219.3000000000",
+            "quote_volume": "6465997.0387930000",
+            "isFrozen": 0
+        },
+        "NEO_USDT": {
+            "base_id": 1376,
+            "quote_id": 825,
+            "last_price": "16.51200000",
+            "base_volume": "296278.2840000000",
+            "quote_volume": "4915239.3901790000",
+            "isFrozen": 0
+        },
+        "XMR_USDT": {
+            "base_id": 328,
+            "quote_id": 825,
+            "last_price": "110.43000000",
+            "base_volume": "95666.8572100000",
+            "quote_volume": "10411250.1468230000",
+            "isFrozen": 0
+        },
+        "DGB_USDT": {
+            "base_id": 109,
+            "quote_id": 825,
+            "last_price": "0.02375000",
+            "base_volume": "8282327.8000000000",
+            "quote_volume": "198081.9433820000",
+            "isFrozen": 0
+        },
+        "SC_USDT": {
+            "base_id": 1042,
+            "quote_id": 825,
+            "last_price": "0.00266000",
+            "base_volume": "17264100.0000000000",
+            "quote_volume": "45882.3747580000",
+            "isFrozen": 0
+        },
+        "ETC_USDT": {
+            "base_id": 1321,
+            "quote_id": 825,
+            "last_price": "5.22210000",
+            "base_volume": "772407.6700000000",
+            "quote_volume": "4016062.2926610000",
+            "isFrozen": 0
+        },
+        "XTZ_USDT": {
+            "base_id": 2011,
+            "quote_id": 825,
+            "last_price": "2.05800000",
+            "base_volume": "2175366.2900000000",
+            "quote_volume": "4544736.5176390000",
+            "isFrozen": 0
+        },
+        "OCEAN_USDT": {
+            "base_id": 3911,
+            "quote_id": 825,
+            "last_price": "0.31490000",
+            "base_volume": "3763459.1100000000",
+            "quote_volume": "1071761.0685540000",
+            "isFrozen": 0
+        },
+        "RVN_USDT": {
+            "base_id": 2577,
+            "quote_id": 825,
+            "last_price": "0.01292000",
+            "base_volume": "11239166.7000000000",
+            "quote_volume": "141275.3793620000",
+            "isFrozen": 0
+        },
+        "VET_USDT": {
+            "base_id": 3077,
+            "quote_id": 825,
+            "last_price": "0.01093800",
+            "base_volume": "1161685941.0000000000",
+            "quote_volume": "12446788.1191050000",
+            "isFrozen": 0
+        },
+        "DOGE_USDT": {
+            "base_id": 74,
+            "quote_id": 825,
+            "last_price": "0.00258440",
+            "base_volume": "408960529.0000000000",
+            "quote_volume": "1059227.5268293000",
+            "isFrozen": 0
+        },
+        "HBAR_USDT": {
+            "base_id": 4642,
+            "quote_id": 825,
+            "last_price": "0.03230000",
+            "base_volume": "7469455.8000000000",
+            "quote_volume": "232365.8288070000",
+            "isFrozen": 0
+        },
+        "BNB_USDT": {
+            "base_id": 1839,
+            "quote_id": 825,
+            "last_price": "27.40480000",
+            "base_volume": "1402611.0910000000",
+            "quote_volume": "38504846.8060208000",
+            "isFrozen": 0
+        },
+        "BUSD_USDT": {
+            "base_id": 4687,
+            "quote_id": 825,
+            "last_price": "1.00000000",
+            "base_volume": "12098264.6600000000",
+            "quote_volume": "12098868.8994360000",
+            "isFrozen": 0
+        },
+        "P2PG_USDT": {
+            "base_id": 0,
+            "quote_id": 825,
+            "last_price": "0.2498",
+            "base_volume": "490905.7800000000",
+            "quote_volume": "122981.1120790000",
+            "isFrozen": 0
+        },
+        "LINK_USDT": {
+            "base_id": 1975,
+            "quote_id": 825,
+            "last_price": "8.78170000",
+            "base_volume": "4235896.7700000000",
+            "quote_volume": "37323820.5892680000",
+            "isFrozen": 0
+        },
+        "FLM_USDT": {
+            "base_id": 0,
+            "quote_id": 825,
+            "last_price": "0.26430000",
+            "base_volume": "9869200.2200000000",
+            "quote_volume": "2619590.6079210000",
+            "isFrozen": 0
+        },
+        "AVAX_USDT": {
+            "base_id": 5805,
+            "quote_id": 825,
+            "last_price": "3.46740000",
+            "base_volume": "538485.2500000000",
+            "quote_volume": "1808889.0423420000",
+            "isFrozen": 0
+        },
+        "YFI_USDT": {
+            "base_id": 5864,
+            "quote_id": 825,
+            "last_price": "14052.27000000",
+            "base_volume": "2647.2470870000",
+            "quote_volume": "39294209.5595166700",
+            "isFrozen": 0
+        },
+        "SXP_USDT": {
+            "base_id": 4279,
+            "quote_id": 825,
+            "last_price": "1.17300000",
+            "base_volume": "2714182.7660000000",
+            "quote_volume": "3116885.9299360000",
+            "isFrozen": 0
+        },
+        "SNX_USDT": {
+            "base_id": 2586,
+            "quote_id": 825,
+            "last_price": "3.81500000",
+            "base_volume": "412433.9460000000",
+            "quote_volume": "1545662.1003770000",
+            "isFrozen": 0
+        },
+        "SRM_USDT": {
+            "base_id": 6187,
+            "quote_id": 825,
+            "last_price": "1.20190000",
+            "base_volume": "3362460.7000000000",
+            "quote_volume": "4193754.9295560000",
+            "isFrozen": 0
+        },
+        "OGN_USDT": {
+            "base_id": 5117,
+            "quote_id": 825,
+            "last_price": "0.17010000",
+            "base_volume": "1090320.1600000000",
+            "quote_volume": "182228.5246690000",
+            "isFrozen": 0
+        },
+        "BAL_USDT": {
+            "base_id": 5728,
+            "quote_id": 825,
+            "last_price": "14.05400000",
+            "base_volume": "150674.8560000000",
+            "quote_volume": "2083288.1980610000",
+            "isFrozen": 0
+        },
+        "KAVA_USDT": {
+            "base_id": 4846,
+            "quote_id": 825,
+            "last_price": "1.86880000",
+            "base_volume": "895251.2800000000",
+            "quote_volume": "1624146.6254520000",
+            "isFrozen": 0
+        },
+        "SAND_USDT": {
+            "base_id": 6210,
+            "quote_id": 825,
+            "last_price": "0.04500400",
+            "base_volume": "9291654.0000000000",
+            "quote_volume": "412173.2825720000",
+            "isFrozen": 0
+        },
+        "COMP_USDT": {
+            "base_id": 5692,
+            "quote_id": 825,
+            "last_price": "107.57000000",
+            "base_volume": "35592.7574700000",
+            "quote_volume": "3770947.7389445000",
+            "isFrozen": 0
+        },
+        "JST_USDT": {
+            "base_id": 5488,
+            "quote_id": 825,
+            "last_price": "0.02756000",
+            "base_volume": "17585896.3000000000",
+            "quote_volume": "481809.2011430000",
+            "isFrozen": 0
+        },
+        "UNI_USDT": {
+            "base_id": 7083,
+            "quote_id": 825,
+            "last_price": "2.86000000",
+            "base_volume": "11132931.0700000000",
+            "quote_volume": "30714268.5514970000",
+            "isFrozen": 0
+        },
+        "SOL_USDT": {
+            "base_id": 5426,
+            "quote_id": 825,
+            "last_price": "2.24380000",
+            "base_volume": "1022236.2700000000",
+            "quote_volume": "2327500.5474870000",
+            "isFrozen": 0
+        },
+        "DOT_USDT": {
+            "base_id": 6636,
+            "quote_id": 825,
+            "last_price": "3.82120000",
+            "base_volume": "4187962.7800000000",
+            "quote_volume": "15870905.3410860000",
+            "isFrozen": 0
+        },
+        "RUNE_USDT": {
+            "base_id": 4157,
+            "quote_id": 825,
+            "last_price": "0.44030000",
+            "base_volume": "2585496.1300000000",
+            "quote_volume": "1071817.7498250000",
+            "isFrozen": 0
+        },
+        "MKR_USDT": {
+            "base_id": 1518,
+            "quote_id": 825,
+            "last_price": "512.66000000",
+            "base_volume": "4748.9131100000",
+            "quote_volume": "2461526.2262814000",
+            "isFrozen": 0
+        },
+        "STX_USDT": {
+            "base_id": 4847,
+            "quote_id": 825,
+            "last_price": "0.14950000",
+            "base_volume": "381467.3700000000",
+            "quote_volume": "55256.5754250000",
+            "isFrozen": 0
+        },
+        "SUSHI_USDT": {
+            "base_id": 6758,
+            "quote_id": 825,
+            "last_price": "0.64100000",
+            "base_volume": "5427179.9680000000",
+            "quote_volume": "3346887.5624360000",
+            "isFrozen": 0
+        },
+        "YFII_USDT": {
+            "base_id": 5957,
+            "quote_id": 825,
+            "last_price": "1333.68000000",
+            "base_volume": "10567.7589400000",
+            "quote_volume": "14139517.8359100800",
+            "isFrozen": 0
+        },
+        "HNT_USDT": {
+            "base_id": 5665,
+            "quote_id": 825,
+            "last_price": "1.14300000",
+            "base_volume": "567981.5670000000",
+            "quote_volume": "663254.0120600000",
+            "isFrozen": 0
+        },
+        "BZRX_USDT": {
+            "base_id": 5810,
+            "quote_id": 825,
+            "last_price": "0.11320000",
+            "base_volume": "7270108.1500000000",
+            "quote_volume": "808902.7556150000",
+            "isFrozen": 0
+        },
+        "WING_USDT": {
+            "base_id": 7048,
+            "quote_id": 825,
+            "last_price": "18.78100000",
+            "base_volume": "79977.5190000000",
+            "quote_volume": "1579962.7501410000",
+            "isFrozen": 0
+        },
+        "COTI_USDT": {
+            "base_id": 3992,
+            "quote_id": 825,
+            "last_price": "0.02994000",
+            "base_volume": "50407823.9000000000",
+            "quote_volume": "1505462.2037750000",
+            "isFrozen": 0
+        },
+        "TRB_USDT": {
+            "base_id": 4944,
+            "quote_id": 825,
+            "last_price": "15.83000000",
+            "base_volume": "149429.8550000000",
+            "quote_volume": "2245377.5306270000",
+            "isFrozen": 0
+        },
+        "EGLD_USDT": {
+            "base_id": 6892,
+            "quote_id": 825,
+            "last_price": "7.53400000",
+            "base_volume": "213312.9720000000",
+            "quote_volume": "1526351.7170490000",
+            "isFrozen": 0
+        },
+        "DIA_USDT": {
+            "base_id": 6138,
+            "quote_id": 825,
+            "last_price": "1.06800000",
+            "base_volume": "885451.7150000000",
+            "quote_volume": "930214.1196930000",
+            "isFrozen": 0
+        },
+        "ANT_USDT": {
+            "base_id": 1680,
+            "quote_id": 825,
+            "last_price": "3.27720000",
+            "base_volume": "90647.6900000000",
+            "quote_volume": "298032.8417860000",
+            "isFrozen": 0
+        },
+        "WNXM_USDT": {
+            "base_id": 0,
+            "quote_id": 825,
+            "last_price": "28.71200000",
+            "base_volume": "10644.0330000000",
+            "quote_volume": "301800.7903690000",
+            "isFrozen": 0
+        },
+        "LUNA_USDT": {
+            "base_id": 4172,
+            "quote_id": 825,
+            "last_price": "0.30340000",
+            "base_volume": "293896.8000000000",
+            "quote_volume": "86861.5846650000",
+            "isFrozen": 0
+        },
+        "IRIS_USDT": {
+            "base_id": 3874,
+            "quote_id": 825,
+            "last_price": "0.05588000",
+            "base_volume": "976489.0000000000",
+            "quote_volume": "53759.6832880000",
+            "isFrozen": 0
+        },
+        "NMR_USDT": {
+            "base_id": 1732,
+            "quote_id": 825,
+            "last_price": "27.18600000",
+            "base_volume": "3619.0160000000",
+            "quote_volume": "98361.1596720000",
+            "isFrozen": 0
+        },
+        "SUN_USDT": {
+            "base_id": 6990,
+            "quote_id": 825,
+            "last_price": "14.46900000",
+            "base_volume": "15974.4450000000",
+            "quote_volume": "233629.4193490000",
+            "isFrozen": 0
+        },
+        "WIN_USDT": {
+            "base_id": 4206,
+            "quote_id": 825,
+            "last_price": "0.00007940",
+            "base_volume": "3389471298.0000000000",
+            "quote_volume": "269801.0153624000",
+            "isFrozen": 0
+        },
+        "OXT_USDT": {
+            "base_id": 5026,
+            "quote_id": 825,
+            "last_price": "0.25200000",
+            "base_volume": "1020894.6000000000",
+            "quote_volume": "251446.2676850000",
+            "isFrozen": 0
+        },
+        "DREP_USDT": {
+            "base_id": 3924,
+            "quote_id": 825,
+            "last_price": "0.00350800",
+            "base_volume": "26550140.0000000000",
+            "quote_volume": "93073.5262670000",
+            "isFrozen": 0
+        },
+        "PNT_USDT": {
+            "base_id": 5794,
+            "quote_id": 825,
+            "last_price": "0.39470000",
+            "base_volume": "151234.3100000000",
+            "quote_volume": "58903.4588400000",
+            "isFrozen": 0
+        },
+        "PAX_USDT": {
+            "base_id": 3330,
+            "quote_id": 825,
+            "last_price": "1.00000000",
+            "base_volume": "374062.2500000000",
+            "quote_volume": "374060.6321740000",
+            "isFrozen": 0
+        },
+        "BEL_USDT": {
+            "base_id": 6928,
+            "quote_id": 825,
+            "last_price": "1.04610000",
+            "base_volume": "556499.5400000000",
+            "quote_volume": "582916.2059360000",
+            "isFrozen": 0
+        },
+        "ATOM_USDT": {
+            "base_id": 3794,
+            "quote_id": 825,
+            "last_price": "4.83800000",
+            "base_volume": "798182.7780000000",
+            "quote_volume": "3854882.5382610000",
+            "isFrozen": 0
+        },
+        "BAND_USDT": {
+            "base_id": 4679,
+            "quote_id": 825,
+            "last_price": "5.48290000",
+            "base_volume": "1596410.8800000000",
+            "quote_volume": "8509383.3946510000",
+            "isFrozen": 0
+        },
+        "BLZ_USDT": {
+            "base_id": 2505,
+            "quote_id": 825,
+            "last_price": "0.09564000",
+            "base_volume": "3293630.4000000000",
+            "quote_volume": "300327.3967950000",
+            "isFrozen": 0
+        },
+        "BNT_USDT": {
+            "base_id": 1727,
+            "quote_id": 825,
+            "last_price": "1.06730000",
+            "base_volume": "853661.7200000000",
+            "quote_volume": "916868.7163690000",
+            "isFrozen": 0
+        },
+        "BTT_USDT": {
+            "base_id": 3718,
+            "quote_id": 825,
+            "last_price": "0.00031850",
+            "base_volume": "16997276816.0000000000",
+            "quote_volume": "5361475.2856299000",
+            "isFrozen": 0
+        }
+    }
+}

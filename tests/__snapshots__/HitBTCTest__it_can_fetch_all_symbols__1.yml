@@ -1,0 +1,5562 @@
+-
+    symbol: BCNBTC
+    source: BCN
+    sourceId: BCN
+    target: BTC
+    targetId: BTC
+-
+    symbol: IOSTBTC
+    source: IOST
+    sourceId: IOST
+    target: BTC
+    targetId: BTC
+-
+    symbol: INKETH
+    source: INK
+    sourceId: INK
+    target: ETH
+    targetId: ETH
+-
+    symbol: ADXNBTC
+    source: ADXN
+    sourceId: ADXN
+    target: BTC
+    targetId: BTC
+-
+    symbol: BTCUSD
+    source: BTC
+    sourceId: BTC
+    target: USD
+    targetId: USD
+-
+    symbol: DASHBTC
+    source: DASH
+    sourceId: DASH
+    target: BTC
+    targetId: BTC
+-
+    symbol: INKUSD
+    source: INK
+    sourceId: INK
+    target: USD
+    targetId: USD
+-
+    symbol: ADXNETH
+    source: ADXN
+    sourceId: ADXN
+    target: ETH
+    targetId: ETH
+-
+    symbol: DOGEBTC
+    source: DOGE
+    sourceId: DOGE
+    target: BTC
+    targetId: BTC
+-
+    symbol: SPCETH
+    source: SPC
+    sourceId: SPC
+    target: ETH
+    targetId: ETH
+-
+    symbol: SPCUSD
+    source: SPC
+    sourceId: SPC
+    target: USD
+    targetId: USD
+-
+    symbol: ADXNUSD
+    source: ADXN
+    sourceId: ADXN
+    target: USD
+    targetId: USD
+-
+    symbol: DOGEUSD
+    source: DOGE
+    sourceId: DOGE
+    target: USD
+    targetId: USD
+-
+    symbol: CBCBTC
+    source: CBC
+    sourceId: CBC
+    target: BTC
+    targetId: BTC
+-
+    symbol: EMCBTC
+    source: EMC
+    sourceId: EMC
+    target: BTC
+    targetId: BTC
+-
+    symbol: BESTBTC
+    source: BEST
+    sourceId: BEST
+    target: BTC
+    targetId: BTC
+-
+    symbol: ETHBTC
+    source: ETH
+    sourceId: ETH
+    target: BTC
+    targetId: BTC
+-
+    symbol: IOSTUSD
+    source: IOST
+    sourceId: IOST
+    target: USD
+    targetId: USD
+-
+    symbol: SNXBTC
+    source: SNX
+    sourceId: SNX
+    target: BTC
+    targetId: BTC
+-
+    symbol: ZILBTC
+    source: ZIL
+    sourceId: ZIL
+    target: BTC
+    targetId: BTC
+-
+    symbol: SNXUSD
+    source: SNX
+    sourceId: SNX
+    target: USD
+    targetId: USD
+-
+    symbol: LSKBTC
+    source: LSK
+    sourceId: LSK
+    target: BTC
+    targetId: BTC
+-
+    symbol: LTCBTC
+    source: LTC
+    sourceId: LTC
+    target: BTC
+    targetId: BTC
+-
+    symbol: LTCUSD
+    source: LTC
+    sourceId: LTC
+    target: USD
+    targetId: USD
+-
+    symbol: NXTBTC
+    source: NXT
+    sourceId: NXT
+    target: BTC
+    targetId: BTC
+-
+    symbol: PLTCBTC
+    source: PLTC
+    sourceId: PLTC
+    target: BTC
+    targetId: BTC
+-
+    symbol: SBDBTC
+    source: SBD
+    sourceId: SBD
+    target: BTC
+    targetId: BTC
+-
+    symbol: ABYSSBTC
+    source: ABYSS
+    sourceId: ABYSS
+    target: BTC
+    targetId: BTC
+-
+    symbol: DDRTBTC
+    source: DDRT
+    sourceId: DDRT
+    target: BTC
+    targetId: BTC
+-
+    symbol: SCBTC
+    source: SC
+    sourceId: SC
+    target: BTC
+    targetId: BTC
+-
+    symbol: ABYSSETH
+    source: ABYSS
+    sourceId: ABYSS
+    target: ETH
+    targetId: ETH
+-
+    symbol: STEEMBTC
+    source: STEEM
+    sourceId: STEEM
+    target: BTC
+    targetId: BTC
+-
+    symbol: DDRTUSD
+    source: DDRT
+    sourceId: DDRT
+    target: USD
+    targetId: USD
+-
+    symbol: ZILUSD
+    source: ZIL
+    sourceId: ZIL
+    target: USD
+    targetId: USD
+-
+    symbol: XDNBTC
+    source: XDN
+    sourceId: XDN
+    target: BTC
+    targetId: BTC
+-
+    symbol: XEMBTC
+    source: XEM
+    sourceId: XEM
+    target: BTC
+    targetId: BTC
+-
+    symbol: CBCETH
+    source: CBC
+    sourceId: CBC
+    target: ETH
+    targetId: ETH
+-
+    symbol: XMRBTC
+    source: XMR
+    sourceId: XMR
+    target: BTC
+    targetId: BTC
+-
+    symbol: CBCUSD
+    source: CBC
+    sourceId: CBC
+    target: USD
+    targetId: USD
+-
+    symbol: PITCHBTC
+    source: PITCH
+    sourceId: PITCH
+    target: BTC
+    targetId: BTC
+-
+    symbol: ARDRBTC
+    source: ARDR
+    sourceId: ARDR
+    target: BTC
+    targetId: BTC
+-
+    symbol: PITCHETH
+    source: PITCH
+    sourceId: PITCH
+    target: ETH
+    targetId: ETH
+-
+    symbol: ZECBTC
+    source: ZEC
+    sourceId: ZEC
+    target: BTC
+    targetId: BTC
+-
+    symbol: WAVESBTC
+    source: WAVES
+    sourceId: WAVES
+    target: BTC
+    targetId: BTC
+-
+    symbol: HTMLUSD
+    source: HTML
+    sourceId: HTML
+    target: USD
+    targetId: USD
+-
+    symbol: MAIDBTC
+    source: MAID
+    sourceId: MAID
+    target: BTC
+    targetId: BTC
+-
+    symbol: SBDETH
+    source: SBD
+    sourceId: SBD
+    target: ETH
+    targetId: ETH
+-
+    symbol: SBDUSD
+    source: SBD
+    sourceId: SBD
+    target: USD
+    targetId: USD
+-
+    symbol: DGDBTC
+    source: DGD
+    sourceId: DGD
+    target: BTC
+    targetId: BTC
+-
+    symbol: UUUBTC
+    source: UUU
+    sourceId: UUU
+    target: BTC
+    targetId: BTC
+-
+    symbol: UUUETH
+    source: UUU
+    sourceId: UUU
+    target: ETH
+    targetId: ETH
+-
+    symbol: SNGLSBTC
+    source: SNGLS
+    sourceId: SNGLS
+    target: BTC
+    targetId: BTC
+-
+    symbol: 1STBTC
+    source: 1ST
+    sourceId: 1ST
+    target: BTC
+    targetId: BTC
+-
+    symbol: XBPBTC
+    source: XBP
+    sourceId: XBP
+    target: BTC
+    targetId: BTC
+-
+    symbol: TRSTBTC
+    source: TRST
+    sourceId: TRST
+    target: BTC
+    targetId: BTC
+-
+    symbol: TIMEBTC
+    source: TIME
+    sourceId: TIME
+    target: BTC
+    targetId: BTC
+-
+    symbol: GNOBTC
+    source: GNO
+    sourceId: GNO
+    target: BTC
+    targetId: BTC
+-
+    symbol: REPBTC
+    source: REP
+    sourceId: REP
+    target: BTC
+    targetId: BTC
+-
+    symbol: XMRUSD
+    source: XMR
+    sourceId: XMR
+    target: USD
+    targetId: USD
+-
+    symbol: DASHUSD
+    source: DASH
+    sourceId: DASH
+    target: USD
+    targetId: USD
+-
+    symbol: ETHUSD
+    source: ETH
+    sourceId: ETH
+    target: USD
+    targetId: USD
+-
+    symbol: NXTUSD
+    source: NXT
+    sourceId: NXT
+    target: USD
+    targetId: USD
+-
+    symbol: ZRCBTC
+    source: ZRC
+    sourceId: ZRC
+    target: BTC
+    targetId: BTC
+-
+    symbol: BOSBTC
+    source: BOS
+    sourceId: BOS
+    target: BTC
+    targetId: BTC
+-
+    symbol: DCTBTC
+    source: DCT
+    sourceId: DCT
+    target: BTC
+    targetId: BTC
+-
+    symbol: ANTBTC
+    source: ANT
+    sourceId: ANT
+    target: BTC
+    targetId: BTC
+-
+    symbol: AEONBTC
+    source: AEON
+    sourceId: AEON
+    target: BTC
+    targetId: BTC
+-
+    symbol: PLUBTC
+    source: PLU
+    sourceId: PLU
+    target: BTC
+    targetId: BTC
+-
+    symbol: LUNBTC
+    source: LUN
+    sourceId: LUN
+    target: BTC
+    targetId: BTC
+-
+    symbol: EDGBTC
+    source: EDG
+    sourceId: EDG
+    target: BTC
+    targetId: BTC
+-
+    symbol: ELECBTC
+    source: ELEC
+    sourceId: ELEC
+    target: BTC
+    targetId: BTC
+-
+    symbol: MLNBTC
+    source: MLN
+    sourceId: MLN
+    target: BTC
+    targetId: BTC
+-
+    symbol: RLCBTC
+    source: RLC
+    sourceId: RLC
+    target: BTC
+    targetId: BTC
+-
+    symbol: ELECETH
+    source: ELEC
+    sourceId: ELEC
+    target: ETH
+    targetId: ETH
+-
+    symbol: ELECUSD
+    source: ELEC
+    sourceId: ELEC
+    target: USD
+    targetId: USD
+-
+    symbol: SWTBTC
+    source: SWT
+    sourceId: SWT
+    target: BTC
+    targetId: BTC
+-
+    symbol: TKNBTC
+    source: TKN
+    sourceId: TKN
+    target: BTC
+    targetId: BTC
+-
+    symbol: WINGSBTC
+    source: WINGS
+    sourceId: WINGS
+    target: BTC
+    targetId: BTC
+-
+    symbol: XAURBTC
+    source: XAUR
+    sourceId: XAUR
+    target: BTC
+    targetId: BTC
+-
+    symbol: NLC2BTC
+    source: NLC2
+    sourceId: NLC2
+    target: BTC
+    targetId: BTC
+-
+    symbol: AEBTC
+    source: AE
+    sourceId: AE
+    target: BTC
+    targetId: BTC
+-
+    symbol: IPLETH
+    source: IPL
+    sourceId: IPL
+    target: ETH
+    targetId: ETH
+-
+    symbol: PTOYBTC
+    source: PTOY
+    sourceId: PTOY
+    target: BTC
+    targetId: BTC
+-
+    symbol: IPLUSD
+    source: IPL
+    sourceId: IPL
+    target: USD
+    targetId: USD
+-
+    symbol: ZECUSD
+    source: ZEC
+    sourceId: ZEC
+    target: USD
+    targetId: USD
+-
+    symbol: CENNZBTC
+    source: CENNZ
+    sourceId: CENNZ
+    target: BTC
+    targetId: BTC
+-
+    symbol: XEMUSD
+    source: XEM
+    sourceId: XEM
+    target: USD
+    targetId: USD
+-
+    symbol: CENNZETH
+    source: CENNZ
+    sourceId: CENNZ
+    target: ETH
+    targetId: ETH
+-
+    symbol: BCNUSD
+    source: BCN
+    sourceId: BCN
+    target: USD
+    targetId: USD
+-
+    symbol: SWMBTC
+    source: SWM
+    sourceId: SWM
+    target: BTC
+    targetId: BTC
+-
+    symbol: XDNUSD
+    source: XDN
+    sourceId: XDN
+    target: USD
+    targetId: USD
+-
+    symbol: CLOBTC
+    source: CLO
+    sourceId: CLO
+    target: BTC
+    targetId: BTC
+-
+    symbol: MAIDUSD
+    source: MAID
+    sourceId: MAID
+    target: USD
+    targetId: USD
+-
+    symbol: ETCBTC
+    source: ETC
+    sourceId: ETC
+    target: BTC
+    targetId: BTC
+-
+    symbol: ETCUSD
+    source: ETC
+    sourceId: ETC
+    target: USD
+    targetId: USD
+-
+    symbol: LCCBTC
+    source: LCC
+    sourceId: LCC
+    target: BTC
+    targetId: BTC
+-
+    symbol: HGTBTC
+    source: HGT
+    sourceId: HGT
+    target: BTC
+    targetId: BTC
+-
+    symbol: BTCDAI
+    source: BTC
+    sourceId: BTC
+    target: DAI
+    targetId: DAI
+-
+    symbol: PLBTBTC
+    source: PLBT
+    sourceId: PLBT
+    target: BTC
+    targetId: BTC
+-
+    symbol: BNTBTC
+    source: BNT
+    sourceId: BNT
+    target: BTC
+    targetId: BTC
+-
+    symbol: ETHDAI
+    source: ETH
+    sourceId: ETH
+    target: DAI
+    targetId: DAI
+-
+    symbol: MKRDAI
+    source: MKR
+    sourceId: MKR
+    target: DAI
+    targetId: DAI
+-
+    symbol: EOSDAI
+    source: EOS
+    sourceId: EOS
+    target: DAI
+    targetId: DAI
+-
+    symbol: USDDAI
+    source: USD
+    sourceId: USD
+    target: DAI
+    targetId: DAI
+-
+    symbol: SNTETH
+    source: SNT
+    sourceId: SNT
+    target: ETH
+    targetId: ETH
+-
+    symbol: ETHTUSD
+    source: ETH
+    sourceId: ETH
+    target: TUSD
+    targetId: TUSD
+-
+    symbol: BTCTUSD
+    source: BTC
+    sourceId: BTC
+    target: TUSD
+    targetId: TUSD
+-
+    symbol: CVCBTC
+    source: CVC
+    sourceId: CVC
+    target: BTC
+    targetId: BTC
+-
+    symbol: LTCTUSD
+    source: LTC
+    sourceId: LTC
+    target: TUSD
+    targetId: TUSD
+-
+    symbol: CVCUSD
+    source: CVC
+    sourceId: CVC
+    target: USD
+    targetId: USD
+-
+    symbol: PAYETH
+    source: PAY
+    sourceId: PAY
+    target: ETH
+    targetId: ETH
+-
+    symbol: XMRTUSD
+    source: XMR
+    sourceId: XMR
+    target: TUSD
+    targetId: TUSD
+-
+    symbol: OAXETH
+    source: OAX
+    sourceId: OAX
+    target: ETH
+    targetId: ETH
+-
+    symbol: OMGETH
+    source: OMG
+    sourceId: OMG
+    target: ETH
+    targetId: ETH
+-
+    symbol: ZRXTUSD
+    source: ZRX
+    sourceId: ZRX
+    target: TUSD
+    targetId: TUSD
+-
+    symbol: BQXETH
+    source: BQX
+    sourceId: BQX
+    target: ETH
+    targetId: ETH
+-
+    symbol: NEOTUSD
+    source: NEO
+    sourceId: NEO
+    target: TUSD
+    targetId: TUSD
+-
+    symbol: XTZBTC
+    source: XTZ
+    sourceId: XTZ
+    target: BTC
+    targetId: BTC
+-
+    symbol: DICEBTC
+    source: DICE
+    sourceId: DICE
+    target: BTC
+    targetId: BTC
+-
+    symbol: USDTUSD
+    source: USD
+    sourceId: USD
+    target: TUSD
+    targetId: TUSD
+-
+    symbol: PTOYETH
+    source: PTOY
+    sourceId: PTOY
+    target: ETH
+    targetId: ETH
+-
+    symbol: 1STETH
+    source: 1ST
+    sourceId: 1ST
+    target: ETH
+    targetId: ETH
+-
+    symbol: MKRBTC
+    source: MKR
+    sourceId: MKR
+    target: BTC
+    targetId: BTC
+-
+    symbol: XAURETH
+    source: XAUR
+    sourceId: XAUR
+    target: ETH
+    targetId: ETH
+-
+    symbol: MKRETH
+    source: MKR
+    sourceId: MKR
+    target: ETH
+    targetId: ETH
+-
+    symbol: MKRUSD
+    source: MKR
+    sourceId: MKR
+    target: USD
+    targetId: USD
+-
+    symbol: TIMEETH
+    source: TIME
+    sourceId: TIME
+    target: ETH
+    targetId: ETH
+-
+    symbol: TUSDDAI
+    source: TUSD
+    sourceId: TUSD
+    target: DAI
+    targetId: DAI
+-
+    symbol: DICEETH
+    source: DICE
+    sourceId: DICE
+    target: ETH
+    targetId: ETH
+-
+    symbol: SWTETH
+    source: SWT
+    sourceId: SWT
+    target: ETH
+    targetId: ETH
+-
+    symbol: NEODAI
+    source: NEO
+    sourceId: NEO
+    target: DAI
+    targetId: DAI
+-
+    symbol: XMRETH
+    source: XMR
+    sourceId: XMR
+    target: ETH
+    targetId: ETH
+-
+    symbol: LTCDAI
+    source: LTC
+    sourceId: LTC
+    target: DAI
+    targetId: DAI
+-
+    symbol: ETCETH
+    source: ETC
+    sourceId: ETC
+    target: ETH
+    targetId: ETH
+-
+    symbol: DASHETH
+    source: DASH
+    sourceId: DASH
+    target: ETH
+    targetId: ETH
+-
+    symbol: XMRDAI
+    source: XMR
+    sourceId: XMR
+    target: DAI
+    targetId: DAI
+-
+    symbol: ZECETH
+    source: ZEC
+    sourceId: ZEC
+    target: ETH
+    targetId: ETH
+-
+    symbol: PLUETH
+    source: PLU
+    sourceId: PLU
+    target: ETH
+    targetId: ETH
+-
+    symbol: GNOETH
+    source: GNO
+    sourceId: GNO
+    target: ETH
+    targetId: ETH
+-
+    symbol: XRPDAI
+    source: XRP
+    sourceId: XRP
+    target: DAI
+    targetId: DAI
+-
+    symbol: XRPBTC
+    source: XRP
+    sourceId: XRP
+    target: BTC
+    targetId: BTC
+-
+    symbol: NEXOETH
+    source: NEXO
+    sourceId: NEXO
+    target: ETH
+    targetId: ETH
+-
+    symbol: NEXOUSD
+    source: NEXO
+    sourceId: NEXO
+    target: USD
+    targetId: USD
+-
+    symbol: STRATUSD
+    source: STRAT
+    sourceId: STRAT
+    target: USD
+    targetId: USD
+-
+    symbol: STRATBTC
+    source: STRAT
+    sourceId: STRAT
+    target: BTC
+    targetId: BTC
+-
+    symbol: SNCETH
+    source: SNC
+    sourceId: SNC
+    target: ETH
+    targetId: ETH
+-
+    symbol: BETETH
+    source: BET
+    sourceId: BET
+    target: ETH
+    targetId: ETH
+-
+    symbol: APPCBTC
+    source: APPC
+    sourceId: APPC
+    target: BTC
+    targetId: BTC
+-
+    symbol: EOSETH
+    source: EOS
+    sourceId: EOS
+    target: ETH
+    targetId: ETH
+-
+    symbol: APPCETH
+    source: APPC
+    sourceId: APPC
+    target: ETH
+    targetId: ETH
+-
+    symbol: DENTETH
+    source: DENT
+    sourceId: DENT
+    target: ETH
+    targetId: ETH
+-
+    symbol: APPCUSD
+    source: APPC
+    sourceId: APPC
+    target: USD
+    targetId: USD
+-
+    symbol: BITETH
+    source: BIT
+    sourceId: BIT
+    target: ETH
+    targetId: ETH
+-
+    symbol: SANETH
+    source: SAN
+    sourceId: SAN
+    target: ETH
+    targetId: ETH
+-
+    symbol: DASHEURS
+    source: DASH
+    sourceId: DASH
+    target: EURS
+    targetId: EURS
+-
+    symbol: EOSBTC
+    source: EOS
+    sourceId: EOS
+    target: BTC
+    targetId: BTC
+-
+    symbol: ZECEURS
+    source: ZEC
+    sourceId: ZEC
+    target: EURS
+    targetId: EURS
+-
+    symbol: EOSUSD
+    source: EOS
+    sourceId: EOS
+    target: USD
+    targetId: USD
+-
+    symbol: BTCEURS
+    source: BTC
+    sourceId: BTC
+    target: EURS
+    targetId: EURS
+-
+    symbol: EOSEURS
+    source: EOS
+    sourceId: EOS
+    target: EURS
+    targetId: EURS
+-
+    symbol: ETHEURS
+    source: ETH
+    sourceId: ETH
+    target: EURS
+    targetId: EURS
+-
+    symbol: XTZETH
+    source: XTZ
+    sourceId: XTZ
+    target: ETH
+    targetId: ETH
+-
+    symbol: LTCEURS
+    source: LTC
+    sourceId: LTC
+    target: EURS
+    targetId: EURS
+-
+    symbol: XTZUSD
+    source: XTZ
+    sourceId: XTZ
+    target: USD
+    targetId: USD
+-
+    symbol: NEOEURS
+    source: NEO
+    sourceId: NEO
+    target: EURS
+    targetId: EURS
+-
+    symbol: SURETH
+    source: SUR
+    sourceId: SUR
+    target: ETH
+    targetId: ETH
+-
+    symbol: PLRETH
+    source: PLR
+    sourceId: PLR
+    target: ETH
+    targetId: ETH
+-
+    symbol: XMREURS
+    source: XMR
+    sourceId: XMR
+    target: EURS
+    targetId: EURS
+-
+    symbol: XRPEURS
+    source: XRP
+    sourceId: XRP
+    target: EURS
+    targetId: EURS
+-
+    symbol: REXBTC
+    source: REX
+    sourceId: REX
+    target: BTC
+    targetId: BTC
+-
+    symbol: PROETH
+    source: PRO
+    sourceId: PRO
+    target: ETH
+    targetId: ETH
+-
+    symbol: AVTETH
+    source: AVT
+    sourceId: AVT
+    target: ETH
+    targetId: ETH
+-
+    symbol: REXETH
+    source: REX
+    sourceId: REX
+    target: ETH
+    targetId: ETH
+-
+    symbol: REXUSD
+    source: REX
+    sourceId: REX
+    target: USD
+    targetId: USD
+-
+    symbol: BCDBTC
+    source: BCD
+    sourceId: BCD
+    target: BTC
+    targetId: BTC
+-
+    symbol: ELFBTC
+    source: ELF
+    sourceId: ELF
+    target: BTC
+    targetId: BTC
+-
+    symbol: ELFUSD
+    source: ELF
+    sourceId: ELF
+    target: USD
+    targetId: USD
+-
+    symbol: BCDUSD
+    source: BCD
+    sourceId: BCD
+    target: USD
+    targetId: USD
+-
+    symbol: EVXUSD
+    source: EVX
+    sourceId: EVX
+    target: USD
+    targetId: USD
+-
+    symbol: EDGETH
+    source: EDG
+    sourceId: EDG
+    target: ETH
+    targetId: ETH
+-
+    symbol: DLTBTC
+    source: DLT
+    sourceId: DLT
+    target: BTC
+    targetId: BTC
+-
+    symbol: EDGUSD
+    source: EDG
+    sourceId: EDG
+    target: USD
+    targetId: USD
+-
+    symbol: BNTETH
+    source: BNT
+    sourceId: BNT
+    target: ETH
+    targetId: ETH
+-
+    symbol: BNTUSD
+    source: BNT
+    sourceId: BNT
+    target: USD
+    targetId: USD
+-
+    symbol: MANAUSD
+    source: MANA
+    sourceId: MANA
+    target: USD
+    targetId: USD
+-
+    symbol: DNTBTC
+    source: DNT
+    sourceId: DNT
+    target: BTC
+    targetId: BTC
+-
+    symbol: EURSUSD
+    source: EURS
+    sourceId: EURS
+    target: USD
+    targetId: USD
+-
+    symbol: FYPBTC
+    source: FYP
+    sourceId: FYP
+    target: BTC
+    targetId: BTC
+-
+    symbol: EURSTUSD
+    source: EURS
+    sourceId: EURS
+    target: TUSD
+    targetId: TUSD
+-
+    symbol: EURSDAI
+    source: EURS
+    sourceId: EURS
+    target: DAI
+    targetId: DAI
+-
+    symbol: OPTBTC
+    source: OPT
+    sourceId: OPT
+    target: BTC
+    targetId: BTC
+-
+    symbol: ROXETH
+    source: ROX
+    sourceId: ROX
+    target: ETH
+    targetId: ETH
+-
+    symbol: ZPRETH
+    source: ZPR
+    sourceId: ZPR
+    target: ETH
+    targetId: ETH
+-
+    symbol: TNTETH
+    source: TNT
+    sourceId: TNT
+    target: ETH
+    targetId: ETH
+-
+    symbol: STXBTC
+    source: STX
+    sourceId: STX
+    target: BTC
+    targetId: BTC
+-
+    symbol: KINDBTC
+    source: KIND
+    sourceId: KIND
+    target: BTC
+    targetId: BTC
+-
+    symbol: KINDETH
+    source: KIND
+    sourceId: KIND
+    target: ETH
+    targetId: ETH
+-
+    symbol: STXETH
+    source: STX
+    sourceId: STX
+    target: ETH
+    targetId: ETH
+-
+    symbol: STXUSD
+    source: STX
+    sourceId: STX
+    target: USD
+    targetId: USD
+-
+    symbol: TNTUSD
+    source: TNT
+    sourceId: TNT
+    target: USD
+    targetId: USD
+-
+    symbol: TNTBTC
+    source: TNT
+    sourceId: TNT
+    target: BTC
+    targetId: BTC
+-
+    symbol: PMABTC
+    source: PMA
+    sourceId: PMA
+    target: BTC
+    targetId: BTC
+-
+    symbol: PMAETH
+    source: PMA
+    sourceId: PMA
+    target: ETH
+    targetId: ETH
+-
+    symbol: TVBTC
+    source: TV
+    sourceId: TV
+    target: BTC
+    targetId: BTC
+-
+    symbol: TVETH
+    source: TV
+    sourceId: TV
+    target: ETH
+    targetId: ETH
+-
+    symbol: TVUSD
+    source: TV
+    sourceId: TV
+    target: USD
+    targetId: USD
+-
+    symbol: BATBTC
+    source: BAT
+    sourceId: BAT
+    target: BTC
+    targetId: BTC
+-
+    symbol: BATETH
+    source: BAT
+    sourceId: BAT
+    target: ETH
+    targetId: ETH
+-
+    symbol: XUCUSD
+    source: XUC
+    sourceId: XUC
+    target: USD
+    targetId: USD
+-
+    symbol: BATUSD
+    source: BAT
+    sourceId: BAT
+    target: USD
+    targetId: USD
+-
+    symbol: SRNBTC
+    source: SRN
+    sourceId: SRN
+    target: BTC
+    targetId: BTC
+-
+    symbol: SNCBTC
+    source: SNC
+    sourceId: SNC
+    target: BTC
+    targetId: BTC
+-
+    symbol: SRNETH
+    source: SRN
+    sourceId: SRN
+    target: ETH
+    targetId: ETH
+-
+    symbol: SNCUSD
+    source: SNC
+    sourceId: SNC
+    target: USD
+    targetId: USD
+-
+    symbol: OAXUSD
+    source: OAX
+    sourceId: OAX
+    target: USD
+    targetId: USD
+-
+    symbol: SRNUSD
+    source: SRN
+    sourceId: SRN
+    target: USD
+    targetId: USD
+-
+    symbol: OAXBTC
+    source: OAX
+    sourceId: OAX
+    target: BTC
+    targetId: BTC
+-
+    symbol: ZRXBTC
+    source: ZRX
+    sourceId: ZRX
+    target: BTC
+    targetId: BTC
+-
+    symbol: ZRXETH
+    source: ZRX
+    sourceId: ZRX
+    target: ETH
+    targetId: ETH
+-
+    symbol: ZRXUSD
+    source: ZRX
+    sourceId: ZRX
+    target: USD
+    targetId: USD
+-
+    symbol: GSTBTC
+    source: GST
+    sourceId: GST
+    target: BTC
+    targetId: BTC
+-
+    symbol: GSTETH
+    source: GST
+    sourceId: GST
+    target: ETH
+    targetId: ETH
+-
+    symbol: GSTUSD
+    source: GST
+    sourceId: GST
+    target: USD
+    targetId: USD
+-
+    symbol: BNBBTC
+    source: BNB
+    sourceId: BNB
+    target: BTC
+    targetId: BTC
+-
+    symbol: BNBETH
+    source: BNB
+    sourceId: BNB
+    target: ETH
+    targetId: ETH
+-
+    symbol: BNBUSD
+    source: BNB
+    sourceId: BNB
+    target: USD
+    targetId: USD
+-
+    symbol: PPCBTC
+    source: PPC
+    sourceId: PPC
+    target: BTC
+    targetId: BTC
+-
+    symbol: DITBTC
+    source: DIT
+    sourceId: DIT
+    target: BTC
+    targetId: BTC
+-
+    symbol: DITETH
+    source: DIT
+    sourceId: DIT
+    target: ETH
+    targetId: ETH
+-
+    symbol: PPCUSD
+    source: PPC
+    sourceId: PPC
+    target: USD
+    targetId: USD
+-
+    symbol: QTUMETH
+    source: QTUM
+    sourceId: QTUM
+    target: ETH
+    targetId: ETH
+-
+    symbol: IGNISETH
+    source: IGNIS
+    sourceId: IGNIS
+    target: ETH
+    targetId: ETH
+-
+    symbol: POA20BTC
+    source: POA20
+    sourceId: POA20
+    target: BTC
+    targetId: BTC
+-
+    symbol: POA20ETH
+    source: POA20
+    sourceId: POA20
+    target: ETH
+    targetId: ETH
+-
+    symbol: BMCBTC
+    source: BMC
+    sourceId: BMC
+    target: BTC
+    targetId: BTC
+-
+    symbol: POA20USD
+    source: POA20
+    sourceId: POA20
+    target: USD
+    targetId: USD
+-
+    symbol: BMCETH
+    source: BMC
+    sourceId: BMC
+    target: ETH
+    targetId: ETH
+-
+    symbol: POA20DAI
+    source: POA20
+    sourceId: POA20
+    target: DAI
+    targetId: DAI
+-
+    symbol: NIMBTC
+    source: NIM
+    sourceId: NIM
+    target: BTC
+    targetId: BTC
+-
+    symbol: BMCUSD
+    source: BMC
+    sourceId: BMC
+    target: USD
+    targetId: USD
+-
+    symbol: USEBTC
+    source: USE
+    sourceId: USE
+    target: BTC
+    targetId: BTC
+-
+    symbol: CNDBTC
+    source: CND
+    sourceId: CND
+    target: BTC
+    targetId: BTC
+-
+    symbol: USEETH
+    source: USE
+    sourceId: USE
+    target: ETH
+    targetId: ETH
+-
+    symbol: CNDETH
+    source: CND
+    sourceId: CND
+    target: ETH
+    targetId: ETH
+-
+    symbol: CNDUSD
+    source: CND
+    sourceId: CND
+    target: USD
+    targetId: USD
+-
+    symbol: DAVBTC
+    source: DAV
+    sourceId: DAV
+    target: BTC
+    targetId: BTC
+-
+    symbol: DAVETH
+    source: DAV
+    sourceId: DAV
+    target: ETH
+    targetId: ETH
+-
+    symbol: ETNBTC
+    source: ETN
+    sourceId: ETN
+    target: BTC
+    targetId: BTC
+-
+    symbol: ETNETH
+    source: ETN
+    sourceId: ETN
+    target: ETH
+    targetId: ETH
+-
+    symbol: ETNUSD
+    source: ETN
+    sourceId: ETN
+    target: USD
+    targetId: USD
+-
+    symbol: CDTETH
+    source: CDT
+    sourceId: CDT
+    target: ETH
+    targetId: ETH
+-
+    symbol: CDTUSD
+    source: CDT
+    sourceId: CDT
+    target: USD
+    targetId: USD
+-
+    symbol: FUNBTC
+    source: FUN
+    sourceId: FUN
+    target: BTC
+    targetId: BTC
+-
+    symbol: NIMETH
+    source: NIM
+    sourceId: NIM
+    target: ETH
+    targetId: ETH
+-
+    symbol: FUNETH
+    source: FUN
+    sourceId: FUN
+    target: ETH
+    targetId: ETH
+-
+    symbol: FUNUSD
+    source: FUN
+    sourceId: FUN
+    target: USD
+    targetId: USD
+-
+    symbol: HVNBTC
+    source: HVN
+    sourceId: HVN
+    target: BTC
+    targetId: BTC
+-
+    symbol: HVNETH
+    source: HVN
+    sourceId: HVN
+    target: ETH
+    targetId: ETH
+-
+    symbol: BCNEOS
+    source: BCN
+    sourceId: BCN
+    target: EOS
+    targetId: EOS
+-
+    symbol: LTCEOS
+    source: LTC
+    sourceId: LTC
+    target: EOS
+    targetId: EOS
+-
+    symbol: XMREOS
+    source: XMR
+    sourceId: XMR
+    target: EOS
+    targetId: EOS
+-
+    symbol: DASHEOS
+    source: DASH
+    sourceId: DASH
+    target: EOS
+    targetId: EOS
+-
+    symbol: TRXEOS
+    source: TRX
+    sourceId: TRX
+    target: EOS
+    targetId: EOS
+-
+    symbol: POEBTC
+    source: POE
+    sourceId: POE
+    target: BTC
+    targetId: BTC
+-
+    symbol: NEOEOS
+    source: NEO
+    sourceId: NEO
+    target: EOS
+    targetId: EOS
+-
+    symbol: POEETH
+    source: POE
+    sourceId: POE
+    target: ETH
+    targetId: ETH
+-
+    symbol: ZECEOS
+    source: ZEC
+    sourceId: ZEC
+    target: EOS
+    targetId: EOS
+-
+    symbol: LSKEOS
+    source: LSK
+    sourceId: LSK
+    target: EOS
+    targetId: EOS
+-
+    symbol: XEMEOS
+    source: XEM
+    sourceId: XEM
+    target: EOS
+    targetId: EOS
+-
+    symbol: XRPEOS
+    source: XRP
+    sourceId: XRP
+    target: EOS
+    targetId: EOS
+-
+    symbol: AMBUSD
+    source: AMB
+    sourceId: AMB
+    target: USD
+    targetId: USD
+-
+    symbol: AMBETH
+    source: AMB
+    sourceId: AMB
+    target: ETH
+    targetId: ETH
+-
+    symbol: AMBBTC
+    source: AMB
+    sourceId: AMB
+    target: BTC
+    targetId: BTC
+-
+    symbol: RCNBTC
+    source: RCN
+    sourceId: RCN
+    target: BTC
+    targetId: BTC
+-
+    symbol: RCNETH
+    source: RCN
+    sourceId: RCN
+    target: ETH
+    targetId: ETH
+-
+    symbol: RCNUSD
+    source: RCN
+    sourceId: RCN
+    target: USD
+    targetId: USD
+-
+    symbol: HMQBTC
+    source: HMQ
+    sourceId: HMQ
+    target: BTC
+    targetId: BTC
+-
+    symbol: HMQETH
+    source: HMQ
+    sourceId: HMQ
+    target: ETH
+    targetId: ETH
+-
+    symbol: MYSTBTC
+    source: MYST
+    sourceId: MYST
+    target: BTC
+    targetId: BTC
+-
+    symbol: MYSTETH
+    source: MYST
+    sourceId: MYST
+    target: ETH
+    targetId: ETH
+-
+    symbol: PPTETH
+    source: PPT
+    sourceId: PPT
+    target: ETH
+    targetId: ETH
+-
+    symbol: MTHBTC
+    source: MTH
+    sourceId: MTH
+    target: BTC
+    targetId: BTC
+-
+    symbol: MTHETH
+    source: MTH
+    sourceId: MTH
+    target: ETH
+    targetId: ETH
+-
+    symbol: BTCGUSD
+    source: BTC
+    sourceId: BTC
+    target: GUSD
+    targetId: GUSD
+-
+    symbol: ETHGUSD
+    source: ETH
+    sourceId: ETH
+    target: GUSD
+    targetId: GUSD
+-
+    symbol: LRCBTC
+    source: LRC
+    sourceId: LRC
+    target: BTC
+    targetId: BTC
+-
+    symbol: LRCETH
+    source: LRC
+    sourceId: LRC
+    target: ETH
+    targetId: ETH
+-
+    symbol: USDTGUSD
+    source: USD
+    sourceId: USD
+    target: GUSD
+    targetId: GUSD
+-
+    symbol: ICXBTC
+    source: ICX
+    sourceId: ICX
+    target: BTC
+    targetId: BTC
+-
+    symbol: ICXETH
+    source: ICX
+    sourceId: ICX
+    target: ETH
+    targetId: ETH
+-
+    symbol: NEOBTC
+    source: NEO
+    sourceId: NEO
+    target: BTC
+    targetId: BTC
+-
+    symbol: EOSGUSD
+    source: EOS
+    sourceId: EOS
+    target: GUSD
+    targetId: GUSD
+-
+    symbol: NEOETH
+    source: NEO
+    sourceId: NEO
+    target: ETH
+    targetId: ETH
+-
+    symbol: AXPRBTC
+    source: AXPR
+    sourceId: AXPR
+    target: BTC
+    targetId: BTC
+-
+    symbol: NEOUSD
+    source: NEO
+    sourceId: NEO
+    target: USD
+    targetId: USD
+-
+    symbol: AXPRETH
+    source: AXPR
+    sourceId: AXPR
+    target: ETH
+    targetId: ETH
+-
+    symbol: DAGBTC
+    source: DAG
+    sourceId: DAG
+    target: BTC
+    targetId: BTC
+-
+    symbol: DAGETH
+    source: DAG
+    sourceId: DAG
+    target: ETH
+    targetId: ETH
+-
+    symbol: ICXUSD
+    source: ICX
+    sourceId: ICX
+    target: USD
+    targetId: USD
+-
+    symbol: INDETH
+    source: IND
+    sourceId: IND
+    target: ETH
+    targetId: ETH
+-
+    symbol: KICKBTC
+    source: KICK
+    sourceId: KICK
+    target: BTC
+    targetId: BTC
+-
+    symbol: YOYOWBTC
+    source: YOYOW
+    sourceId: YOYOW
+    target: BTC
+    targetId: BTC
+-
+    symbol: CDTBTC
+    source: CDT
+    sourceId: CDT
+    target: BTC
+    targetId: BTC
+-
+    symbol: XVGBTC
+    source: XVG
+    sourceId: XVG
+    target: BTC
+    targetId: BTC
+-
+    symbol: XVGETH
+    source: XVG
+    sourceId: XVG
+    target: ETH
+    targetId: ETH
+-
+    symbol: VETBTC
+    source: VET
+    sourceId: VET
+    target: BTC
+    targetId: BTC
+-
+    symbol: XVGUSD
+    source: XVG
+    sourceId: XVG
+    target: USD
+    targetId: USD
+-
+    symbol: VETETH
+    source: VET
+    sourceId: VET
+    target: ETH
+    targetId: ETH
+-
+    symbol: DGBBTC
+    source: DGB
+    sourceId: DGB
+    target: BTC
+    targetId: BTC
+-
+    symbol: VETUSDT
+    source: VET
+    sourceId: VET
+    target: USD
+    targetId: USD
+-
+    symbol: DGBETH
+    source: DGB
+    sourceId: DGB
+    target: ETH
+    targetId: ETH
+-
+    symbol: BYTZBTC
+    source: BYTZ
+    sourceId: BYTZ
+    target: BTC
+    targetId: BTC
+-
+    symbol: DGBUSD
+    source: DGB
+    sourceId: DGB
+    target: USD
+    targetId: USD
+-
+    symbol: BYTZUSD
+    source: BYTZ
+    sourceId: BYTZ
+    target: USD
+    targetId: USD
+-
+    symbol: SILKETH
+    source: SILK
+    sourceId: SILK
+    target: ETH
+    targetId: ETH
+-
+    symbol: DCNETH
+    source: DCN
+    sourceId: DCN
+    target: ETH
+    targetId: ETH
+-
+    symbol: BOXBTC
+    source: BOX
+    sourceId: BOX
+    target: BTC
+    targetId: BTC
+-
+    symbol: DCNUSD
+    source: DCN
+    sourceId: DCN
+    target: USD
+    targetId: USD
+-
+    symbol: BOXETH
+    source: BOX
+    sourceId: BOX
+    target: ETH
+    targetId: ETH
+-
+    symbol: KINBTC
+    source: KIN
+    sourceId: KIN
+    target: BTC
+    targetId: BTC
+-
+    symbol: BOXEURS
+    source: BOX
+    sourceId: BOX
+    target: EURS
+    targetId: EURS
+-
+    symbol: BOXEOS
+    source: BOX
+    sourceId: BOX
+    target: EOS
+    targetId: EOS
+-
+    symbol: VIBEBTC
+    source: VIBE
+    sourceId: VIBE
+    target: BTC
+    targetId: BTC
+-
+    symbol: ENJBTC
+    source: ENJ
+    sourceId: ENJ
+    target: BTC
+    targetId: BTC
+-
+    symbol: ENJETH
+    source: ENJ
+    sourceId: ENJ
+    target: ETH
+    targetId: ETH
+-
+    symbol: PASSBTC
+    source: PASS
+    sourceId: PASS
+    target: BTC
+    targetId: BTC
+-
+    symbol: ENJUSD
+    source: ENJ
+    sourceId: ENJ
+    target: USD
+    targetId: USD
+-
+    symbol: PASSETH
+    source: PASS
+    sourceId: PASS
+    target: ETH
+    targetId: ETH
+-
+    symbol: ZSCBTC
+    source: ZSC
+    sourceId: ZSC
+    target: BTC
+    targetId: BTC
+-
+    symbol: PBTTBTC
+    source: PBTT
+    sourceId: PBTT
+    target: BTC
+    targetId: BTC
+-
+    symbol: ZSCETH
+    source: ZSC
+    sourceId: ZSC
+    target: ETH
+    targetId: ETH
+-
+    symbol: PMAUSD
+    source: PMA
+    sourceId: PMA
+    target: USD
+    targetId: USD
+-
+    symbol: TRADBTC
+    source: TRAD
+    sourceId: TRAD
+    target: BTC
+    targetId: BTC
+-
+    symbol: ZSCUSD
+    source: ZSC
+    sourceId: ZSC
+    target: USD
+    targetId: USD
+-
+    symbol: TRXBTC
+    source: TRX
+    sourceId: TRX
+    target: BTC
+    targetId: BTC
+-
+    symbol: DGTXBTC
+    source: DGTX
+    sourceId: DGTX
+    target: BTC
+    targetId: BTC
+-
+    symbol: TRXETH
+    source: TRX
+    sourceId: TRX
+    target: ETH
+    targetId: ETH
+-
+    symbol: DGTXETH
+    source: DGTX
+    sourceId: DGTX
+    target: ETH
+    targetId: ETH
+-
+    symbol: TRXUSD
+    source: TRX
+    sourceId: TRX
+    target: USD
+    targetId: USD
+-
+    symbol: DGTXUSD
+    source: DGTX
+    sourceId: DGTX
+    target: USD
+    targetId: USD
+-
+    symbol: DGBTUSD
+    source: DGB
+    sourceId: DGB
+    target: TUSD
+    targetId: TUSD
+-
+    symbol: ARTBTC
+    source: ART
+    sourceId: ART
+    target: BTC
+    targetId: BTC
+-
+    symbol: BCHBTC
+    source: BCH
+    sourceId: BCH
+    target: BTC
+    targetId: BTC
+-
+    symbol: EVXBTC
+    source: EVX
+    sourceId: EVX
+    target: BTC
+    targetId: BTC
+-
+    symbol: BCHUSD
+    source: BCH
+    sourceId: BCH
+    target: USD
+    targetId: USD
+-
+    symbol: EVXETH
+    source: EVX
+    sourceId: EVX
+    target: ETH
+    targetId: ETH
+-
+    symbol: BSVBTC
+    source: BSV
+    sourceId: BSV
+    target: BTC
+    targetId: BTC
+-
+    symbol: BSVUSD
+    source: BSV
+    sourceId: BSV
+    target: USD
+    targetId: USD
+-
+    symbol: NPLCBTC
+    source: NPLC
+    sourceId: NPLC
+    target: BTC
+    targetId: BTC
+-
+    symbol: NPLCETH
+    source: NPLC
+    sourceId: NPLC
+    target: ETH
+    targetId: ETH
+-
+    symbol: POABTC
+    source: POA
+    sourceId: POA
+    target: BTC
+    targetId: BTC
+-
+    symbol: DTRBTC
+    source: DTR
+    sourceId: DTR
+    target: BTC
+    targetId: BTC
+-
+    symbol: DTRETH
+    source: DTR
+    sourceId: DTR
+    target: ETH
+    targetId: ETH
+-
+    symbol: TDPBTC
+    source: TDP
+    sourceId: TDP
+    target: BTC
+    targetId: BTC
+-
+    symbol: HBTETH
+    source: HBT
+    sourceId: HBT
+    target: ETH
+    targetId: ETH
+-
+    symbol: PXGBTC
+    source: PXG
+    sourceId: PXG
+    target: BTC
+    targetId: BTC
+-
+    symbol: PXGUSD
+    source: PXG
+    sourceId: PXG
+    target: USD
+    targetId: USD
+-
+    symbol: BTCPAX
+    source: BTC
+    sourceId: BTC
+    target: PAX
+    targetId: PAX
+-
+    symbol: ETHPAX
+    source: ETH
+    sourceId: ETH
+    target: PAX
+    targetId: PAX
+-
+    symbol: USDPAX
+    source: USD
+    sourceId: USD
+    target: PAX
+    targetId: PAX
+-
+    symbol: BTCUSDC
+    source: BTC
+    sourceId: BTC
+    target: USDC
+    targetId: USDC
+-
+    symbol: ETHUSDC
+    source: ETH
+    sourceId: ETH
+    target: USDC
+    targetId: USDC
+-
+    symbol: SUBBTC
+    source: SUB
+    sourceId: SUB
+    target: BTC
+    targetId: BTC
+-
+    symbol: USDUSDC
+    source: USD
+    sourceId: USD
+    target: USDC
+    targetId: USDC
+-
+    symbol: SUBETH
+    source: SUB
+    sourceId: SUB
+    target: ETH
+    targetId: ETH
+-
+    symbol: TUSDUSDC
+    source: TUSD
+    sourceId: TUSD
+    target: USDC
+    targetId: USDC
+-
+    symbol: SUBUSD
+    source: SUB
+    sourceId: SUB
+    target: USD
+    targetId: USD
+-
+    symbol: DAIUSDC
+    source: DAI
+    sourceId: DAI
+    target: USDC
+    targetId: USDC
+-
+    symbol: CLOETH
+    source: CLO
+    sourceId: CLO
+    target: ETH
+    targetId: ETH
+-
+    symbol: WTCBTC
+    source: WTC
+    sourceId: WTC
+    target: BTC
+    targetId: BTC
+-
+    symbol: CLOUSD
+    source: CLO
+    sourceId: CLO
+    target: USD
+    targetId: USD
+-
+    symbol: EOSPAX
+    source: EOS
+    sourceId: EOS
+    target: PAX
+    targetId: PAX
+-
+    symbol: BRDBTC
+    source: BRD
+    sourceId: BRD
+    target: BTC
+    targetId: BTC
+-
+    symbol: BRDETH
+    source: BRD
+    sourceId: BRD
+    target: ETH
+    targetId: ETH
+-
+    symbol: BTMBTC
+    source: BTM
+    sourceId: BTM
+    target: BTC
+    targetId: BTC
+-
+    symbol: NMRBTC
+    source: NMR
+    sourceId: NMR
+    target: BTC
+    targetId: BTC
+-
+    symbol: BTMETH
+    source: BTM
+    sourceId: BTM
+    target: ETH
+    targetId: ETH
+-
+    symbol: SALTBTC
+    source: SALT
+    sourceId: SALT
+    target: BTC
+    targetId: BTC
+-
+    symbol: BTMUSD
+    source: BTM
+    sourceId: BTM
+    target: USD
+    targetId: USD
+-
+    symbol: SALTETH
+    source: SALT
+    sourceId: SALT
+    target: ETH
+    targetId: ETH
+-
+    symbol: POLYBTC
+    source: POLY
+    sourceId: POLY
+    target: BTC
+    targetId: BTC
+-
+    symbol: POLYETH
+    source: POLY
+    sourceId: POLY
+    target: ETH
+    targetId: ETH
+-
+    symbol: POWRBTC
+    source: POWR
+    sourceId: POWR
+    target: BTC
+    targetId: BTC
+-
+    symbol: POWRETH
+    source: POWR
+    sourceId: POWR
+    target: ETH
+    targetId: ETH
+-
+    symbol: STORJBTC
+    source: STORJ
+    sourceId: STORJ
+    target: BTC
+    targetId: BTC
+-
+    symbol: STORJETH
+    source: STORJ
+    sourceId: STORJ
+    target: ETH
+    targetId: ETH
+-
+    symbol: STORJUSD
+    source: STORJ
+    sourceId: STORJ
+    target: USD
+    targetId: USD
+-
+    symbol: MLNETH
+    source: MLN
+    sourceId: MLN
+    target: ETH
+    targetId: ETH
+-
+    symbol: BDGBTC
+    source: BDG
+    sourceId: BDG
+    target: BTC
+    targetId: BTC
+-
+    symbol: POAETH
+    source: POA
+    sourceId: POA
+    target: ETH
+    targetId: ETH
+-
+    symbol: VIBBTC
+    source: VIB
+    sourceId: VIB
+    target: BTC
+    targetId: BTC
+-
+    symbol: POAUSD
+    source: POA
+    sourceId: POA
+    target: USD
+    targetId: USD
+-
+    symbol: VIBETH
+    source: VIB
+    sourceId: VIB
+    target: ETH
+    targetId: ETH
+-
+    symbol: POADAI
+    source: POA
+    sourceId: POA
+    target: DAI
+    targetId: DAI
+-
+    symbol: VIBUSD
+    source: VIB
+    sourceId: VIB
+    target: USD
+    targetId: USD
+-
+    symbol: DRTETH
+    source: DRT
+    sourceId: DRT
+    target: ETH
+    targetId: ETH
+-
+    symbol: VEOBTC
+    source: VEO
+    sourceId: VEO
+    target: BTC
+    targetId: BTC
+-
+    symbol: PLABTC
+    source: PLA
+    sourceId: PLA
+    target: BTC
+    targetId: BTC
+-
+    symbol: PLAETH
+    source: PLA
+    sourceId: PLA
+    target: ETH
+    targetId: ETH
+-
+    symbol: OMGBTC
+    source: OMG
+    sourceId: OMG
+    target: BTC
+    targetId: BTC
+-
+    symbol: PLAUSD
+    source: PLA
+    sourceId: PLA
+    target: USD
+    targetId: USD
+-
+    symbol: PAYBTC
+    source: PAY
+    sourceId: PAY
+    target: BTC
+    targetId: BTC
+-
+    symbol: PPTBTC
+    source: PPT
+    sourceId: PPT
+    target: BTC
+    targetId: BTC
+-
+    symbol: SNTBTC
+    source: SNT
+    sourceId: SNT
+    target: BTC
+    targetId: BTC
+-
+    symbol: BTGBTC
+    source: BTG
+    sourceId: BTG
+    target: BTC
+    targetId: BTC
+-
+    symbol: BTTBTC
+    source: BTT
+    sourceId: BTT
+    target: BTC
+    targetId: BTC
+-
+    symbol: BTGETH
+    source: BTG
+    sourceId: BTG
+    target: ETH
+    targetId: ETH
+-
+    symbol: BTTUSD
+    source: BTT
+    sourceId: BTT
+    target: USD
+    targetId: USD
+-
+    symbol: BTGUSD
+    source: BTG
+    sourceId: BTG
+    target: USD
+    targetId: USD
+-
+    symbol: BTTETH
+    source: BTT
+    sourceId: BTT
+    target: ETH
+    targetId: ETH
+-
+    symbol: SMARTBTC
+    source: SMART
+    sourceId: SMART
+    target: BTC
+    targetId: BTC
+-
+    symbol: ZENBTC
+    source: ZEN
+    sourceId: ZEN
+    target: BTC
+    targetId: BTC
+-
+    symbol: SMARTETH
+    source: SMART
+    sourceId: SMART
+    target: ETH
+    targetId: ETH
+-
+    symbol: ZENETH
+    source: ZEN
+    sourceId: ZEN
+    target: ETH
+    targetId: ETH
+-
+    symbol: ZENUSD
+    source: ZEN
+    sourceId: ZEN
+    target: USD
+    targetId: USD
+-
+    symbol: SMARTUSD
+    source: SMART
+    sourceId: SMART
+    target: USD
+    targetId: USD
+-
+    symbol: XUCETH
+    source: XUC
+    sourceId: XUC
+    target: ETH
+    targetId: ETH
+-
+    symbol: XUCBTC
+    source: XUC
+    sourceId: XUC
+    target: BTC
+    targetId: BTC
+-
+    symbol: LAETH
+    source: LA
+    sourceId: LA
+    target: ETH
+    targetId: ETH
+-
+    symbol: GRINBTC
+    source: GRIN
+    sourceId: GRIN
+    target: BTC
+    targetId: BTC
+-
+    symbol: GRINETH
+    source: GRIN
+    sourceId: GRIN
+    target: ETH
+    targetId: ETH
+-
+    symbol: GRINUSD
+    source: GRIN
+    sourceId: GRIN
+    target: USD
+    targetId: USD
+-
+    symbol: FETBTC
+    source: FET
+    sourceId: FET
+    target: BTC
+    targetId: BTC
+-
+    symbol: HTBTC
+    source: HT
+    sourceId: HT
+    target: BTC
+    targetId: BTC
+-
+    symbol: HTUSD
+    source: HT
+    sourceId: HT
+    target: USD
+    targetId: USD
+-
+    symbol: VRABTC
+    source: VRA
+    sourceId: VRA
+    target: BTC
+    targetId: BTC
+-
+    symbol: HGTETH
+    source: HGT
+    sourceId: HGT
+    target: ETH
+    targetId: ETH
+-
+    symbol: VRAETH
+    source: VRA
+    sourceId: VRA
+    target: ETH
+    targetId: ETH
+-
+    symbol: SCLBTC
+    source: SCL
+    sourceId: SCL
+    target: BTC
+    targetId: BTC
+-
+    symbol: ETPBTC
+    source: ETP
+    sourceId: ETP
+    target: BTC
+    targetId: BTC
+-
+    symbol: XZCBTC
+    source: XZC
+    sourceId: XZC
+    target: BTC
+    targetId: BTC
+-
+    symbol: ETPETH
+    source: ETP
+    sourceId: ETP
+    target: ETH
+    targetId: ETH
+-
+    symbol: XZCETH
+    source: XZC
+    sourceId: XZC
+    target: ETH
+    targetId: ETH
+-
+    symbol: ETPUSD
+    source: ETP
+    sourceId: ETP
+    target: USD
+    targetId: USD
+-
+    symbol: XZCUSD
+    source: XZC
+    sourceId: XZC
+    target: USD
+    targetId: USD
+-
+    symbol: NEBLBTC
+    source: NEBL
+    sourceId: NEBL
+    target: BTC
+    targetId: BTC
+-
+    symbol: NEBLETH
+    source: NEBL
+    sourceId: NEBL
+    target: ETH
+    targetId: ETH
+-
+    symbol: CROBTC
+    source: CRO
+    sourceId: CRO
+    target: BTC
+    targetId: BTC
+-
+    symbol: CROETH
+    source: CRO
+    sourceId: CRO
+    target: ETH
+    targetId: ETH
+-
+    symbol: CROUSD
+    source: CRO
+    sourceId: CRO
+    target: USD
+    targetId: USD
+-
+    symbol: WBTCETH
+    source: WBTC
+    sourceId: WBTC
+    target: ETH
+    targetId: ETH
+-
+    symbol: GASBTC
+    source: GAS
+    sourceId: GAS
+    target: BTC
+    targetId: BTC
+-
+    symbol: GASETH
+    source: GAS
+    sourceId: GAS
+    target: ETH
+    targetId: ETH
+-
+    symbol: GASUSD
+    source: GAS
+    sourceId: GAS
+    target: USD
+    targetId: USD
+-
+    symbol: GVTETH
+    source: GVT
+    sourceId: GVT
+    target: ETH
+    targetId: ETH
+-
+    symbol: BTXBTC
+    source: BTX
+    sourceId: BTX
+    target: BTC
+    targetId: BTC
+-
+    symbol: LTCETH
+    source: LTC
+    sourceId: LTC
+    target: ETH
+    targetId: ETH
+-
+    symbol: MGBTC
+    source: MG
+    sourceId: MG
+    target: BTC
+    targetId: BTC
+-
+    symbol: MGETH
+    source: MG
+    sourceId: MG
+    target: ETH
+    targetId: ETH
+-
+    symbol: BCNETH
+    source: BCN
+    sourceId: BCN
+    target: ETH
+    targetId: ETH
+-
+    symbol: MAIDETH
+    source: MAID
+    sourceId: MAID
+    target: ETH
+    targetId: ETH
+-
+    symbol: NXTETH
+    source: NXT
+    sourceId: NXT
+    target: ETH
+    targetId: ETH
+-
+    symbol: MGEOS
+    source: MG
+    sourceId: MG
+    target: EOS
+    targetId: EOS
+-
+    symbol: MGUSD
+    source: MG
+    sourceId: MG
+    target: USD
+    targetId: USD
+-
+    symbol: STRATETH
+    source: STRAT
+    sourceId: STRAT
+    target: ETH
+    targetId: ETH
+-
+    symbol: XDNETH
+    source: XDN
+    sourceId: XDN
+    target: ETH
+    targetId: ETH
+-
+    symbol: XEMETH
+    source: XEM
+    sourceId: XEM
+    target: ETH
+    targetId: ETH
+-
+    symbol: IGNISBTC
+    source: IGNIS
+    sourceId: IGNIS
+    target: BTC
+    targetId: BTC
+-
+    symbol: ORMEUSBTC
+    source: ORMEUS
+    sourceId: ORMEUS
+    target: BTC
+    targetId: BTC
+-
+    symbol: PLRBTC
+    source: PLR
+    sourceId: PLR
+    target: BTC
+    targetId: BTC
+-
+    symbol: SURBTC
+    source: SUR
+    sourceId: SUR
+    target: BTC
+    targetId: BTC
+-
+    symbol: BQXBTC
+    source: BQX
+    sourceId: BQX
+    target: BTC
+    targetId: BTC
+-
+    symbol: ORMEUSETH
+    source: ORMEUS
+    sourceId: ORMEUS
+    target: ETH
+    targetId: ETH
+-
+    symbol: SWMETH
+    source: SWM
+    sourceId: SWM
+    target: ETH
+    targetId: ETH
+-
+    symbol: DOGEETH
+    source: DOGE
+    sourceId: DOGE
+    target: ETH
+    targetId: ETH
+-
+    symbol: SWMUSD
+    source: SWM
+    sourceId: SWM
+    target: USD
+    targetId: USD
+-
+    symbol: PREETH
+    source: PRE
+    sourceId: PRE
+    target: ETH
+    targetId: ETH
+-
+    symbol: PHXBTC
+    source: PHX
+    sourceId: PHX
+    target: BTC
+    targetId: BTC
+-
+    symbol: AMMBTC
+    source: AMM
+    sourceId: AMM
+    target: BTC
+    targetId: BTC
+-
+    symbol: PHXETH
+    source: PHX
+    sourceId: PHX
+    target: ETH
+    targetId: ETH
+-
+    symbol: AMMETH
+    source: AMM
+    sourceId: AMM
+    target: ETH
+    targetId: ETH
+-
+    symbol: PHXUSD
+    source: PHX
+    sourceId: PHX
+    target: USD
+    targetId: USD
+-
+    symbol: AMMUSD
+    source: AMM
+    sourceId: AMM
+    target: USD
+    targetId: USD
+-
+    symbol: BTCEOSDT
+    source: BTC
+    sourceId: BTC
+    target: EOSDT
+    targetId: EOSDT
+-
+    symbol: ETHEOSDT
+    source: ETH
+    sourceId: ETH
+    target: EOSDT
+    targetId: EOSDT
+-
+    symbol: DBIXBTC
+    source: DBIX
+    sourceId: DBIX
+    target: BTC
+    targetId: BTC
+-
+    symbol: EOSEOSDT
+    source: EOS
+    sourceId: EOS
+    target: EOSDT
+    targetId: EOSDT
+-
+    symbol: PREBTC
+    source: PRE
+    sourceId: PRE
+    target: BTC
+    targetId: BTC
+-
+    symbol: DAIEOSDT
+    source: DAI
+    sourceId: DAI
+    target: EOSDT
+    targetId: EOSDT
+-
+    symbol: USDEOSDT
+    source: USD
+    sourceId: USD
+    target: EOSDT
+    targetId: EOSDT
+-
+    symbol: NUTBTC
+    source: NUT
+    sourceId: NUT
+    target: BTC
+    targetId: BTC
+-
+    symbol: NUTEOS
+    source: NUT
+    sourceId: NUT
+    target: EOS
+    targetId: EOS
+-
+    symbol: NUTUSD
+    source: NUT
+    sourceId: NUT
+    target: USD
+    targetId: USD
+-
+    symbol: BETBTC
+    source: BET
+    sourceId: BET
+    target: BTC
+    targetId: BTC
+-
+    symbol: CUTEBTC
+    source: CUTE
+    sourceId: CUTE
+    target: BTC
+    targetId: BTC
+-
+    symbol: ZAPBTC
+    source: ZAP
+    sourceId: ZAP
+    target: BTC
+    targetId: BTC
+-
+    symbol: CUTEETH
+    source: CUTE
+    sourceId: CUTE
+    target: ETH
+    targetId: ETH
+-
+    symbol: DOVBTC
+    source: DOV
+    sourceId: DOV
+    target: BTC
+    targetId: BTC
+-
+    symbol: CUTEUSD
+    source: CUTE
+    sourceId: CUTE
+    target: USD
+    targetId: USD
+-
+    symbol: CUTEEOS
+    source: CUTE
+    sourceId: CUTE
+    target: EOS
+    targetId: EOS
+-
+    symbol: DOVETH
+    source: DOV
+    sourceId: DOV
+    target: ETH
+    targetId: ETH
+-
+    symbol: XCONBTC
+    source: XCON
+    sourceId: XCON
+    target: BTC
+    targetId: BTC
+-
+    symbol: DCRBTC
+    source: DCR
+    sourceId: DCR
+    target: BTC
+    targetId: BTC
+-
+    symbol: DCRETH
+    source: DCR
+    sourceId: DCR
+    target: ETH
+    targetId: ETH
+-
+    symbol: DCRUSD
+    source: DCR
+    sourceId: DCR
+    target: USD
+    targetId: USD
+-
+    symbol: GNXBTC
+    source: GNX
+    sourceId: GNX
+    target: BTC
+    targetId: BTC
+-
+    symbol: PROBTC
+    source: PRO
+    sourceId: PRO
+    target: BTC
+    targetId: BTC
+-
+    symbol: EURSEOSDT
+    source: EURS
+    sourceId: EURS
+    target: EOSDT
+    targetId: EOSDT
+-
+    symbol: TUSDEOSDT
+    source: TUSD
+    sourceId: TUSD
+    target: EOSDT
+    targetId: EOSDT
+-
+    symbol: XRPETH
+    source: XRP
+    sourceId: XRP
+    target: ETH
+    targetId: ETH
+-
+    symbol: AGIBTC
+    source: AGI
+    sourceId: AGI
+    target: BTC
+    targetId: BTC
+-
+    symbol: XRPUSDT
+    source: XRP
+    sourceId: XRP
+    target: USD
+    targetId: USD
+-
+    symbol: LOOMBTC
+    source: LOOM
+    sourceId: LOOM
+    target: BTC
+    targetId: BTC
+-
+    symbol: HSRBTC
+    source: HSR
+    sourceId: HSR
+    target: BTC
+    targetId: BTC
+-
+    symbol: LOOMETH
+    source: LOOM
+    sourceId: LOOM
+    target: ETH
+    targetId: ETH
+-
+    symbol: LENDBTC
+    source: LEND
+    sourceId: LEND
+    target: BTC
+    targetId: BTC
+-
+    symbol: BLZBTC
+    source: BLZ
+    sourceId: BLZ
+    target: BTC
+    targetId: BTC
+-
+    symbol: LENDETH
+    source: LEND
+    sourceId: LEND
+    target: ETH
+    targetId: ETH
+-
+    symbol: QKCBTC
+    source: QKC
+    sourceId: QKC
+    target: BTC
+    targetId: BTC
+-
+    symbol: SBTCBTC
+    source: SBTC
+    sourceId: SBTC
+    target: BTC
+    targetId: BTC
+-
+    symbol: QKCETH
+    source: QKC
+    sourceId: QKC
+    target: ETH
+    targetId: ETH
+-
+    symbol: SBTCETH
+    source: SBTC
+    sourceId: SBTC
+    target: ETH
+    targetId: ETH
+-
+    symbol: KNCBTC
+    source: KNC
+    sourceId: KNC
+    target: BTC
+    targetId: BTC
+-
+    symbol: KNCETH
+    source: KNC
+    sourceId: KNC
+    target: ETH
+    targetId: ETH
+-
+    symbol: KNCUSD
+    source: KNC
+    sourceId: KNC
+    target: USD
+    targetId: USD
+-
+    symbol: KEYBTC
+    source: KEY
+    sourceId: KEY
+    target: BTC
+    targetId: BTC
+-
+    symbol: KEYETH
+    source: KEY
+    sourceId: KEY
+    target: ETH
+    targetId: ETH
+-
+    symbol: ATOMBTC
+    source: ATOM
+    sourceId: ATOM
+    target: BTC
+    targetId: BTC
+-
+    symbol: LOCBTC
+    source: LOC
+    sourceId: LOC
+    target: BTC
+    targetId: BTC
+-
+    symbol: ATOMUSD
+    source: ATOM
+    sourceId: ATOM
+    target: USD
+    targetId: USD
+-
+    symbol: ATOMETH
+    source: ATOM
+    sourceId: ATOM
+    target: ETH
+    targetId: ETH
+-
+    symbol: LOCETH
+    source: LOC
+    sourceId: LOC
+    target: ETH
+    targetId: ETH
+-
+    symbol: BRDGBTC
+    source: BRDG
+    sourceId: BRDG
+    target: BTC
+    targetId: BTC
+-
+    symbol: LOCUSD
+    source: LOC
+    sourceId: LOC
+    target: USD
+    targetId: USD
+-
+    symbol: BRDGETH
+    source: BRDG
+    sourceId: BRDG
+    target: ETH
+    targetId: ETH
+-
+    symbol: BRDGUSD
+    source: BRDG
+    sourceId: BRDG
+    target: USD
+    targetId: USD
+-
+    symbol: SWFTCBTC
+    source: SWFTC
+    sourceId: SWFTC
+    target: BTC
+    targetId: BTC
+-
+    symbol: MTLBTC
+    source: MTL
+    sourceId: MTL
+    target: BTC
+    targetId: BTC
+-
+    symbol: SWFTCETH
+    source: SWFTC
+    sourceId: SWFTC
+    target: ETH
+    targetId: ETH
+-
+    symbol: MTLETH
+    source: MTL
+    sourceId: MTL
+    target: ETH
+    targetId: ETH
+-
+    symbol: SWFTCUSD
+    source: SWFTC
+    sourceId: SWFTC
+    target: USD
+    targetId: USD
+-
+    symbol: EXPBTC
+    source: EXP
+    sourceId: EXP
+    target: BTC
+    targetId: BTC
+-
+    symbol: EOSBCH
+    source: EOS
+    sourceId: EOS
+    target: BCH
+    targetId: BCH
+-
+    symbol: LTCBCH
+    source: LTC
+    sourceId: LTC
+    target: BCH
+    targetId: BCH
+-
+    symbol: STARETH
+    source: STAR
+    sourceId: STAR
+    target: ETH
+    targetId: ETH
+-
+    symbol: SBTCUSDT
+    source: SBTC
+    sourceId: SBTC
+    target: USD
+    targetId: USD
+-
+    symbol: XRPBCH
+    source: XRP
+    sourceId: XRP
+    target: BCH
+    targetId: BCH
+-
+    symbol: TRXBCH
+    source: TRX
+    sourceId: TRX
+    target: BCH
+    targetId: BCH
+-
+    symbol: XLMBCH
+    source: XLM
+    sourceId: XLM
+    target: BCH
+    targetId: BCH
+-
+    symbol: ETCBCH
+    source: ETC
+    sourceId: ETC
+    target: BCH
+    targetId: BCH
+-
+    symbol: DASHBCH
+    source: DASH
+    sourceId: DASH
+    target: BCH
+    targetId: BCH
+-
+    symbol: ZECBCH
+    source: ZEC
+    sourceId: ZEC
+    target: BCH
+    targetId: BCH
+-
+    symbol: NGCBTC
+    source: NGC
+    sourceId: NGC
+    target: BTC
+    targetId: BTC
+-
+    symbol: NGCETH
+    source: NGC
+    sourceId: NGC
+    target: ETH
+    targetId: ETH
+-
+    symbol: DAPPBTC
+    source: DAPP
+    sourceId: DAPP
+    target: BTC
+    targetId: BTC
+-
+    symbol: NGCUSD
+    source: NGC
+    sourceId: NGC
+    target: USD
+    targetId: USD
+-
+    symbol: EMCETH
+    source: EMC
+    sourceId: EMC
+    target: ETH
+    targetId: ETH
+-
+    symbol: EMCUSDT
+    source: EMC
+    sourceId: EMC
+    target: USD
+    targetId: USD
+-
+    symbol: BTCBBTC
+    source: BTCB
+    sourceId: BTCB
+    target: BTC
+    targetId: BTC
+-
+    symbol: MCOBTC
+    source: MCO
+    sourceId: MCO
+    target: BTC
+    targetId: BTC
+-
+    symbol: LINKBTC
+    source: LINK
+    sourceId: LINK
+    target: BTC
+    targetId: BTC
+-
+    symbol: LINKETH
+    source: LINK
+    sourceId: LINK
+    target: ETH
+    targetId: ETH
+-
+    symbol: MCOETH
+    source: MCO
+    sourceId: MCO
+    target: ETH
+    targetId: ETH
+-
+    symbol: LINKUSD
+    source: LINK
+    sourceId: LINK
+    target: USD
+    targetId: USD
+-
+    symbol: MCOUSD
+    source: MCO
+    sourceId: MCO
+    target: USD
+    targetId: USD
+-
+    symbol: MANAETH
+    source: MANA
+    sourceId: MANA
+    target: ETH
+    targetId: ETH
+-
+    symbol: PBTBTC
+    source: PBT
+    sourceId: PBT
+    target: BTC
+    targetId: BTC
+-
+    symbol: MANABTC
+    source: MANA
+    sourceId: MANA
+    target: BTC
+    targetId: BTC
+-
+    symbol: PBTETH
+    source: PBT
+    sourceId: PBT
+    target: ETH
+    targetId: ETH
+-
+    symbol: PHBBTC
+    source: PHB
+    sourceId: PHB
+    target: BTC
+    targetId: BTC
+-
+    symbol: CPAYETH
+    source: CPAY
+    sourceId: CPAY
+    target: ETH
+    targetId: ETH
+-
+    symbol: DATABTC
+    source: DATA
+    sourceId: DATA
+    target: BTC
+    targetId: BTC
+-
+    symbol: DATAETH
+    source: DATA
+    sourceId: DATA
+    target: ETH
+    targetId: ETH
+-
+    symbol: DATAUSD
+    source: DATA
+    sourceId: DATA
+    target: USD
+    targetId: USD
+-
+    symbol: BCHETH
+    source: BCH
+    sourceId: BCH
+    target: ETH
+    targetId: ETH
+-
+    symbol: UTTBTC
+    source: UTT
+    sourceId: UTT
+    target: BTC
+    targetId: BTC
+-
+    symbol: BCHDAI
+    source: BCH
+    sourceId: BCH
+    target: DAI
+    targetId: DAI
+-
+    symbol: UTTETH
+    source: UTT
+    sourceId: UTT
+    target: ETH
+    targetId: ETH
+-
+    symbol: BCHTUSD
+    source: BCH
+    sourceId: BCH
+    target: TUSD
+    targetId: TUSD
+-
+    symbol: UTTUSD
+    source: UTT
+    sourceId: UTT
+    target: USD
+    targetId: USD
+-
+    symbol: BCHEURS
+    source: BCH
+    sourceId: BCH
+    target: EURS
+    targetId: EURS
+-
+    symbol: KMDBTC
+    source: KMD
+    sourceId: KMD
+    target: BTC
+    targetId: BTC
+-
+    symbol: DAPPEOS
+    source: DAPP
+    sourceId: DAPP
+    target: EOS
+    targetId: EOS
+-
+    symbol: KMDETH
+    source: KMD
+    sourceId: KMD
+    target: ETH
+    targetId: ETH
+-
+    symbol: KMDUSD
+    source: KMD
+    sourceId: KMD
+    target: USD
+    targetId: USD
+-
+    symbol: QTUMUSD
+    source: QTUM
+    sourceId: QTUM
+    target: USD
+    targetId: USD
+-
+    symbol: DENTBTC
+    source: DENT
+    sourceId: DENT
+    target: BTC
+    targetId: BTC
+-
+    symbol: QTUMBTC
+    source: QTUM
+    sourceId: QTUM
+    target: BTC
+    targetId: BTC
+-
+    symbol: DENTUSD
+    source: DENT
+    sourceId: DENT
+    target: USD
+    targetId: USD
+-
+    symbol: SNTUSD
+    source: SNT
+    sourceId: SNT
+    target: USD
+    targetId: USD
+-
+    symbol: OMGUSD
+    source: OMG
+    sourceId: OMG
+    target: USD
+    targetId: USD
+-
+    symbol: EKOBTC
+    source: EKO
+    sourceId: EKO
+    target: BTC
+    targetId: BTC
+-
+    symbol: EKOETH
+    source: EKO
+    sourceId: EKO
+    target: ETH
+    targetId: ETH
+-
+    symbol: LSKETH
+    source: LSK
+    sourceId: LSK
+    target: ETH
+    targetId: ETH
+-
+    symbol: LSKUSD
+    source: LSK
+    sourceId: LSK
+    target: USD
+    targetId: USD
+-
+    symbol: PLRUSD
+    source: PLR
+    sourceId: PLR
+    target: USD
+    targetId: USD
+-
+    symbol: XRCBTC
+    source: XRC
+    sourceId: XRC
+    target: BTC
+    targetId: BTC
+-
+    symbol: SURUSD
+    source: SUR
+    sourceId: SUR
+    target: USD
+    targetId: USD
+-
+    symbol: BQXUSD
+    source: BQX
+    sourceId: BQX
+    target: USD
+    targetId: USD
+-
+    symbol: WAVESUSD
+    source: WAVES
+    sourceId: WAVES
+    target: USD
+    targetId: USD
+-
+    symbol: DRTUSDT
+    source: DRT
+    sourceId: DRT
+    target: USD
+    targetId: USD
+-
+    symbol: REPETH
+    source: REP
+    sourceId: REP
+    target: ETH
+    targetId: ETH
+-
+    symbol: WAVESBCH
+    source: WAVES
+    sourceId: WAVES
+    target: BCH
+    targetId: BCH
+-
+    symbol: REPUSDT
+    source: REP
+    sourceId: REP
+    target: USD
+    targetId: USD
+-
+    symbol: LAMBBTC
+    source: LAMB
+    sourceId: LAMB
+    target: BTC
+    targetId: BTC
+-
+    symbol: WAXPBTC
+    source: WAXP
+    sourceId: WAXP
+    target: BTC
+    targetId: BTC
+-
+    symbol: NPXSBTC
+    source: NPXS
+    sourceId: NPXS
+    target: BTC
+    targetId: BTC
+-
+    symbol: WAXPETH
+    source: WAXP
+    sourceId: WAXP
+    target: ETH
+    targetId: ETH
+-
+    symbol: HBARBTC
+    source: HBAR
+    sourceId: HBAR
+    target: BTC
+    targetId: BTC
+-
+    symbol: WAXPUSD
+    source: WAXP
+    sourceId: WAXP
+    target: USD
+    targetId: USD
+-
+    symbol: HBARUSD
+    source: HBAR
+    sourceId: HBAR
+    target: USD
+    targetId: USD
+-
+    symbol: ONEBTC
+    source: ONE
+    sourceId: ONE
+    target: BTC
+    targetId: BTC
+-
+    symbol: RFRBTC
+    source: RFR
+    sourceId: RFR
+    target: BTC
+    targetId: BTC
+-
+    symbol: RFRUSD
+    source: RFR
+    sourceId: RFR
+    target: USD
+    targetId: USD
+-
+    symbol: C20BTC
+    source: C20
+    sourceId: C20
+    target: BTC
+    targetId: BTC
+-
+    symbol: C20ETH
+    source: C20
+    sourceId: C20
+    target: ETH
+    targetId: ETH
+-
+    symbol: IDHBTC
+    source: IDH
+    sourceId: IDH
+    target: BTC
+    targetId: BTC
+-
+    symbol: IDHETH
+    source: IDH
+    sourceId: IDH
+    target: ETH
+    targetId: ETH
+-
+    symbol: IPLBTC
+    source: IPL
+    sourceId: IPL
+    target: BTC
+    targetId: BTC
+-
+    symbol: COVBTC
+    source: COV
+    sourceId: COV
+    target: BTC
+    targetId: BTC
+-
+    symbol: BUSDUSD
+    source: BUSD
+    sourceId: BUSD
+    target: USD
+    targetId: USD
+-
+    symbol: COVETH
+    source: COV
+    sourceId: COV
+    target: ETH
+    targetId: ETH
+-
+    symbol: PAXGBTC
+    source: PAXG
+    sourceId: PAXG
+    target: BTC
+    targetId: BTC
+-
+    symbol: SENTBTC
+    source: SENT
+    sourceId: SENT
+    target: BTC
+    targetId: BTC
+-
+    symbol: PAXGUSD
+    source: PAXG
+    sourceId: PAXG
+    target: USD
+    targetId: USD
+-
+    symbol: SENTETH
+    source: SENT
+    sourceId: SENT
+    target: ETH
+    targetId: ETH
+-
+    symbol: RENBTC
+    source: REN
+    sourceId: REN
+    target: BTC
+    targetId: BTC
+-
+    symbol: SENTUSD
+    source: SENT
+    sourceId: SENT
+    target: USD
+    targetId: USD
+-
+    symbol: CELBTC
+    source: CEL
+    sourceId: CEL
+    target: BTC
+    targetId: BTC
+-
+    symbol: SMTBTC
+    source: SMT
+    sourceId: SMT
+    target: BTC
+    targetId: BTC
+-
+    symbol: CELETH
+    source: CEL
+    sourceId: CEL
+    target: ETH
+    targetId: ETH
+-
+    symbol: SMTETH
+    source: SMT
+    sourceId: SMT
+    target: ETH
+    targetId: ETH
+-
+    symbol: SMTUSD
+    source: SMT
+    sourceId: SMT
+    target: USD
+    targetId: USD
+-
+    symbol: WINUSD
+    source: WIN
+    sourceId: WIN
+    target: USD
+    targetId: USD
+-
+    symbol: ADKBTC
+    source: ADK
+    sourceId: ADK
+    target: BTC
+    targetId: BTC
+-
+    symbol: PARTBTC
+    source: PART
+    sourceId: PART
+    target: BTC
+    targetId: BTC
+-
+    symbol: ADABCH
+    source: ADA
+    sourceId: ADA
+    target: BCH
+    targetId: BCH
+-
+    symbol: ONTBCH
+    source: ONT
+    sourceId: ONT
+    target: BCH
+    targetId: BCH
+-
+    symbol: XMRBCH
+    source: XMR
+    sourceId: XMR
+    target: BCH
+    targetId: BCH
+-
+    symbol: ATOMBCH
+    source: ATOM
+    sourceId: ATOM
+    target: BCH
+    targetId: BCH
+-
+    symbol: LINKBCH
+    source: LINK
+    sourceId: LINK
+    target: BCH
+    targetId: BCH
+-
+    symbol: OMGBCH
+    source: OMG
+    sourceId: OMG
+    target: BCH
+    targetId: BCH
+-
+    symbol: CHATBTC
+    source: CHAT
+    sourceId: CHAT
+    target: BTC
+    targetId: BTC
+-
+    symbol: CHATETH
+    source: CHAT
+    sourceId: CHAT
+    target: ETH
+    targetId: ETH
+-
+    symbol: CHATUSD
+    source: CHAT
+    sourceId: CHAT
+    target: USD
+    targetId: USD
+-
+    symbol: IOTXBTC
+    source: IOTX
+    sourceId: IOTX
+    target: BTC
+    targetId: BTC
+-
+    symbol: HOTBTC
+    source: HOT
+    sourceId: HOT
+    target: BTC
+    targetId: BTC
+-
+    symbol: TRACETH
+    source: TRAC
+    sourceId: TRAC
+    target: ETH
+    targetId: ETH
+-
+    symbol: JNTETH
+    source: JNT
+    sourceId: JNT
+    target: ETH
+    targetId: ETH
+-
+    symbol: HEDGBTC
+    source: HEDG
+    sourceId: HEDG
+    target: BTC
+    targetId: BTC
+-
+    symbol: CHZBTC
+    source: CHZ
+    sourceId: CHZ
+    target: BTC
+    targetId: BTC
+-
+    symbol: UTKBTC
+    source: UTK
+    sourceId: UTK
+    target: BTC
+    targetId: BTC
+-
+    symbol: CHZUSD
+    source: CHZ
+    sourceId: CHZ
+    target: USD
+    targetId: USD
+-
+    symbol: UTKETH
+    source: UTK
+    sourceId: UTK
+    target: ETH
+    targetId: ETH
+-
+    symbol: UTKUSD
+    source: UTK
+    sourceId: UTK
+    target: USD
+    targetId: USD
+-
+    symbol: GNXETH
+    source: GNX
+    sourceId: GNX
+    target: ETH
+    targetId: ETH
+-
+    symbol: CHSBBTC
+    source: CHSB
+    sourceId: CHSB
+    target: BTC
+    targetId: BTC
+-
+    symbol: COCOSBTC
+    source: COCOS
+    sourceId: COCOS
+    target: BTC
+    targetId: BTC
+-
+    symbol: CHSBETH
+    source: CHSB
+    sourceId: CHSB
+    target: ETH
+    targetId: ETH
+-
+    symbol: COCOSUSD
+    source: COCOS
+    sourceId: COCOS
+    target: USD
+    targetId: USD
+-
+    symbol: SEELEBTC
+    source: SEELE
+    sourceId: SEELE
+    target: BTC
+    targetId: BTC
+-
+    symbol: DAYBTC
+    source: DAY
+    sourceId: DAY
+    target: BTC
+    targetId: BTC
+-
+    symbol: SEELEUSD
+    source: SEELE
+    sourceId: SEELE
+    target: USD
+    targetId: USD
+-
+    symbol: DAYETH
+    source: DAY
+    sourceId: DAY
+    target: ETH
+    targetId: ETH
+-
+    symbol: DAYUSD
+    source: DAY
+    sourceId: DAY
+    target: USD
+    targetId: USD
+-
+    symbol: MDABTC
+    source: MDA
+    sourceId: MDA
+    target: BTC
+    targetId: BTC
+-
+    symbol: NEUBTC
+    source: NEU
+    sourceId: NEU
+    target: BTC
+    targetId: BTC
+-
+    symbol: LEOUSD
+    source: LEO
+    sourceId: LEO
+    target: USD
+    targetId: USD
+-
+    symbol: NEUETH
+    source: NEU
+    sourceId: NEU
+    target: ETH
+    targetId: ETH
+-
+    symbol: REMBTC
+    source: REM
+    sourceId: REM
+    target: BTC
+    targetId: BTC
+-
+    symbol: NEUUSD
+    source: NEU
+    sourceId: NEU
+    target: USD
+    targetId: USD
+-
+    symbol: REMETH
+    source: REM
+    sourceId: REM
+    target: ETH
+    targetId: ETH
+-
+    symbol: REMUSD
+    source: REM
+    sourceId: REM
+    target: USD
+    targetId: USD
+-
+    symbol: TAUBTC
+    source: TAU
+    sourceId: TAU
+    target: BTC
+    targetId: BTC
+-
+    symbol: FLPBTC
+    source: FLP
+    sourceId: FLP
+    target: BTC
+    targetId: BTC
+-
+    symbol: FLPETH
+    source: FLP
+    sourceId: FLP
+    target: ETH
+    targetId: ETH
+-
+    symbol: FLPUSD
+    source: FLP
+    sourceId: FLP
+    target: USD
+    targetId: USD
+-
+    symbol: BTCBUSD
+    source: BTC
+    sourceId: BTC
+    target: BUSD
+    targetId: BUSD
+-
+    symbol: EKOUSDT
+    source: EKO
+    sourceId: EKO
+    target: USD
+    targetId: USD
+-
+    symbol: BCPTETH
+    source: BCPT
+    sourceId: BCPT
+    target: ETH
+    targetId: ETH
+-
+    symbol: RVNBTC
+    source: RVN
+    sourceId: RVN
+    target: BTC
+    targetId: BTC
+-
+    symbol: BCPTUSDT
+    source: BCPT
+    sourceId: BCPT
+    target: USD
+    targetId: USD
+-
+    symbol: PKTBTC
+    source: PKT
+    sourceId: PKT
+    target: BTC
+    targetId: BTC
+-
+    symbol: PKTETH
+    source: PKT
+    sourceId: PKT
+    target: ETH
+    targetId: ETH
+-
+    symbol: BSTBTC
+    source: BST
+    sourceId: BST
+    target: BTC
+    targetId: BTC
+-
+    symbol: ERDBTC
+    source: ERD
+    sourceId: ERD
+    target: BTC
+    targetId: BTC
+-
+    symbol: KRLBTC
+    source: KRL
+    sourceId: KRL
+    target: BTC
+    targetId: BTC
+-
+    symbol: FTTBTC
+    source: FTT
+    sourceId: FTT
+    target: BTC
+    targetId: BTC
+-
+    symbol: FTTUSD
+    source: FTT
+    sourceId: FTT
+    target: USD
+    targetId: USD
+-
+    symbol: RAISEBTC
+    source: RAISE
+    sourceId: RAISE
+    target: BTC
+    targetId: BTC
+-
+    symbol: RAISEETH
+    source: RAISE
+    sourceId: RAISE
+    target: ETH
+    targetId: ETH
+-
+    symbol: NAVBTC
+    source: NAV
+    sourceId: NAV
+    target: BTC
+    targetId: BTC
+-
+    symbol: NAVUSD
+    source: NAV
+    sourceId: NAV
+    target: USD
+    targetId: USD
+-
+    symbol: PADUSD
+    source: PAD
+    sourceId: PAD
+    target: USD
+    targetId: USD
+-
+    symbol: AVABTC
+    source: AVA
+    sourceId: AVA
+    target: BTC
+    targetId: BTC
+-
+    symbol: AVAETH
+    source: AVA
+    sourceId: AVA
+    target: ETH
+    targetId: ETH
+-
+    symbol: AVAUSD
+    source: AVA
+    sourceId: AVA
+    target: USD
+    targetId: USD
+-
+    symbol: PLBTETH
+    source: PLBT
+    sourceId: PLBT
+    target: ETH
+    targetId: ETH
+-
+    symbol: CHPETH
+    source: CHP
+    sourceId: CHP
+    target: ETH
+    targetId: ETH
+-
+    symbol: BCPTBTC
+    source: BCPT
+    sourceId: BCPT
+    target: BTC
+    targetId: BTC
+-
+    symbol: ACTBTC
+    source: ACT
+    sourceId: ACT
+    target: BTC
+    targetId: BTC
+-
+    symbol: APLUSD
+    source: APL
+    sourceId: APL
+    target: USD
+    targetId: USD
+-
+    symbol: ACTETH
+    source: ACT
+    sourceId: ACT
+    target: ETH
+    targetId: ETH
+-
+    symbol: ACTUSD
+    source: ACT
+    sourceId: ACT
+    target: USD
+    targetId: USD
+-
+    symbol: ETHBNTBTC
+    source: ETHBNT
+    sourceId: ETHBNT
+    target: BTC
+    targetId: BTC
+-
+    symbol: USDIDRT
+    source: USD
+    sourceId: USD
+    target: IDRT
+    targetId: IDRT
+-
+    symbol: ADABTC
+    source: ADA
+    sourceId: ADA
+    target: BTC
+    targetId: BTC
+-
+    symbol: MINBTC
+    source: MIN
+    sourceId: MIN
+    target: BTC
+    targetId: BTC
+-
+    symbol: ADAETH
+    source: ADA
+    sourceId: ADA
+    target: ETH
+    targetId: ETH
+-
+    symbol: GTBTC
+    source: GT
+    sourceId: GT
+    target: BTC
+    targetId: BTC
+-
+    symbol: ADAUSD
+    source: ADA
+    sourceId: ADA
+    target: USD
+    targetId: USD
+-
+    symbol: SIGBTC
+    source: SIG
+    sourceId: SIG
+    target: BTC
+    targetId: BTC
+-
+    symbol: MATICBTC
+    source: MATIC
+    sourceId: MATIC
+    target: BTC
+    targetId: BTC
+-
+    symbol: SOLVEBTC
+    source: SOLVE
+    sourceId: SOLVE
+    target: BTC
+    targetId: BTC
+-
+    symbol: MTXBTC
+    source: MTX
+    sourceId: MTX
+    target: BTC
+    targetId: BTC
+-
+    symbol: MTXETH
+    source: MTX
+    sourceId: MTX
+    target: ETH
+    targetId: ETH
+-
+    symbol: MTXUSD
+    source: MTX
+    sourceId: MTX
+    target: USD
+    targetId: USD
+-
+    symbol: NWCUSD
+    source: NWC
+    sourceId: NWC
+    target: USD
+    targetId: USD
+-
+    symbol: NWCBTC
+    source: NWC
+    sourceId: NWC
+    target: BTC
+    targetId: BTC
+-
+    symbol: BDGETH
+    source: BDG
+    sourceId: BDG
+    target: ETH
+    targetId: ETH
+-
+    symbol: BDPBTC
+    source: BDP
+    sourceId: BDP
+    target: BTC
+    targetId: BTC
+-
+    symbol: DATXBTC
+    source: DATX
+    sourceId: DATX
+    target: BTC
+    targetId: BTC
+-
+    symbol: BDPETH
+    source: BDP
+    sourceId: BDP
+    target: ETH
+    targetId: ETH
+-
+    symbol: DATXETH
+    source: DATX
+    sourceId: DATX
+    target: ETH
+    targetId: ETH
+-
+    symbol: TRUEBTC
+    source: 'TRUE'
+    sourceId: 'TRUE'
+    target: BTC
+    targetId: BTC
+-
+    symbol: DRGBTC
+    source: DRG
+    sourceId: DRG
+    target: BTC
+    targetId: BTC
+-
+    symbol: DRGETH
+    source: DRG
+    sourceId: DRG
+    target: ETH
+    targetId: ETH
+-
+    symbol: BANCABTC
+    source: BANCA
+    sourceId: BANCA
+    target: BTC
+    targetId: BTC
+-
+    symbol: BANCAETH
+    source: BANCA
+    sourceId: BANCA
+    target: ETH
+    targetId: ETH
+-
+    symbol: ZAPETH
+    source: ZAP
+    sourceId: ZAP
+    target: ETH
+    targetId: ETH
+-
+    symbol: ZAPUSD
+    source: ZAP
+    sourceId: ZAP
+    target: USD
+    targetId: USD
+-
+    symbol: AUTOBTC
+    source: AUTO
+    sourceId: AUTO
+    target: BTC
+    targetId: BTC
+-
+    symbol: SOCBTC
+    source: SOC
+    sourceId: SOC
+    target: BTC
+    targetId: BTC
+-
+    symbol: OCNBTC
+    source: OCN
+    sourceId: OCN
+    target: BTC
+    targetId: BTC
+-
+    symbol: OCNETH
+    source: OCN
+    sourceId: OCN
+    target: ETH
+    targetId: ETH
+-
+    symbol: BDPUSD
+    source: BDP
+    sourceId: BDP
+    target: USD
+    targetId: USD
+-
+    symbol: XLMBTC
+    source: XLM
+    sourceId: XLM
+    target: BTC
+    targetId: BTC
+-
+    symbol: CELRBTC
+    source: CELR
+    sourceId: CELR
+    target: BTC
+    targetId: BTC
+-
+    symbol: XLMETH
+    source: XLM
+    sourceId: XLM
+    target: ETH
+    targetId: ETH
+-
+    symbol: XLMUSD
+    source: XLM
+    sourceId: XLM
+    target: USD
+    targetId: USD
+-
+    symbol: IOTABTC
+    source: IOTA
+    sourceId: IOTA
+    target: BTC
+    targetId: BTC
+-
+    symbol: IOTAETH
+    source: IOTA
+    sourceId: IOTA
+    target: ETH
+    targetId: ETH
+-
+    symbol: VSYSBTC
+    source: VSYS
+    sourceId: VSYS
+    target: BTC
+    targetId: BTC
+-
+    symbol: IOTAUSD
+    source: IOTA
+    sourceId: IOTA
+    target: USD
+    targetId: USD
+-
+    symbol: VSYSUSD
+    source: VSYS
+    sourceId: VSYS
+    target: USD
+    targetId: USD
+-
+    symbol: DRTBTC
+    source: DRT
+    sourceId: DRT
+    target: BTC
+    targetId: BTC
+-
+    symbol: MOFBTC
+    source: MOF
+    sourceId: MOF
+    target: BTC
+    targetId: BTC
+-
+    symbol: EXMBTC
+    source: EXM
+    sourceId: EXM
+    target: BTC
+    targetId: BTC
+-
+    symbol: ERTBTC
+    source: ERT
+    sourceId: ERT
+    target: BTC
+    targetId: BTC
+-
+    symbol: ROOBEEBTC
+    source: ROOBEE
+    sourceId: ROOBEE
+    target: BTC
+    targetId: BTC
+-
+    symbol: CRPTBTC
+    source: CRPT
+    sourceId: CRPT
+    target: BTC
+    targetId: BTC
+-
+    symbol: CRPTUSD
+    source: CRPT
+    sourceId: CRPT
+    target: USD
+    targetId: USD
+-
+    symbol: MESHBTC
+    source: MESH
+    sourceId: MESH
+    target: BTC
+    targetId: BTC
+-
+    symbol: MESHETH
+    source: MESH
+    sourceId: MESH
+    target: ETH
+    targetId: ETH
+-
+    symbol: IPXBTC
+    source: IPX
+    sourceId: IPX
+    target: BTC
+    targetId: BTC
+-
+    symbol: MESHUSD
+    source: MESH
+    sourceId: MESH
+    target: USD
+    targetId: USD
+-
+    symbol: IPXUSD
+    source: IPX
+    sourceId: IPX
+    target: USD
+    targetId: USD
+-
+    symbol: IHTBTC
+    source: IHT
+    sourceId: IHT
+    target: BTC
+    targetId: BTC
+-
+    symbol: ARPABTC
+    source: ARPA
+    sourceId: ARPA
+    target: BTC
+    targetId: BTC
+-
+    symbol: IHTETH
+    source: IHT
+    sourceId: IHT
+    target: ETH
+    targetId: ETH
+-
+    symbol: ARPAUSD
+    source: ARPA
+    sourceId: ARPA
+    target: USD
+    targetId: USD
+-
+    symbol: IHTUSD
+    source: IHT
+    sourceId: IHT
+    target: USD
+    targetId: USD
+-
+    symbol: SCCBTC
+    source: SCC
+    sourceId: SCC
+    target: BTC
+    targetId: BTC
+-
+    symbol: UBTBTC
+    source: UBT
+    sourceId: UBT
+    target: BTC
+    targetId: BTC
+-
+    symbol: YCCBTC
+    source: YCC
+    sourceId: YCC
+    target: BTC
+    targetId: BTC
+-
+    symbol: TELBTC
+    source: TEL
+    sourceId: TEL
+    target: BTC
+    targetId: BTC
+-
+    symbol: EMRXBTC
+    source: EMRX
+    sourceId: EMRX
+    target: BTC
+    targetId: BTC
+-
+    symbol: TELETH
+    source: TEL
+    sourceId: TEL
+    target: ETH
+    targetId: ETH
+-
+    symbol: OKBBTC
+    source: OKB
+    sourceId: OKB
+    target: BTC
+    targetId: BTC
+-
+    symbol: ALGOBTC
+    source: ALGO
+    sourceId: ALGO
+    target: BTC
+    targetId: BTC
+-
+    symbol: ALGOETH
+    source: ALGO
+    sourceId: ALGO
+    target: ETH
+    targetId: ETH
+-
+    symbol: ALGOUSD
+    source: ALGO
+    sourceId: ALGO
+    target: USD
+    targetId: USD
+-
+    symbol: IDRTBTC
+    source: IDRT
+    sourceId: IDRT
+    target: BTC
+    targetId: BTC
+-
+    symbol: VITAEBTC
+    source: VITAE
+    sourceId: VITAE
+    target: BTC
+    targetId: BTC
+-
+    symbol: APMBTC
+    source: APM
+    sourceId: APM
+    target: BTC
+    targetId: BTC
+-
+    symbol: NCTBTC
+    source: NCT
+    sourceId: NCT
+    target: BTC
+    targetId: BTC
+-
+    symbol: NCTETH
+    source: NCT
+    sourceId: NCT
+    target: ETH
+    targetId: ETH
+-
+    symbol: USGBTC
+    source: USG
+    sourceId: USG
+    target: BTC
+    targetId: BTC
+-
+    symbol: NCTUSD
+    source: NCT
+    sourceId: NCT
+    target: USD
+    targetId: USD
+-
+    symbol: USGETH
+    source: USG
+    sourceId: USG
+    target: ETH
+    targetId: ETH
+-
+    symbol: BMHBTC
+    source: BMH
+    sourceId: BMH
+    target: BTC
+    targetId: BTC
+-
+    symbol: USGUSD
+    source: USG
+    sourceId: USG
+    target: USD
+    targetId: USD
+-
+    symbol: BANCAUSD
+    source: BANCA
+    sourceId: BANCA
+    target: USD
+    targetId: USD
+-
+    symbol: BERRYBTC
+    source: BERRY
+    sourceId: BERRY
+    target: BTC
+    targetId: BTC
+-
+    symbol: BERRYETH
+    source: BERRY
+    sourceId: BERRY
+    target: ETH
+    targetId: ETH
+-
+    symbol: BERRYUSD
+    source: BERRY
+    sourceId: BERRY
+    target: USD
+    targetId: USD
+-
+    symbol: GBXBTC
+    source: GBX
+    sourceId: GBX
+    target: BTC
+    targetId: BTC
+-
+    symbol: GBXETH
+    source: GBX
+    sourceId: GBX
+    target: ETH
+    targetId: ETH
+-
+    symbol: GBXUSD
+    source: GBX
+    sourceId: GBX
+    target: USD
+    targetId: USD
+-
+    symbol: SHIPBTC
+    source: SHIP
+    sourceId: SHIP
+    target: BTC
+    targetId: BTC
+-
+    symbol: SHIPETH
+    source: SHIP
+    sourceId: SHIP
+    target: ETH
+    targetId: ETH
+-
+    symbol: NANOBTC
+    source: NANO
+    sourceId: NANO
+    target: BTC
+    targetId: BTC
+-
+    symbol: NANOETH
+    source: NANO
+    sourceId: NANO
+    target: ETH
+    targetId: ETH
+-
+    symbol: NANOUSD
+    source: NANO
+    sourceId: NANO
+    target: USD
+    targetId: USD
+-
+    symbol: LNCBTC
+    source: LNC
+    sourceId: LNC
+    target: BTC
+    targetId: BTC
+-
+    symbol: KINETH
+    source: KIN
+    sourceId: KIN
+    target: ETH
+    targetId: ETH
+-
+    symbol: ARDRUSD
+    source: ARDR
+    sourceId: ARDR
+    target: USD
+    targetId: USD
+-
+    symbol: FOTAETH
+    source: FOTA
+    sourceId: FOTA
+    target: ETH
+    targetId: ETH
+-
+    symbol: FOTABTC
+    source: FOTA
+    sourceId: FOTA
+    target: BTC
+    targetId: BTC
+-
+    symbol: CVTBTC
+    source: CVT
+    sourceId: CVT
+    target: BTC
+    targetId: BTC
+-
+    symbol: CVTETH
+    source: CVT
+    sourceId: CVT
+    target: ETH
+    targetId: ETH
+-
+    symbol: CVTUSD
+    source: CVT
+    sourceId: CVT
+    target: USD
+    targetId: USD
+-
+    symbol: GNTBTC
+    source: GNT
+    sourceId: GNT
+    target: BTC
+    targetId: BTC
+-
+    symbol: GNTETH
+    source: GNT
+    sourceId: GNT
+    target: ETH
+    targetId: ETH
+-
+    symbol: GNTUSD
+    source: GNT
+    sourceId: GNT
+    target: USD
+    targetId: USD
+-
+    symbol: POSTUSD
+    source: POST
+    sourceId: POST
+    target: USD
+    targetId: USD
+-
+    symbol: BSVBCH
+    source: BSV
+    sourceId: BSV
+    target: BCH
+    targetId: BCH
+-
+    symbol: GETBTC
+    source: GET
+    sourceId: GET
+    target: BTC
+    targetId: BTC
+-
+    symbol: MITHBTC
+    source: MITH
+    sourceId: MITH
+    target: BTC
+    targetId: BTC
+-
+    symbol: MITHETH
+    source: MITH
+    sourceId: MITH
+    target: ETH
+    targetId: ETH
+-
+    symbol: TRIGXBTC
+    source: TRIGX
+    sourceId: TRIGX
+    target: BTC
+    targetId: BTC
+-
+    symbol: MITHUSD
+    source: MITH
+    sourceId: MITH
+    target: USD
+    targetId: USD
+-
+    symbol: IQBTC
+    source: IQ
+    sourceId: IQ
+    target: BTC
+    targetId: BTC
+-
+    symbol: IQUSD
+    source: IQ
+    sourceId: IQ
+    target: USD
+    targetId: USD
+-
+    symbol: XNSBTC
+    source: XNS
+    sourceId: XNS
+    target: BTC
+    targetId: BTC
+-
+    symbol: XNSUSD
+    source: XNS
+    sourceId: XNS
+    target: USD
+    targetId: USD
+-
+    symbol: DRGNBTC
+    source: DRGN
+    sourceId: DRGN
+    target: BTC
+    targetId: BTC
+-
+    symbol: REVBTC
+    source: REV
+    sourceId: REV
+    target: BTC
+    targetId: BTC
+-
+    symbol: REVUSD
+    source: REV
+    sourceId: REV
+    target: USD
+    targetId: USD
+-
+    symbol: SOLOUSD
+    source: SOLO
+    sourceId: SOLO
+    target: USD
+    targetId: USD
+-
+    symbol: SENSOUSD
+    source: SENSO
+    sourceId: SENSO
+    target: USD
+    targetId: USD
+-
+    symbol: CURBTC
+    source: CUR
+    sourceId: CUR
+    target: BTC
+    targetId: BTC
+-
+    symbol: CURETH
+    source: CUR
+    sourceId: CUR
+    target: ETH
+    targetId: ETH
+-
+    symbol: CURUSD
+    source: CUR
+    sourceId: CUR
+    target: USD
+    targetId: USD
+-
+    symbol: LAVABTC
+    source: LAVA
+    sourceId: LAVA
+    target: BTC
+    targetId: BTC
+-
+    symbol: CUREBTC
+    source: CURE
+    sourceId: CURE
+    target: BTC
+    targetId: BTC
+-
+    symbol: AYABTC
+    source: AYA
+    sourceId: AYA
+    target: BTC
+    targetId: BTC
+-
+    symbol: AYAUSD
+    source: AYA
+    sourceId: AYA
+    target: USD
+    targetId: USD
+-
+    symbol: HEDGUSD
+    source: HEDG
+    sourceId: HEDG
+    target: USD
+    targetId: USD
+-
+    symbol: XPRBTC
+    source: XPR
+    sourceId: XPR
+    target: BTC
+    targetId: BTC
+-
+    symbol: XPRETH
+    source: XPR
+    sourceId: XPR
+    target: ETH
+    targetId: ETH
+-
+    symbol: XPRUSD
+    source: XPR
+    sourceId: XPR
+    target: USD
+    targetId: USD
+-
+    symbol: ERKBTC
+    source: ERK
+    sourceId: ERK
+    target: BTC
+    targetId: BTC
+-
+    symbol: TKYBTC
+    source: TKY
+    sourceId: TKY
+    target: BTC
+    targetId: BTC
+-
+    symbol: ERKETH
+    source: ERK
+    sourceId: ERK
+    target: ETH
+    targetId: ETH
+-
+    symbol: ACATBTC
+    source: ACAT
+    sourceId: ACAT
+    target: BTC
+    targetId: BTC
+-
+    symbol: ERKUSD
+    source: ERK
+    sourceId: ERK
+    target: USD
+    targetId: USD
+-
+    symbol: ACATETH
+    source: ACAT
+    sourceId: ACAT
+    target: ETH
+    targetId: ETH
+-
+    symbol: NRGBTC
+    source: NRG
+    sourceId: NRG
+    target: BTC
+    targetId: BTC
+-
+    symbol: ACATUSD
+    source: ACAT
+    sourceId: ACAT
+    target: USD
+    targetId: USD
+-
+    symbol: TNCBTC
+    source: TNC
+    sourceId: TNC
+    target: BTC
+    targetId: BTC
+-
+    symbol: BTXUSD
+    source: BTX
+    sourceId: BTX
+    target: USD
+    targetId: USD
+-
+    symbol: TNCUSD
+    source: TNC
+    sourceId: TNC
+    target: USD
+    targetId: USD
+-
+    symbol: DNABTC
+    source: DNA
+    sourceId: DNA
+    target: BTC
+    targetId: BTC
+-
+    symbol: BTCSHORTUSD
+    source: BTCSHORT
+    sourceId: BTCSHORT
+    target: USD
+    targetId: USD
+-
+    symbol: LCXBTC
+    source: LCX
+    sourceId: LCX
+    target: BTC
+    targetId: BTC
+-
+    symbol: WIKIBTC
+    source: WIKI
+    sourceId: WIKI
+    target: BTC
+    targetId: BTC
+-
+    symbol: LCXETH
+    source: LCX
+    sourceId: LCX
+    target: ETH
+    targetId: ETH
+-
+    symbol: WIKIETH
+    source: WIKI
+    sourceId: WIKI
+    target: ETH
+    targetId: ETH
+-
+    symbol: KAVABTC
+    source: KAVA
+    sourceId: KAVA
+    target: BTC
+    targetId: BTC
+-
+    symbol: WIKIUSD
+    source: WIKI
+    sourceId: WIKI
+    target: USD
+    targetId: USD
+-
+    symbol: ONTBTC
+    source: ONT
+    sourceId: ONT
+    target: BTC
+    targetId: BTC
+-
+    symbol: AERGOBTC
+    source: AERGO
+    sourceId: AERGO
+    target: BTC
+    targetId: BTC
+-
+    symbol: ONTETH
+    source: ONT
+    sourceId: ONT
+    target: ETH
+    targetId: ETH
+-
+    symbol: JSTUSD
+    source: JST
+    sourceId: JST
+    target: USD
+    targetId: USD
+-
+    symbol: ONTUSD
+    source: ONT
+    sourceId: ONT
+    target: USD
+    targetId: USD
+-
+    symbol: SOLOBTC
+    source: SOLO
+    sourceId: SOLO
+    target: BTC
+    targetId: BTC
+-
+    symbol: CVCOINBTC
+    source: CVCOIN
+    sourceId: CVCOIN
+    target: BTC
+    targetId: BTC
+-
+    symbol: CVCOINETH
+    source: CVCOIN
+    sourceId: CVCOIN
+    target: ETH
+    targetId: ETH
+-
+    symbol: ESHBTC
+    source: ESH
+    sourceId: ESH
+    target: BTC
+    targetId: BTC
+-
+    symbol: CVCOINUSD
+    source: CVCOIN
+    sourceId: CVCOIN
+    target: USD
+    targetId: USD
+-
+    symbol: FTXBTC
+    source: FTX
+    sourceId: FTX
+    target: BTC
+    targetId: BTC
+-
+    symbol: FTXETH
+    source: FTX
+    sourceId: FTX
+    target: ETH
+    targetId: ETH
+-
+    symbol: LEVLBTC
+    source: LEVL
+    sourceId: LEVL
+    target: BTC
+    targetId: BTC
+-
+    symbol: LNDETH
+    source: LND
+    sourceId: LND
+    target: ETH
+    targetId: ETH
+-
+    symbol: GHOSTUSD
+    source: GHOST
+    sourceId: GHOST
+    target: USD
+    targetId: USD
+-
+    symbol: GHOSTBTC
+    source: GHOST
+    sourceId: GHOST
+    target: BTC
+    targetId: BTC
+-
+    symbol: HEXBTC
+    source: HEX
+    sourceId: HEX
+    target: BTC
+    targetId: BTC
+-
+    symbol: MBLUSD
+    source: MBL
+    sourceId: MBL
+    target: USD
+    targetId: USD
+-
+    symbol: NTKBTC
+    source: NTK
+    sourceId: NTK
+    target: BTC
+    targetId: BTC
+-
+    symbol: NTKETH
+    source: NTK
+    sourceId: NTK
+    target: ETH
+    targetId: ETH
+-
+    symbol: NTKUSD
+    source: NTK
+    sourceId: NTK
+    target: USD
+    targetId: USD
+-
+    symbol: AUCBTC
+    source: AUC
+    sourceId: AUC
+    target: BTC
+    targetId: BTC
+-
+    symbol: AUCETH
+    source: AUC
+    sourceId: AUC
+    target: ETH
+    targetId: ETH
+-
+    symbol: CMCTBTC
+    source: CMCT
+    sourceId: CMCT
+    target: BTC
+    targetId: BTC
+-
+    symbol: CMCTETH
+    source: CMCT
+    sourceId: CMCT
+    target: ETH
+    targetId: ETH
+-
+    symbol: CMCTUSD
+    source: CMCT
+    sourceId: CMCT
+    target: USD
+    targetId: USD
+-
+    symbol: MANBTC
+    source: MAN
+    sourceId: MAN
+    target: BTC
+    targetId: BTC
+-
+    symbol: MANETH
+    source: MAN
+    sourceId: MAN
+    target: ETH
+    targetId: ETH
+-
+    symbol: MANUSD
+    source: MAN
+    sourceId: MAN
+    target: USD
+    targetId: USD
+-
+    symbol: DAPSBTC
+    source: DAPS
+    sourceId: DAPS
+    target: BTC
+    targetId: BTC
+-
+    symbol: PNTBTC
+    source: PNT
+    sourceId: PNT
+    target: BTC
+    targetId: BTC
+-
+    symbol: PNTETH
+    source: PNT
+    sourceId: PNT
+    target: ETH
+    targetId: ETH
+-
+    symbol: FXTBTC
+    source: FXT
+    sourceId: FXT
+    target: BTC
+    targetId: BTC
+-
+    symbol: NEXOBTC
+    source: NEXO
+    sourceId: NEXO
+    target: BTC
+    targetId: BTC
+-
+    symbol: BTBBTC
+    source: BTB
+    sourceId: BTB
+    target: BTC
+    targetId: BTC
+-
+    symbol: XPNTBTC
+    source: XPNT
+    sourceId: XPNT
+    target: BTC
+    targetId: BTC
+-
+    symbol: XPNTETH
+    source: XPNT
+    sourceId: XPNT
+    target: ETH
+    targetId: ETH
+-
+    symbol: XPNTUSD
+    source: XPNT
+    sourceId: XPNT
+    target: USD
+    targetId: USD
+-
+    symbol: ECABTC
+    source: ECA
+    sourceId: ECA
+    target: BTC
+    targetId: BTC
+-
+    symbol: ECAETH
+    source: ECA
+    sourceId: ECA
+    target: ETH
+    targetId: ETH
+-
+    symbol: XMCBTC
+    source: XMC
+    sourceId: XMC
+    target: BTC
+    targetId: BTC
+-
+    symbol: ECAUSD
+    source: ECA
+    sourceId: ECA
+    target: USD
+    targetId: USD
+-
+    symbol: GLEECBTC
+    source: GLEEC
+    sourceId: GLEEC
+    target: BTC
+    targetId: BTC
+-
+    symbol: COMPBTC
+    source: COMP
+    sourceId: COMP
+    target: BTC
+    targetId: BTC
+-
+    symbol: COMPETH
+    source: COMP
+    sourceId: COMP
+    target: ETH
+    targetId: ETH
+-
+    symbol: COMPUSD
+    source: COMP
+    sourceId: COMP
+    target: USD
+    targetId: USD
+-
+    symbol: FXTETH
+    source: FXT
+    sourceId: FXT
+    target: ETH
+    targetId: ETH
+-
+    symbol: XMCETH
+    source: XMC
+    sourceId: XMC
+    target: ETH
+    targetId: ETH
+-
+    symbol: XMCUSDT
+    source: XMC
+    sourceId: XMC
+    target: USD
+    targetId: USD
+-
+    symbol: STMXBTC
+    source: STMX
+    sourceId: STMX
+    target: BTC
+    targetId: BTC
+-
+    symbol: FDZBTC
+    source: FDZ
+    sourceId: FDZ
+    target: BTC
+    targetId: BTC
+-
+    symbol: VLXBTC
+    source: VLX
+    sourceId: VLX
+    target: BTC
+    targetId: BTC
+-
+    symbol: FDZETH
+    source: FDZ
+    sourceId: FDZ
+    target: ETH
+    targetId: ETH
+-
+    symbol: VLXUSD
+    source: VLX
+    sourceId: VLX
+    target: USD
+    targetId: USD
+-
+    symbol: FDZUSD
+    source: FDZ
+    sourceId: FDZ
+    target: USD
+    targetId: USD
+-
+    symbol: AIMBTC
+    source: AIM
+    sourceId: AIM
+    target: BTC
+    targetId: BTC
+-
+    symbol: BIZZBTC
+    source: BIZZ
+    sourceId: BIZZ
+    target: BTC
+    targetId: BTC
+-
+    symbol: BIZZUSD
+    source: BIZZ
+    sourceId: BIZZ
+    target: USD
+    targetId: USD
+-
+    symbol: MITXBTC
+    source: MITX
+    sourceId: MITX
+    target: BTC
+    targetId: BTC
+-
+    symbol: ASIBTC
+    source: ASI
+    sourceId: ASI
+    target: BTC
+    targetId: BTC
+-
+    symbol: FACEBTC
+    source: FACE
+    sourceId: FACE
+    target: BTC
+    targetId: BTC
+-
+    symbol: FACEETH
+    source: FACE
+    sourceId: FACE
+    target: ETH
+    targetId: ETH
+-
+    symbol: XPRMBTC
+    source: XPRM
+    sourceId: XPRM
+    target: BTC
+    targetId: BTC
+-
+    symbol: IHFUSD
+    source: IHF
+    sourceId: IHF
+    target: USD
+    targetId: USD
+-
+    symbol: SYBCBTC
+    source: SYBC
+    sourceId: SYBC
+    target: BTC
+    targetId: BTC
+-
+    symbol: SYBCUSD
+    source: SYBC
+    sourceId: SYBC
+    target: USD
+    targetId: USD
+-
+    symbol: CPTBTC
+    source: CPT
+    sourceId: CPT
+    target: BTC
+    targetId: BTC
+-
+    symbol: LEOBTC
+    source: LEO
+    sourceId: LEO
+    target: BTC
+    targetId: BTC
+-
+    symbol: HTMLBTC
+    source: HTML
+    sourceId: HTML
+    target: BTC
+    targetId: BTC
+-
+    symbol: HTMLETH
+    source: HTML
+    sourceId: HTML
+    target: ETH
+    targetId: ETH
+-
+    symbol: MITXETH
+    source: MITX
+    sourceId: MITX
+    target: ETH
+    targetId: ETH
+-
+    symbol: JSTBTC
+    source: JST
+    sourceId: JST
+    target: BTC
+    targetId: BTC
+-
+    symbol: BRDUSD
+    source: BRD
+    sourceId: BRD
+    target: USD
+    targetId: USD
+-
+    symbol: AABUSD
+    source: AAB
+    sourceId: AAB
+    target: USD
+    targetId: USD
+-
+    symbol: BTSBTC
+    source: BTS
+    sourceId: BTS
+    target: BTC
+    targetId: BTC
+-
+    symbol: BNKBTC
+    source: BNK
+    sourceId: BNK
+    target: BTC
+    targetId: BTC
+-
+    symbol: PANBTC
+    source: PAN
+    sourceId: PAN
+    target: BTC
+    targetId: BTC
+-
+    symbol: BNKETH
+    source: BNK
+    sourceId: BNK
+    target: ETH
+    targetId: ETH
+-
+    symbol: BNKUSD
+    source: BNK
+    sourceId: BNK
+    target: USD
+    targetId: USD
+-
+    symbol: KIMBTC
+    source: KIM
+    sourceId: KIM
+    target: BTC
+    targetId: BTC
+-
+    symbol: DOTUSD
+    source: DOT
+    sourceId: DOT
+    target: USD
+    targetId: USD
+-
+    symbol: DAPPUSD
+    source: DAPP
+    sourceId: DAPP
+    target: USD
+    targetId: USD
+-
+    symbol: INKBTC
+    source: INK
+    sourceId: INK
+    target: BTC
+    targetId: BTC
+-
+    symbol: CKBUSD
+    source: CKB
+    sourceId: CKB
+    target: USD
+    targetId: USD
+-
+    symbol: SPCBTC
+    source: SPC
+    sourceId: SPC
+    target: BTC
+    targetId: BTC
+-
+    symbol: KEYUSD
+    source: KEY
+    sourceId: KEY
+    target: USD
+    targetId: USD
